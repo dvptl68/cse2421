@@ -1,0 +1,88 @@
+DIAGNOSTIC: Successfully opened 16set for input.
+DIAGNOSTIC: 1 balls allocated.
+DIAGNOSTIC: 1 nodes allocated.
+DIAGNOSTIC: 2 balls allocated.
+DIAGNOSTIC: 2 nodes allocated.
+DIAGNOSTIC: 3 balls allocated.
+DIAGNOSTIC: 3 nodes allocated.
+DIAGNOSTIC: 4 balls allocated.
+DIAGNOSTIC: 4 nodes allocated.
+DIAGNOSTIC: 5 balls allocated.
+DIAGNOSTIC: 5 nodes allocated.
+DIAGNOSTIC: 6 balls allocated.
+DIAGNOSTIC: 6 nodes allocated.
+DIAGNOSTIC: 7 balls allocated.
+DIAGNOSTIC: 7 nodes allocated.
+DIAGNOSTIC: 8 balls allocated.
+DIAGNOSTIC: 8 nodes allocated.
+DIAGNOSTIC: 9 balls allocated.
+DIAGNOSTIC: 9 nodes allocated.
+DIAGNOSTIC: 10 balls allocated.
+DIAGNOSTIC: 10 nodes allocated.
+DIAGNOSTIC: 11 balls allocated.
+DIAGNOSTIC: 11 nodes allocated.
+DIAGNOSTIC: 12 balls allocated.
+DIAGNOSTIC: 12 nodes allocated.
+DIAGNOSTIC: 13 balls allocated.
+DIAGNOSTIC: 13 nodes allocated.
+DIAGNOSTIC: 14 balls allocated.
+DIAGNOSTIC: 14 nodes allocated.
+DIAGNOSTIC: 15 balls allocated.
+DIAGNOSTIC: 15 nodes allocated.
+DIAGNOSTIC: 16 balls allocated.
+DIAGNOSTIC: 16 nodes allocated.
+fscanf returned -1
+DIAGNOSTIC: Closed input file 16set.
+
+At time  0.0000:
+Ball # 0 is at (75.000, 26.120) moving (  -1.0000,    0.0000)
+Ball # 1 is at (77.250, 26.120) moving (  -1.0000,    0.0000)
+Ball # 2 is at (79.500, 26.120) moving (  -1.0000,    0.0000)
+Ball # 3 is at (81.750, 26.120) moving (  -1.0000,    0.0000)
+Ball # 4 is at (75.000, 23.880) moving (  -1.0000,    0.0000)
+Ball # 5 is at (77.250, 23.880) moving (  -1.0000,    0.0000)
+Ball # 6 is at (79.500, 23.880) moving (  -1.0000,    0.0000)
+Ball # 7 is at (81.750, 23.880) moving (  -1.0000,    0.0000)
+Ball # 8 is at (75.000, 21.620) moving (  -1.0000,    0.0000)
+Ball # 9 is at (77.250, 21.620) moving (  -1.0000,    0.0000)
+Ball #10 is at (79.500, 21.620) moving (  -1.0000,    0.0000)
+Ball #11 is at (81.750, 21.620) moving (  -1.0000,    0.0000)
+Ball #12 is at (75.000, 19.380) moving (  -1.0000,    0.0000)
+Ball #13 is at (77.250, 19.380) moving (  -1.0000,    0.0000)
+Ball #14 is at (79.500, 19.380) moving (  -1.0000,    0.0000)
+Ball #15 is at (81.750, 19.380) moving (  -1.0000,    0.0000)
+
+Simulation ends at sim elapsed time of  0.0000 seconds.
+DIAGNOSTIC: 1 balls freed.
+DIAGNOSTIC: 1 nodes freed.
+DIAGNOSTIC: 2 balls freed.
+DIAGNOSTIC: 2 nodes freed.
+DIAGNOSTIC: 3 balls freed.
+DIAGNOSTIC: 3 nodes freed.
+DIAGNOSTIC: 4 balls freed.
+DIAGNOSTIC: 4 nodes freed.
+DIAGNOSTIC: 5 balls freed.
+DIAGNOSTIC: 5 nodes freed.
+DIAGNOSTIC: 6 balls freed.
+DIAGNOSTIC: 6 nodes freed.
+DIAGNOSTIC: 7 balls freed.
+DIAGNOSTIC: 7 nodes freed.
+DIAGNOSTIC: 8 balls freed.
+DIAGNOSTIC: 8 nodes freed.
+DIAGNOSTIC: 9 balls freed.
+DIAGNOSTIC: 9 nodes freed.
+DIAGNOSTIC: 10 balls freed.
+DIAGNOSTIC: 10 nodes freed.
+DIAGNOSTIC: 11 balls freed.
+DIAGNOSTIC: 11 nodes freed.
+DIAGNOSTIC: 12 balls freed.
+DIAGNOSTIC: 12 nodes freed.
+DIAGNOSTIC: 13 balls freed.
+DIAGNOSTIC: 13 nodes freed.
+DIAGNOSTIC: 14 balls freed.
+DIAGNOSTIC: 14 nodes freed.
+DIAGNOSTIC: 15 balls freed.
+DIAGNOSTIC: 15 nodes freed.
+DIAGNOSTIC: 16 balls freed.
+DIAGNOSTIC: 16 nodes freed.
+Total run time is 0.181132793 seconds.

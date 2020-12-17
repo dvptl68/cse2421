@@ -1,0 +1,5 @@
+From gcr returnd 0x76543210 when given 0xcee53ed6d7
+From gcr returnd 0xfedcba98 when given 0xd254bf35cf
+From gcr returnd 0x8000000000000000 when given 0x0
+From gcr returnd 0x8000000000000001 when given 0x9
+From gcr returnd 0x8000000000000002 when given 0x1e9

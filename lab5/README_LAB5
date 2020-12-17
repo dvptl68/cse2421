@@ -1,0 +1,9 @@
+THIS IS THE README FILE FOR LAB 5.
+
+BY SUBMITTING THIS FILE TO CARMEN, I CERTIFY THAT I HAVE PERFORMED ALL OF THE WORK TO DETERMINE THE ANSWERS FOUND WITHIN THIS FILE MYSELF WITH NO ASSISTANCE FROM ANY PERSON OTHER THAN THE INSTRUCTOR OF THIS COURSE OR ONE OF OUR UNDERGRADUATE GRADERS.
+
+Dev Patel
+
+I spent about 10 hours total working on this lab - but about 8 of those hours were going through notes, reading documentation, and figuring out how I'm going to structure my code before actually coding.
+I didn't run into any big problems in this lab, but in decode.s, I tried creating the array with bytes rather than quads at first. I quickly found that cmov doesn't work for bytes, so I was forced to use quad.
+

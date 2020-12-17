@@ -1,0 +1,11 @@
+THIS IS THE README FILE FOR LAB 4.
+
+BY SUBMITTING THIS FILE TO CARMEN, I CERTIFY THAT I HAVE PERFORMED ALL OF THE WORK TO DETERMINE THE ANSWERS FOUND WITHIN THIS FILE MYSELF WITH NO ASSISTANCE FROM ANY PERSON OTHER THAN THE INSTRUCTOR OF THIS COURSE OR ONE OF OUR UNDERGRADUATE GRADERS.
+
+Dev Patel
+
+I spent about 6 hours on this lab. I think that this lab was much easier than lab 3, since I now have an extremely deep understanding of pointers, structs, etc. Creating the terse linked list was a fun challenge to take on, and seeing the pool simulation fully complete with code I developed was satisfying.
+
+NOTE:
+Run "make lab4" to build the lab ("make lab4u" to build the unreliable version), "make prototypes" to build all prototypes, and "make clean" to get rid of unneeded .o files. I added all of these to the all target to make it easier.
+

@@ -1,0 +1,11 @@
+THIS IS THE README FILE FOR LAB 3.
+
+BY SUBMITTING THIS FILE TO CARMEN, I CERTIFY THAT I HAVE PERFORMED ALL OF THE WORK TO DETERMINE THE ANSWERS FOUND WITHIN THIS FILE MYSELF WITH NO ASSISTANCE FROM ANY PERSON OTHER THAN THE INSTRUCTOR OF THIS COURSE OR ONE OF OUR UNDERGRADUATE GRADERS.
+
+Dev Patel
+
+I spent about 30 hours on this lab. Figuring out pointers, structs, function pointers, and how to use the linked list was the hardest part of this lab. More than half the time spent on this lab was reading the documentation and testing. The movement of the ball was also difficult, because I ran into some very hard to find bugs in ball reflection. Doing this lab helped teach me more in-depth what was learned in class.
+
+NOTE:
+Run "make lab3" to build the actual lab, "make prototypes" to build prototypes, and "make clean" to get rid of .o files. I added all three to the all target to make it easier.
+

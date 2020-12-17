@@ -1,0 +1,11 @@
+THIS IS THE README FILE FOR LAB 2.
+
+BY SUBMITTING THIS FILE TO CARMEN, I CERTIFY THAT I HAVE PERFORMED ALL OF THE WORK TO DETERMINE THE ANSWERS FOUND WITHIN THIS FILE MYSELF WITH NO ASSISTANCE FROM ANY PERSON OTHER THAN THE INSTRUCTOR OF THIS COURSE OR ONE OF OUR UNDERGRADUATE GRADERS.
+
+Dev Patel
+
+I spent about 15 (+/- 2) hours working on this project. This lab was difficult because I have never coded in C before. The 10 line limit also proved to be difficult to follow, but it did lead to cleaner and more maintainable code.
+
+NOTE:
+Run "make prototypes" to build prototypes, "make lab2" to build actual lab, and "make clean" to get rid of .o files. I added all three to the all target to make it easier.
+

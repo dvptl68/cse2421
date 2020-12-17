@@ -1,0 +1,3663 @@
+DIAGNOSTIC: 1 balls allocated.
+DIAGNOSTIC: 1 nodes allocated.
+DIAGNOSTIC: 2 balls allocated.
+DIAGNOSTIC: 2 nodes allocated.
+DIAGNOSTIC: 3 balls allocated.
+DIAGNOSTIC: 3 nodes allocated.
+DIAGNOSTIC: 4 balls allocated.
+DIAGNOSTIC: 4 nodes allocated.
+DIAGNOSTIC: 5 balls allocated.
+DIAGNOSTIC: 5 nodes allocated.
+DIAGNOSTIC: 6 balls allocated.
+DIAGNOSTIC: 6 nodes allocated.
+DIAGNOSTIC: 7 balls allocated.
+DIAGNOSTIC: 7 nodes allocated.
+DIAGNOSTIC: 8 balls allocated.
+DIAGNOSTIC: 8 nodes allocated.
+DIAGNOSTIC: 9 balls allocated.
+DIAGNOSTIC: 9 nodes allocated.
+DIAGNOSTIC: 10 balls allocated.
+DIAGNOSTIC: 10 nodes allocated.
+DIAGNOSTIC: 11 balls allocated.
+DIAGNOSTIC: 11 nodes allocated.
+DIAGNOSTIC: 12 balls allocated.
+DIAGNOSTIC: 12 nodes allocated.
+DIAGNOSTIC: 13 balls allocated.
+DIAGNOSTIC: 13 nodes allocated.
+DIAGNOSTIC: 14 balls allocated.
+DIAGNOSTIC: 14 nodes allocated.
+DIAGNOSTIC: 15 balls allocated.
+DIAGNOSTIC: 15 nodes allocated.
+DIAGNOSTIC: 16 balls allocated.
+DIAGNOSTIC: 16 nodes allocated.
+scanf returned -1
+
+At time  0.0000:
+Ball # 0 is at (10.500, 10.500) moving ( -12.0000,  -12.0000)
+Ball # 1 is at (50.000,  6.500) moving (   0.0000,  -20.0000)
+Ball # 2 is at (94.500,  5.500) moving (  20.5000,  -20.5000)
+Ball # 3 is at (94.500, 44.500) moving (  30.5000,   30.5000)
+Ball # 4 is at (50.000, 39.000) moving (   0.0000,   35.0000)
+Ball # 5 is at (12.000, 38.000) moving ( -50.0000,   50.0000)
+Ball # 6 is at (25.000, 25.000) moving ( -18.0000,    0.0000)
+Ball # 7 is at (27.000, 26.250) moving (   0.0000,   21.5000)
+Ball # 8 is at (27.000, 23.750) moving (   0.0000,  -21.5000)
+Ball # 9 is at (75.000, 25.000) moving (  24.0000,    0.0000)
+Ball #10 is at (73.000, 26.250) moving (   0.0000,   32.0000)
+Ball #11 is at (73.000, 23.750) moving (   0.0000,  -32.0000)
+Ball #12 is at (95.000, 40.000) moving (  12.5000,   25.0000)
+Ball #13 is at (95.000, 40.000) moving (  12.5000,   25.0000)
+Ball #14 is at (95.000, 40.000) moving (  12.5000,   25.0000)
+Ball #15 is at (95.000, 40.000) moving (  12.5000,   25.0000)
+
+At time  0.0112:
+Ball # 0 is at (10.365, 10.365) moving ( -11.9693,  -11.9693)
+Ball # 1 is at (50.000,  6.275) moving (   0.0000,  -19.9566)
+Ball # 2 is at (94.731,  5.269) moving (  20.4693,  -20.4693)
+Ball # 3 is at (94.843, 44.843) moving (  30.4693,   30.4693)
+Ball # 4 is at (50.000, 39.394) moving (   0.0000,   34.9566)
+Ball # 5 is at (11.438, 38.562) moving ( -49.9693,   49.9693)
+Ball # 6 is at (24.797, 25.000) moving ( -17.9566,    0.0000)
+Ball # 7 is at (27.000, 26.492) moving (   0.0000,   21.4566)
+Ball # 8 is at (27.000, 23.508) moving (   0.0000,  -21.4566)
+Ball # 9 is at (75.270, 25.000) moving (  23.9566,    0.0000)
+Ball #10 is at (73.000, 26.610) moving (   0.0000,   31.9566)
+Ball #11 is at (73.000, 23.390) moving (   0.0000,  -31.9566)
+Ball #12 is at (95.141, 40.281) moving (  12.4806,   24.9612)
+Ball #13 is at (95.141, 40.281) moving (  12.4806,   24.9612)
+Ball #14 is at (95.141, 40.281) moving (  12.4806,   24.9612)
+Ball #15 is at (95.141, 40.281) moving (  12.4806,   24.9612)
+
+At time  0.0225:
+Ball # 0 is at (10.230, 10.230) moving ( -11.9386,  -11.9386)
+Ball # 1 is at (50.000,  6.050) moving (   0.0000,  -19.9131)
+Ball # 2 is at (94.961,  5.039) moving (  20.4386,  -20.4386)
+Ball # 3 is at (95.186, 45.186) moving (  30.4386,   30.4386)
+Ball # 4 is at (50.000, 39.787) moving (   0.0000,   34.9131)
+Ball # 5 is at (10.875, 39.125) moving ( -49.9386,   49.9386)
+Ball # 6 is at (24.595, 25.000) moving ( -17.9131,    0.0000)
+Ball # 7 is at (27.000, 26.733) moving (   0.0000,   21.4131)
+Ball # 8 is at (27.000, 23.267) moving (   0.0000,  -21.4131)
+Ball # 9 is at (75.540, 25.000) moving (  23.9131,    0.0000)
+Ball #10 is at (73.000, 26.970) moving (   0.0000,   31.9131)
+Ball #11 is at (73.000, 23.030) moving (   0.0000,  -31.9131)
+Ball #12 is at (95.281, 40.562) moving (  12.4612,   24.9223)
+Ball #13 is at (95.281, 40.562) moving (  12.4612,   24.9223)
+Ball #14 is at (95.281, 40.562) moving (  12.4612,   24.9223)
+Ball #15 is at (95.281, 40.562) moving (  12.4612,   24.9223)
+
+At time  0.0338:
+Ball # 0 is at (10.096, 10.096) moving ( -11.9079,  -11.9079)
+Ball # 1 is at (50.000,  5.826) moving (   0.0000,  -19.8697)
+Ball # 2 is at (95.191,  4.809) moving (  20.4079,  -20.4079)
+Ball # 3 is at (95.528, 45.528) moving (  30.4079,   30.4079)
+Ball # 4 is at (50.000, 40.180) moving (   0.0000,   34.8697)
+Ball # 5 is at (10.314, 39.686) moving ( -49.9079,   49.9079)
+Ball # 6 is at (24.394, 25.000) moving ( -17.8697,    0.0000)
+Ball # 7 is at (27.000, 26.974) moving (   0.0000,   21.3697)
+Ball # 8 is at (27.000, 23.026) moving (   0.0000,  -21.3697)
+Ball # 9 is at (75.809, 25.000) moving (  23.8697,    0.0000)
+Ball #10 is at (73.000, 27.329) moving (   0.0000,   31.8697)
+Ball #11 is at (73.000, 22.671) moving (   0.0000,  -31.8697)
+Ball #12 is at (95.421, 40.842) moving (  12.4417,   24.8835)
+Ball #13 is at (95.421, 40.842) moving (  12.4417,   24.8835)
+Ball #14 is at (95.421, 40.842) moving (  12.4417,   24.8835)
+Ball #15 is at (95.421, 40.842) moving (  12.4417,   24.8835)
+
+At time  0.0450:
+Ball # 0 is at ( 9.962,  9.962) moving ( -11.8771,  -11.8771)
+Ball # 1 is at (50.000,  5.603) moving (   0.0000,  -19.8263)
+Ball # 2 is at (95.420,  4.580) moving (  20.3771,  -20.3771)
+Ball # 3 is at (95.870, 45.870) moving (  30.3771,   30.3771)
+Ball # 4 is at (50.000, 40.572) moving (   0.0000,   34.8263)
+Ball # 5 is at ( 9.752, 40.248) moving ( -49.8771,   49.8771)
+Ball # 6 is at (24.193, 25.000) moving ( -17.8263,    0.0000)
+Ball # 7 is at (27.000, 27.215) moving (   0.0000,   21.3263)
+Ball # 8 is at (27.000, 22.785) moving (   0.0000,  -21.3263)
+Ball # 9 is at (76.077, 25.000) moving (  23.8263,    0.0000)
+Ball #10 is at (73.000, 27.687) moving (   0.0000,   31.8263)
+Ball #11 is at (73.000, 22.313) moving (   0.0000,  -31.8263)
+Ball #12 is at (95.561, 41.122) moving (  12.4223,   24.8446)
+Ball #13 is at (95.561, 41.122) moving (  12.4223,   24.8446)
+Ball #14 is at (95.561, 41.122) moving (  12.4223,   24.8446)
+Ball #15 is at (95.561, 41.122) moving (  12.4223,   24.8446)
+
+At time  0.0562:
+Ball # 0 is at ( 9.828,  9.828) moving ( -11.8464,  -11.8464)
+Ball # 1 is at (50.000,  5.380) moving (   0.0000,  -19.7828)
+Ball # 2 is at (95.650,  4.350) moving (  20.3464,  -20.3464)
+Ball # 3 is at (96.212, 46.212) moving (  30.3464,   30.3464)
+Ball # 4 is at (50.000, 40.964) moving (   0.0000,   34.7828)
+Ball # 5 is at ( 9.191, 40.809) moving ( -49.8464,   49.8464)
+Ball # 6 is at (23.992, 25.000) moving ( -17.7828,    0.0000)
+Ball # 7 is at (27.000, 27.454) moving (   0.0000,   21.2828)
+Ball # 8 is at (27.000, 22.546) moving (   0.0000,  -21.2828)
+Ball # 9 is at (76.345, 25.000) moving (  23.7828,    0.0000)
+Ball #10 is at (73.000, 28.045) moving (   0.0000,   31.7828)
+Ball #11 is at (73.000, 21.955) moving (   0.0000,  -31.7828)
+Ball #12 is at (95.701, 41.402) moving (  12.4029,   24.8058)
+Ball #13 is at (95.701, 41.402) moving (  12.4029,   24.8058)
+Ball #14 is at (95.701, 41.402) moving (  12.4029,   24.8058)
+Ball #15 is at (95.701, 41.402) moving (  12.4029,   24.8058)
+
+At time  0.0675:
+Ball # 0 is at ( 9.695,  9.695) moving ( -11.8157,  -11.8157)
+Ball # 1 is at (50.000,  5.157) moving (   0.0000,  -19.7394)
+Ball # 2 is at (95.879,  4.121) moving (  20.3157,  -20.3157)
+Ball # 3 is at (96.554, 46.554) moving (  30.3157,   30.3157)
+Ball # 4 is at (50.000, 41.355) moving (   0.0000,   34.7394)
+Ball # 5 is at ( 8.630, 41.370) moving ( -49.8157,   49.8157)
+Ball # 6 is at (23.792, 25.000) moving ( -17.7394,    0.0000)
+Ball # 7 is at (27.000, 27.694) moving (   0.0000,   21.2394)
+Ball # 8 is at (27.000, 22.306) moving (   0.0000,  -21.2394)
+Ball # 9 is at (76.613, 25.000) moving (  23.7394,    0.0000)
+Ball #10 is at (73.000, 28.403) moving (   0.0000,   31.7394)
+Ball #11 is at (73.000, 21.597) moving (   0.0000,  -31.7394)
+Ball #12 is at (95.840, 41.681) moving (  12.3835,   24.7669)
+Ball #13 is at (95.840, 41.681) moving (  12.3835,   24.7669)
+Ball #14 is at (95.840, 41.681) moving (  12.3835,   24.7669)
+Ball #15 is at (95.840, 41.681) moving (  12.3835,   24.7669)
+
+At time  0.0787:
+Ball # 0 is at ( 9.562,  9.562) moving ( -11.7850,  -11.7850)
+Ball # 1 is at (50.000,  4.935) moving (   0.0000,  -19.6960)
+Ball # 2 is at (96.107,  3.893) moving (  20.2850,  -20.2850)
+Ball # 3 is at (96.895, 46.895) moving (  30.2850,   30.2850)
+Ball # 4 is at (50.000, 41.746) moving (   0.0000,   34.6960)
+Ball # 5 is at ( 8.070, 41.930) moving ( -49.7850,   49.7850)
+Ball # 6 is at (23.593, 25.000) moving ( -17.6960,    0.0000)
+Ball # 7 is at (27.000, 27.933) moving (   0.0000,   21.1960)
+Ball # 8 is at (27.000, 22.067) moving (   0.0000,  -21.1960)
+Ball # 9 is at (76.880, 25.000) moving (  23.6960,    0.0000)
+Ball #10 is at (73.000, 28.760) moving (   0.0000,   31.6960)
+Ball #11 is at (73.000, 21.240) moving (   0.0000,  -31.6960)
+Ball #12 is at (95.980, 41.960) moving (  12.3640,   24.7281)
+Ball #13 is at (95.980, 41.960) moving (  12.3640,   24.7281)
+Ball #14 is at (95.980, 41.960) moving (  12.3640,   24.7281)
+Ball #15 is at (95.980, 41.960) moving (  12.3640,   24.7281)
+
+At time  0.0900:
+Ball # 0 is at ( 9.430,  9.430) moving ( -11.7543,  -11.7543)
+Ball # 1 is at (50.000,  4.714) moving (   0.0000,  -19.6525)
+Ball # 2 is at (96.335,  3.665) moving (  20.2543,  -20.2543)
+Ball # 3 is at (97.235, 47.235) moving (  30.2543,   30.2543)
+Ball # 4 is at (50.000, 42.136) moving (   0.0000,   34.6525)
+Ball # 5 is at ( 7.510, 42.490) moving ( -49.7543,   49.7543)
+Ball # 6 is at (23.394, 25.000) moving ( -17.6525,    0.0000)
+Ball # 7 is at (27.000, 28.171) moving (   0.0000,   21.1525)
+Ball # 8 is at (27.000, 21.829) moving (   0.0000,  -21.1525)
+Ball # 9 is at (77.146, 25.000) moving (  23.6525,    0.0000)
+Ball #10 is at (73.000, 29.116) moving (   0.0000,   31.6525)
+Ball #11 is at (73.000, 20.884) moving (   0.0000,  -31.6525)
+Ball #12 is at (96.119, 42.238) moving (  12.3446,   24.6892)
+Ball #13 is at (96.119, 42.238) moving (  12.3446,   24.6892)
+Ball #14 is at (96.119, 42.238) moving (  12.3446,   24.6892)
+Ball #15 is at (96.119, 42.238) moving (  12.3446,   24.6892)
+
+At time  0.1012:
+Ball # 0 is at ( 9.297,  9.297) moving ( -11.7236,  -11.7236)
+Ball # 1 is at (50.000,  4.493) moving (   0.0000,  -19.6091)
+Ball # 2 is at (96.563,  3.437) moving (  20.2236,  -20.2236)
+Ball # 3 is at (97.576, 47.576) moving (  30.2236,   30.2236)
+Ball # 4 is at (50.000, 42.526) moving (   0.0000,   34.6091)
+Ball # 5 is at ( 6.950, 43.050) moving ( -49.7236,   49.7236)
+Ball # 6 is at (23.195, 25.000) moving ( -17.6091,    0.0000)
+Ball # 7 is at (27.000, 28.409) moving (   0.0000,   21.1091)
+Ball # 8 is at (27.000, 21.591) moving (   0.0000,  -21.1091)
+Ball # 9 is at (77.412, 25.000) moving (  23.6091,    0.0000)
+Ball #10 is at (73.000, 29.472) moving (   0.0000,   31.6091)
+Ball #11 is at (73.000, 20.528) moving (   0.0000,  -31.6091)
+Ball #12 is at (96.258, 42.516) moving (  12.3252,   24.6504)
+Ball #13 is at (96.258, 42.516) moving (  12.3252,   24.6504)
+Ball #14 is at (96.258, 42.516) moving (  12.3252,   24.6504)
+Ball #15 is at (96.258, 42.516) moving (  12.3252,   24.6504)
+
+At time  0.1125:
+Ball # 0 is at ( 9.166,  9.166) moving ( -11.6929,  -11.6929)
+Ball # 1 is at (50.000,  4.272) moving (   0.0000,  -19.5657)
+Ball # 2 is at (96.791,  3.209) moving (  20.1929,  -20.1929)
+Ball # 3 is at (97.916, 47.916) moving (  30.1929,   30.1929)
+Ball # 4 is at (50.000, 42.916) moving (   0.0000,   34.5657)
+Ball # 5 is at ( 6.391, 43.609) moving ( -49.6929,   49.6929)
+Ball # 6 is at (22.997, 25.000) moving ( -17.5657,    0.0000)
+Ball # 7 is at (27.000, 28.647) moving (   0.0000,   21.0657)
+Ball # 8 is at (27.000, 21.353) moving (   0.0000,  -21.0657)
+Ball # 9 is at (77.678, 25.000) moving (  23.5657,    0.0000)
+Ball #10 is at (73.000, 29.828) moving (   0.0000,   31.5657)
+Ball #11 is at (73.000, 20.172) moving (   0.0000,  -31.5657)
+Ball #12 is at (96.396, 42.793) moving (  12.3058,   24.6115)
+Ball #13 is at (96.396, 42.793) moving (  12.3058,   24.6115)
+Ball #14 is at (96.396, 42.793) moving (  12.3058,   24.6115)
+Ball #15 is at (96.396, 42.793) moving (  12.3058,   24.6115)
+
+At time  0.1237:
+Ball # 0 is at ( 9.034,  9.034) moving ( -11.6622,  -11.6622)
+Ball # 1 is at (50.000,  4.052) moving (   0.0000,  -19.5222)
+Ball # 2 is at (97.018,  2.982) moving (  20.1622,  -20.1622)
+Ball # 3 is at (98.255, 48.255) moving (  30.1622,   30.1622)
+Ball # 4 is at (50.000, 43.304) moving (   0.0000,   34.5222)
+Ball # 5 is at ( 5.832, 44.168) moving ( -49.6622,   49.6622)
+Ball # 6 is at (22.799, 25.000) moving ( -17.5222,    0.0000)
+Ball # 7 is at (27.000, 28.884) moving (   0.0000,   21.0222)
+Ball # 8 is at (27.000, 21.116) moving (   0.0000,  -21.0222)
+Ball # 9 is at (77.943, 25.000) moving (  23.5222,    0.0000)
+Ball #10 is at (73.000, 30.183) moving (   0.0000,   31.5222)
+Ball #11 is at (73.000, 19.817) moving (   0.0000,  -31.5222)
+Ball #12 is at (96.535, 43.070) moving (  12.2863,   24.5727)
+Ball #13 is at (96.535, 43.070) moving (  12.2863,   24.5727)
+Ball #14 is at (96.535, 43.070) moving (  12.2863,   24.5727)
+Ball #15 is at (96.535, 43.070) moving (  12.2863,   24.5727)
+
+At time  0.1350:
+Ball # 0 is at ( 8.903,  8.903) moving ( -11.6314,  -11.6314)
+Ball # 1 is at (50.000,  3.832) moving (   0.0000,  -19.4788)
+Ball # 2 is at (97.245,  2.755) moving (  20.1314,  -20.1314)
+Ball # 3 is at (98.595, 48.595) moving (  30.1314,   30.1314)
+Ball # 4 is at (50.000, 43.693) moving (   0.0000,   34.4788)
+Ball # 5 is at ( 5.273, 44.727) moving ( -49.6314,   49.6314)
+Ball # 6 is at (22.602, 25.000) moving ( -17.4788,    0.0000)
+Ball # 7 is at (27.000, 29.120) moving (   0.0000,   20.9788)
+Ball # 8 is at (27.000, 20.880) moving (   0.0000,  -20.9788)
+Ball # 9 is at (78.208, 25.000) moving (  23.4788,    0.0000)
+Ball #10 is at (73.000, 30.538) moving (   0.0000,   31.4788)
+Ball #11 is at (73.000, 19.462) moving (   0.0000,  -31.4788)
+Ball #12 is at (96.673, 43.346) moving (  12.2669,   24.5338)
+Ball #13 is at (96.673, 43.346) moving (  12.2669,   24.5338)
+Ball #14 is at (96.673, 43.346) moving (  12.2669,   24.5338)
+Ball #15 is at (96.673, 43.346) moving (  12.2669,   24.5338)
+
+At time  0.1462:
+Ball # 0 is at ( 8.772,  8.772) moving ( -11.6007,  -11.6007)
+Ball # 1 is at (50.000,  3.613) moving (   0.0000,  -19.4353)
+Ball # 2 is at (97.471,  2.529) moving (  20.1007,  -20.1007)
+Ball # 3 is at (98.934, 48.934) moving (  30.1007,   30.1007)
+Ball # 4 is at (50.000, 44.081) moving (   0.0000,   34.4353)
+Ball # 5 is at ( 4.714, 45.286) moving ( -49.6007,   49.6007)
+Ball # 6 is at (22.406, 25.000) moving ( -17.4353,    0.0000)
+Ball # 7 is at (27.000, 29.356) moving (   0.0000,   20.9353)
+Ball # 8 is at (27.000, 20.644) moving (   0.0000,  -20.9353)
+Ball # 9 is at (78.472, 25.000) moving (  23.4353,    0.0000)
+Ball #10 is at (73.000, 30.892) moving (   0.0000,   31.4353)
+Ball #11 is at (73.000, 19.108) moving (   0.0000,  -31.4353)
+Ball #12 is at (96.811, 43.622) moving (  12.2475,   24.4950)
+Ball #13 is at (96.811, 43.622) moving (  12.2475,   24.4950)
+Ball #14 is at (96.811, 43.622) moving (  12.2475,   24.4950)
+Ball #15 is at (96.811, 43.622) moving (  12.2475,   24.4950)
+
+At time  0.1575:
+Ball # 0 is at ( 8.641,  8.641) moving ( -11.5700,  -11.5700)
+Ball # 1 is at (50.000,  3.394) moving (   0.0000,  -19.3919)
+Ball # 2 is at (97.697,  2.303) moving (  20.0700,  -20.0700)
+Ball # 3 is at (99.272, 49.272) moving (  30.0700,   30.0700)
+Ball # 4 is at (50.000, 44.468) moving (   0.0000,   34.3919)
+Ball # 5 is at ( 4.156, 45.844) moving ( -49.5700,   49.5700)
+Ball # 6 is at (22.209, 25.000) moving ( -17.3919,    0.0000)
+Ball # 7 is at (27.000, 29.592) moving (   0.0000,   20.8919)
+Ball # 8 is at (27.000, 20.408) moving (   0.0000,  -20.8919)
+Ball # 9 is at (78.736, 25.000) moving (  23.3919,    0.0000)
+Ball #10 is at (73.000, 31.246) moving (   0.0000,   31.3919)
+Ball #11 is at (73.000, 18.754) moving (   0.0000,  -31.3919)
+Ball #12 is at (96.949, 43.898) moving (  12.2281,   24.4561)
+Ball #13 is at (96.949, 43.898) moving (  12.2281,   24.4561)
+Ball #14 is at (96.949, 43.898) moving (  12.2281,   24.4561)
+Ball #15 is at (96.949, 43.898) moving (  12.2281,   24.4561)
+
+At time  0.1688:
+Ball # 0 is at ( 8.511,  8.511) moving ( -11.5393,  -11.5393)
+Ball # 1 is at (50.000,  3.176) moving (   0.0000,  -19.3485)
+Ball # 2 is at (97.923,  2.077) moving (  20.0393,  -20.0393)
+Ball # 3 is at (99.611, 49.611) moving (  30.0393,   30.0393)
+Ball # 4 is at (50.000, 44.855) moving (   0.0000,   34.3485)
+Ball # 5 is at ( 3.599, 46.401) moving ( -49.5393,   49.5393)
+Ball # 6 is at (22.014, 25.000) moving ( -17.3485,    0.0000)
+Ball # 7 is at (27.000, 29.827) moving (   0.0000,   20.8485)
+Ball # 8 is at (27.000, 20.173) moving (   0.0000,  -20.8485)
+Ball # 9 is at (78.999, 25.000) moving (  23.3485,    0.0000)
+Ball #10 is at (73.000, 31.599) moving (   0.0000,   31.3485)
+Ball #11 is at (73.000, 18.401) moving (   0.0000,  -31.3485)
+Ball #12 is at (97.086, 44.173) moving (  12.2086,   24.4173)
+Ball #13 is at (97.086, 44.173) moving (  12.2086,   24.4173)
+Ball #14 is at (97.086, 44.173) moving (  12.2086,   24.4173)
+Ball #15 is at (97.086, 44.173) moving (  12.2086,   24.4173)
+
+At time  0.1800:
+Ball # 0 is at ( 8.381,  8.381) moving ( -11.5086,  -11.5086)
+Ball # 1 is at (50.000,  2.959) moving (   0.0000,  -19.3050)
+Ball # 2 is at (98.149,  1.851) moving (  20.0086,  -20.0086)
+Ball # 3 is at (99.949, 49.949) moving (  30.0086,   30.0086)
+Ball # 4 is at (50.000, 45.241) moving (   0.0000,   34.3050)
+Ball # 5 is at ( 3.041, 46.959) moving ( -49.5086,   49.5086)
+Ball # 6 is at (21.819, 25.000) moving ( -17.3050,    0.0000)
+Ball # 7 is at (27.000, 30.061) moving (   0.0000,   20.8050)
+Ball # 8 is at (27.000, 19.939) moving (   0.0000,  -20.8050)
+Ball # 9 is at (79.261, 25.000) moving (  23.3050,    0.0000)
+Ball #10 is at (73.000, 31.951) moving (   0.0000,   31.3050)
+Ball #11 is at (73.000, 18.049) moving (   0.0000,  -31.3050)
+Ball #12 is at (97.224, 44.448) moving (  12.1892,   24.3784)
+Ball #13 is at (97.224, 44.448) moving (  12.1892,   24.3784)
+Ball #14 is at (97.224, 44.448) moving (  12.1892,   24.3784)
+Ball #15 is at (97.224, 44.448) moving (  12.1892,   24.3784)
+
+Ball 3 dropped into a pocket.
+DIAGNOSTIC: 1 balls freed.
+DIAGNOSTIC: 1 nodes freed.
+
+At time  0.1913:
+Ball # 0 is at ( 8.252,  8.252) moving ( -11.4779,  -11.4779)
+Ball # 1 is at (50.000,  2.741) moving (   0.0000,  -19.2616)
+Ball # 2 is at (98.374,  1.626) moving (  19.9779,  -19.9779)
+Ball # 4 is at (50.000, 45.627) moving (   0.0000,   34.2616)
+Ball # 5 is at ( 2.484, 47.516) moving ( -49.4779,   49.4779)
+Ball # 6 is at (21.624, 25.000) moving ( -17.2616,    0.0000)
+Ball # 7 is at (27.000, 30.295) moving (   0.0000,   20.7616)
+Ball # 8 is at (27.000, 19.705) moving (   0.0000,  -20.7616)
+Ball # 9 is at (79.524, 25.000) moving (  23.2616,    0.0000)
+Ball #10 is at (73.000, 32.304) moving (   0.0000,   31.2616)
+Ball #11 is at (73.000, 17.696) moving (   0.0000,  -31.2616)
+Ball #12 is at (97.361, 44.722) moving (  12.1698,   24.3396)
+Ball #13 is at (97.361, 44.722) moving (  12.1698,   24.3396)
+Ball #14 is at (97.361, 44.722) moving (  12.1698,   24.3396)
+Ball #15 is at (97.361, 44.722) moving (  12.1698,   24.3396)
+
+At time  0.2025:
+Ball # 0 is at ( 8.123,  8.123) moving ( -11.4472,  -11.4472)
+Ball # 1 is at (50.000,  2.525) moving (   0.0000,  -19.2182)
+Ball # 2 is at (98.598,  1.402) moving (  19.9472,  -19.9472)
+Ball # 4 is at (50.000, 46.013) moving (   0.0000,   34.2182)
+Ball # 5 is at ( 1.928, 48.072) moving ( -49.4472,   49.4472)
+Ball # 6 is at (21.430, 25.000) moving ( -17.2182,    0.0000)
+Ball # 7 is at (27.000, 30.529) moving (   0.0000,   20.7182)
+Ball # 8 is at (27.000, 19.471) moving (   0.0000,  -20.7182)
+Ball # 9 is at (79.785, 25.000) moving (  23.2182,    0.0000)
+Ball #10 is at (73.000, 32.655) moving (   0.0000,   31.2182)
+Ball #11 is at (73.000, 17.345) moving (   0.0000,  -31.2182)
+Ball #12 is at (97.498, 44.996) moving (  12.1504,   24.3007)
+Ball #13 is at (97.498, 44.996) moving (  12.1504,   24.3007)
+Ball #14 is at (97.498, 44.996) moving (  12.1504,   24.3007)
+Ball #15 is at (97.498, 44.996) moving (  12.1504,   24.3007)
+
+At time  0.2138:
+Ball # 0 is at ( 7.994,  7.994) moving ( -11.4164,  -11.4164)
+Ball # 1 is at (50.000,  2.309) moving (   0.0000,  -19.1747)
+Ball # 2 is at (98.823,  1.177) moving (  19.9164,  -19.9164)
+Ball # 4 is at (50.000, 46.398) moving (   0.0000,   34.1747)
+Ball # 5 is at ( 1.372, 48.628) moving ( -49.4164,   49.4164)
+Ball # 6 is at (21.236, 25.000) moving ( -17.1747,    0.0000)
+Ball # 7 is at (27.000, 30.762) moving (   0.0000,   20.6747)
+Ball # 8 is at (27.000, 19.238) moving (   0.0000,  -20.6747)
+Ball # 9 is at (80.046, 25.000) moving (  23.1747,    0.0000)
+Ball #10 is at (73.000, 33.006) moving (   0.0000,   31.1747)
+Ball #11 is at (73.000, 16.994) moving (   0.0000,  -31.1747)
+Ball #12 is at (97.635, 45.269) moving (  12.1309,   24.2619)
+Ball #13 is at (97.635, 45.269) moving (  12.1309,   24.2619)
+Ball #14 is at (97.635, 45.269) moving (  12.1309,   24.2619)
+Ball #15 is at (97.635, 45.269) moving (  12.1309,   24.2619)
+
+At time  0.2250:
+Ball # 0 is at ( 7.866,  7.866) moving ( -11.3857,  -11.3857)
+Ball # 1 is at (50.000,  2.093) moving (   0.0000,  -19.1313)
+Ball # 2 is at (99.047,  0.953) moving (  19.8857,  -19.8857)
+Ball # 4 is at (50.000, 46.782) moving (   0.0000,   34.1313)
+Ball # 5 is at ( 0.816, 49.184) moving ( -49.3857,   49.3857)
+Ball # 6 is at (21.043, 25.000) moving ( -17.1313,    0.0000)
+Ball # 7 is at (27.000, 30.995) moving (   0.0000,   20.6313)
+Ball # 8 is at (27.000, 19.005) moving (   0.0000,  -20.6313)
+Ball # 9 is at (80.307, 25.000) moving (  23.1313,    0.0000)
+Ball #10 is at (73.000, 33.357) moving (   0.0000,   31.1313)
+Ball #11 is at (73.000, 16.643) moving (   0.0000,  -31.1313)
+Ball #12 is at (97.771, 45.542) moving (  12.1115,   24.2230)
+Ball #13 is at (97.771, 45.542) moving (  12.1115,   24.2230)
+Ball #14 is at (97.771, 45.542) moving (  12.1115,   24.2230)
+Ball #15 is at (97.771, 45.542) moving (  12.1115,   24.2230)
+
+At time  0.2363:
+Ball # 0 is at ( 7.738,  7.738) moving ( -11.3550,  -11.3550)
+Ball # 1 is at (50.000,  1.878) moving (   0.0000,  -19.0879)
+Ball # 2 is at (99.271,  0.729) moving (  19.8550,  -19.8550)
+Ball # 4 is at (50.000, 47.166) moving (   0.0000,   34.0879)
+Ball # 5 is at ( 0.260, 49.740) moving ( -49.3550,   49.3550)
+Ball # 6 is at (20.850, 25.000) moving ( -17.0879,    0.0000)
+Ball # 7 is at (27.000, 31.227) moving (   0.0000,   20.5879)
+Ball # 8 is at (27.000, 18.773) moving (   0.0000,  -20.5879)
+Ball # 9 is at (80.567, 25.000) moving (  23.0879,    0.0000)
+Ball #10 is at (73.000, 33.707) moving (   0.0000,   31.0879)
+Ball #11 is at (73.000, 16.293) moving (   0.0000,  -31.0879)
+Ball #12 is at (97.907, 45.814) moving (  12.0921,   24.1842)
+Ball #13 is at (97.907, 45.814) moving (  12.0921,   24.1842)
+Ball #14 is at (97.907, 45.814) moving (  12.0921,   24.1842)
+Ball #15 is at (97.907, 45.814) moving (  12.0921,   24.1842)
+
+Ball 5 dropped into a pocket.
+DIAGNOSTIC: 2 balls freed.
+DIAGNOSTIC: 2 nodes freed.
+
+At time  0.2475:
+Ball # 0 is at ( 7.610,  7.610) moving ( -11.3243,  -11.3243)
+Ball # 1 is at (50.000,  1.663) moving (   0.0000,  -19.0444)
+Ball # 2 is at (99.494,  0.506) moving (  19.8243,  -19.8243)
+Ball # 4 is at (50.000, 47.550) moving (   0.0000,   34.0444)
+Ball # 6 is at (20.658, 25.000) moving ( -17.0444,    0.0000)
+Ball # 7 is at (27.000, 31.458) moving (   0.0000,   20.5444)
+Ball # 8 is at (27.000, 18.542) moving (   0.0000,  -20.5444)
+Ball # 9 is at (80.827, 25.000) moving (  23.0444,    0.0000)
+Ball #10 is at (73.000, 34.057) moving (   0.0000,   31.0444)
+Ball #11 is at (73.000, 15.943) moving (   0.0000,  -31.0444)
+Ball #12 is at (98.043, 46.087) moving (  12.0727,   24.1453)
+Ball #13 is at (98.043, 46.087) moving (  12.0727,   24.1453)
+Ball #14 is at (98.043, 46.087) moving (  12.0727,   24.1453)
+Ball #15 is at (98.043, 46.087) moving (  12.0727,   24.1453)
+
+At time  0.2588:
+Ball # 0 is at ( 7.482,  7.482) moving ( -11.2936,  -11.2936)
+Ball # 1 is at (50.000,  1.449) moving (   0.0000,  -19.0010)
+Ball # 2 is at (99.717,  0.283) moving (  19.7936,  -19.7936)
+Ball # 4 is at (50.000, 47.933) moving (   0.0000,   34.0010)
+Ball # 6 is at (20.466, 25.000) moving ( -17.0010,    0.0000)
+Ball # 7 is at (27.000, 31.689) moving (   0.0000,   20.5010)
+Ball # 8 is at (27.000, 18.311) moving (   0.0000,  -20.5010)
+Ball # 9 is at (81.086, 25.000) moving (  23.0010,    0.0000)
+Ball #10 is at (73.000, 34.406) moving (   0.0000,   31.0010)
+Ball #11 is at (73.000, 15.594) moving (   0.0000,  -31.0010)
+Ball #12 is at (98.179, 46.358) moving (  12.0532,   24.1065)
+Ball #13 is at (98.179, 46.358) moving (  12.0532,   24.1065)
+Ball #14 is at (98.179, 46.358) moving (  12.0532,   24.1065)
+Ball #15 is at (98.179, 46.358) moving (  12.0532,   24.1065)
+
+At time  0.2700:
+Ball # 0 is at ( 7.355,  7.355) moving ( -11.2629,  -11.2629)
+Ball # 1 is at (50.000,  1.235) moving (   0.0000,  -18.9576)
+Ball # 2 is at (99.940,  0.060) moving (  19.7629,  -19.7629)
+Ball # 4 is at (50.000, 48.315) moving (   0.0000,   33.9576)
+Ball # 6 is at (20.275, 25.000) moving ( -16.9576,    0.0000)
+Ball # 7 is at (27.000, 31.920) moving (   0.0000,   20.4576)
+Ball # 8 is at (27.000, 18.080) moving (   0.0000,  -20.4576)
+Ball # 9 is at (81.345, 25.000) moving (  22.9576,    0.0000)
+Ball #10 is at (73.000, 34.755) moving (   0.0000,   30.9576)
+Ball #11 is at (73.000, 15.245) moving (   0.0000,  -30.9576)
+Ball #12 is at (98.315, 46.629) moving (  12.0338,   24.0676)
+Ball #13 is at (98.315, 46.629) moving (  12.0338,   24.0676)
+Ball #14 is at (98.315, 46.629) moving (  12.0338,   24.0676)
+Ball #15 is at (98.315, 46.629) moving (  12.0338,   24.0676)
+
+Ball 2 dropped into a pocket.
+DIAGNOSTIC: 3 balls freed.
+DIAGNOSTIC: 3 nodes freed.
+
+At time  0.2813:
+Ball # 0 is at ( 7.229,  7.229) moving ( -11.2322,  -11.2322)
+Ball # 1 is at (50.000,  1.022) moving (   0.0000,  -18.9141)
+Ball # 4 is at (50.000, 48.697) moving (   0.0000,   33.9141)
+Ball # 6 is at (20.084, 25.000) moving ( -16.9141,    0.0000)
+Ball # 7 is at (27.000, 32.150) moving (   0.0000,   20.4141)
+Ball # 8 is at (27.000, 17.850) moving (   0.0000,  -20.4141)
+Ball # 9 is at (81.603, 25.000) moving (  22.9141,    0.0000)
+Ball #10 is at (73.000, 35.103) moving (   0.0000,   30.9141)
+Ball #11 is at (73.000, 14.897) moving (   0.0000,  -30.9141)
+Ball #12 is at (98.450, 46.900) moving (  12.0144,   24.0288)
+Ball #13 is at (98.450, 46.900) moving (  12.0144,   24.0288)
+Ball #14 is at (98.450, 46.900) moving (  12.0144,   24.0288)
+Ball #15 is at (98.450, 46.900) moving (  12.0144,   24.0288)
+
+At time  0.2925:
+Ball # 0 is at ( 7.102,  7.102) moving ( -11.2015,  -11.2015)
+Ball # 1 is at (50.000,  0.809) moving (   0.0000,  -18.8707)
+Ball # 4 is at (50.000, 49.079) moving (   0.0000,   33.8707)
+Ball # 6 is at (19.894, 25.000) moving ( -16.8707,    0.0000)
+Ball # 7 is at (27.000, 32.380) moving (   0.0000,   20.3707)
+Ball # 8 is at (27.000, 17.620) moving (   0.0000,  -20.3707)
+Ball # 9 is at (81.861, 25.000) moving (  22.8707,    0.0000)
+Ball #10 is at (73.000, 35.451) moving (   0.0000,   30.8707)
+Ball #11 is at (73.000, 14.549) moving (   0.0000,  -30.8707)
+Ball #12 is at (98.585, 47.170) moving (  11.9950,   23.9899)
+Ball #13 is at (98.585, 47.170) moving (  11.9950,   23.9899)
+Ball #14 is at (98.585, 47.170) moving (  11.9950,   23.9899)
+Ball #15 is at (98.585, 47.170) moving (  11.9950,   23.9899)
+
+At time  0.3038:
+Ball # 0 is at ( 6.976,  6.976) moving ( -11.1707,  -11.1707)
+Ball # 1 is at (50.000,  0.597) moving (   0.0000,  -18.8273)
+Ball # 4 is at (50.000, 49.460) moving (   0.0000,   33.8273)
+Ball # 6 is at (19.704, 25.000) moving ( -16.8273,    0.0000)
+Ball # 7 is at (27.000, 32.609) moving (   0.0000,   20.3273)
+Ball # 8 is at (27.000, 17.391) moving (   0.0000,  -20.3273)
+Ball # 9 is at (82.118, 25.000) moving (  22.8273,    0.0000)
+Ball #10 is at (73.000, 35.798) moving (   0.0000,   30.8273)
+Ball #11 is at (73.000, 14.202) moving (   0.0000,  -30.8273)
+Ball #12 is at (98.720, 47.440) moving (  11.9755,   23.9511)
+Ball #13 is at (98.720, 47.440) moving (  11.9755,   23.9511)
+Ball #14 is at (98.720, 47.440) moving (  11.9755,   23.9511)
+Ball #15 is at (98.720, 47.440) moving (  11.9755,   23.9511)
+
+At time  0.3150:
+Ball # 0 is at ( 6.851,  6.851) moving ( -11.1400,  -11.1400)
+Ball # 1 is at (50.000,  0.385) moving (   0.0000,  -18.7838)
+Ball # 4 is at (50.000, 49.840) moving (   0.0000,   33.7838)
+Ball # 6 is at (19.515, 25.000) moving ( -16.7838,    0.0000)
+Ball # 7 is at (27.000, 32.838) moving (   0.0000,   20.2838)
+Ball # 8 is at (27.000, 17.162) moving (   0.0000,  -20.2838)
+Ball # 9 is at (82.375, 25.000) moving (  22.7838,    0.0000)
+Ball #10 is at (73.000, 36.145) moving (   0.0000,   30.7838)
+Ball #11 is at (73.000, 13.855) moving (   0.0000,  -30.7838)
+Ball #12 is at (98.855, 47.710) moving (  11.9561,   23.9122)
+Ball #13 is at (98.855, 47.710) moving (  11.9561,   23.9122)
+Ball #14 is at (98.855, 47.710) moving (  11.9561,   23.9122)
+Ball #15 is at (98.855, 47.710) moving (  11.9561,   23.9122)
+
+Ball 4 dropped into a pocket.
+DIAGNOSTIC: 4 balls freed.
+DIAGNOSTIC: 4 nodes freed.
+
+At time  0.3262:
+Ball # 0 is at ( 6.725,  6.725) moving ( -11.1093,  -11.1093)
+Ball # 1 is at (50.000,  0.173) moving (   0.0000,  -18.7404)
+Ball # 6 is at (19.326, 25.000) moving ( -16.7404,    0.0000)
+Ball # 7 is at (27.000, 33.066) moving (   0.0000,   20.2404)
+Ball # 8 is at (27.000, 16.934) moving (   0.0000,  -20.2404)
+Ball # 9 is at (82.632, 25.000) moving (  22.7404,    0.0000)
+Ball #10 is at (73.000, 36.492) moving (   0.0000,   30.7404)
+Ball #11 is at (73.000, 13.508) moving (   0.0000,  -30.7404)
+Ball #12 is at (98.989, 47.979) moving (  11.9367,   23.8734)
+Ball #13 is at (98.989, 47.979) moving (  11.9367,   23.8734)
+Ball #14 is at (98.989, 47.979) moving (  11.9367,   23.8734)
+Ball #15 is at (98.989, 47.979) moving (  11.9367,   23.8734)
+
+Ball 1 dropped into a pocket.
+DIAGNOSTIC: 5 balls freed.
+DIAGNOSTIC: 5 nodes freed.
+
+At time  0.3375:
+Ball # 0 is at ( 6.600,  6.600) moving ( -11.0786,  -11.0786)
+Ball # 6 is at (19.138, 25.000) moving ( -16.6970,    0.0000)
+Ball # 7 is at (27.000, 33.294) moving (   0.0000,   20.1970)
+Ball # 8 is at (27.000, 16.706) moving (   0.0000,  -20.1970)
+Ball # 9 is at (82.887, 25.000) moving (  22.6970,    0.0000)
+Ball #10 is at (73.000, 36.837) moving (   0.0000,   30.6970)
+Ball #11 is at (73.000, 13.163) moving (   0.0000,  -30.6970)
+Ball #12 is at (99.124, 48.247) moving (  11.9173,   23.8345)
+Ball #13 is at (99.124, 48.247) moving (  11.9173,   23.8345)
+Ball #14 is at (99.124, 48.247) moving (  11.9173,   23.8345)
+Ball #15 is at (99.124, 48.247) moving (  11.9173,   23.8345)
+
+At time  0.3487:
+Ball # 0 is at ( 6.476,  6.476) moving ( -11.0479,  -11.0479)
+Ball # 6 is at (18.950, 25.000) moving ( -16.6535,    0.0000)
+Ball # 7 is at (27.000, 33.521) moving (   0.0000,   20.1535)
+Ball # 8 is at (27.000, 16.479) moving (   0.0000,  -20.1535)
+Ball # 9 is at (83.143, 25.000) moving (  22.6535,    0.0000)
+Ball #10 is at (73.000, 37.183) moving (   0.0000,   30.6535)
+Ball #11 is at (73.000, 12.817) moving (   0.0000,  -30.6535)
+Ball #12 is at (99.258, 48.516) moving (  11.8978,   23.7957)
+Ball #13 is at (99.258, 48.516) moving (  11.8978,   23.7957)
+Ball #14 is at (99.258, 48.516) moving (  11.8978,   23.7957)
+Ball #15 is at (99.258, 48.516) moving (  11.8978,   23.7957)
+
+At time  0.3600:
+Ball # 0 is at ( 6.351,  6.351) moving ( -11.0172,  -11.0172)
+Ball # 6 is at (18.762, 25.000) moving ( -16.6101,    0.0000)
+Ball # 7 is at (27.000, 33.748) moving (   0.0000,   20.1101)
+Ball # 8 is at (27.000, 16.252) moving (   0.0000,  -20.1101)
+Ball # 9 is at (83.398, 25.000) moving (  22.6101,    0.0000)
+Ball #10 is at (73.000, 37.528) moving (   0.0000,   30.6101)
+Ball #11 is at (73.000, 12.472) moving (   0.0000,  -30.6101)
+Ball #12 is at (99.392, 48.783) moving (  11.8784,   23.7568)
+Ball #13 is at (99.392, 48.783) moving (  11.8784,   23.7568)
+Ball #14 is at (99.392, 48.783) moving (  11.8784,   23.7568)
+Ball #15 is at (99.392, 48.783) moving (  11.8784,   23.7568)
+
+At time  0.3712:
+Ball # 0 is at ( 6.227,  6.227) moving ( -10.9865,  -10.9865)
+Ball # 6 is at (18.576, 25.000) moving ( -16.5666,    0.0000)
+Ball # 7 is at (27.000, 33.974) moving (   0.0000,   20.0666)
+Ball # 8 is at (27.000, 16.026) moving (   0.0000,  -20.0666)
+Ball # 9 is at (83.652, 25.000) moving (  22.5666,    0.0000)
+Ball #10 is at (73.000, 37.872) moving (   0.0000,   30.5666)
+Ball #11 is at (73.000, 12.128) moving (   0.0000,  -30.5666)
+Ball #12 is at (99.525, 49.050) moving (  11.8590,   23.7180)
+Ball #13 is at (99.525, 49.050) moving (  11.8590,   23.7180)
+Ball #14 is at (99.525, 49.050) moving (  11.8590,   23.7180)
+Ball #15 is at (99.525, 49.050) moving (  11.8590,   23.7180)
+
+At time  0.3825:
+Ball # 0 is at ( 6.104,  6.104) moving ( -10.9558,  -10.9558)
+Ball # 6 is at (18.389, 25.000) moving ( -16.5232,    0.0000)
+Ball # 7 is at (27.000, 34.200) moving (   0.0000,   20.0232)
+Ball # 8 is at (27.000, 15.800) moving (   0.0000,  -20.0232)
+Ball # 9 is at (83.906, 25.000) moving (  22.5232,    0.0000)
+Ball #10 is at (73.000, 38.216) moving (   0.0000,   30.5232)
+Ball #11 is at (73.000, 11.784) moving (   0.0000,  -30.5232)
+Ball #12 is at (99.659, 49.317) moving (  11.8396,   23.6791)
+Ball #13 is at (99.659, 49.317) moving (  11.8396,   23.6791)
+Ball #14 is at (99.659, 49.317) moving (  11.8396,   23.6791)
+Ball #15 is at (99.659, 49.317) moving (  11.8396,   23.6791)
+
+At time  0.3937:
+Ball # 0 is at ( 5.981,  5.981) moving ( -10.9250,  -10.9250)
+Ball # 6 is at (18.203, 25.000) moving ( -16.4798,    0.0000)
+Ball # 7 is at (27.000, 34.425) moving (   0.0000,   19.9798)
+Ball # 8 is at (27.000, 15.575) moving (   0.0000,  -19.9798)
+Ball # 9 is at (84.159, 25.000) moving (  22.4798,    0.0000)
+Ball #10 is at (73.000, 38.559) moving (   0.0000,   30.4798)
+Ball #11 is at (73.000, 11.441) moving (   0.0000,  -30.4798)
+Ball #12 is at (99.792, 49.584) moving (  11.8201,   23.6403)
+Ball #13 is at (99.792, 49.584) moving (  11.8201,   23.6403)
+Ball #14 is at (99.792, 49.584) moving (  11.8201,   23.6403)
+Ball #15 is at (99.792, 49.584) moving (  11.8201,   23.6403)
+
+At time  0.4050:
+Ball # 0 is at ( 5.858,  5.858) moving ( -10.8943,  -10.8943)
+Ball # 6 is at (18.018, 25.000) moving ( -16.4363,    0.0000)
+Ball # 7 is at (27.000, 34.650) moving (   0.0000,   19.9363)
+Ball # 8 is at (27.000, 15.350) moving (   0.0000,  -19.9363)
+Ball # 9 is at (84.412, 25.000) moving (  22.4363,    0.0000)
+Ball #10 is at (73.000, 38.902) moving (   0.0000,   30.4363)
+Ball #11 is at (73.000, 11.098) moving (   0.0000,  -30.4363)
+Ball #12 is at (99.925, 49.850) moving (  11.8007,   23.6014)
+Ball #13 is at (99.925, 49.850) moving (  11.8007,   23.6014)
+Ball #14 is at (99.925, 49.850) moving (  11.8007,   23.6014)
+Ball #15 is at (99.925, 49.850) moving (  11.8007,   23.6014)
+
+Ball 12 dropped into a pocket.
+DIAGNOSTIC: 6 balls freed.
+DIAGNOSTIC: 6 nodes freed.
+
+Ball 13 dropped into a pocket.
+DIAGNOSTIC: 7 balls freed.
+DIAGNOSTIC: 7 nodes freed.
+
+Ball 14 dropped into a pocket.
+DIAGNOSTIC: 8 balls freed.
+DIAGNOSTIC: 8 nodes freed.
+
+Ball 15 dropped into a pocket.
+DIAGNOSTIC: 9 balls freed.
+DIAGNOSTIC: 9 nodes freed.
+
+At time  0.4162:
+Ball # 0 is at ( 5.735,  5.735) moving ( -10.8636,  -10.8636)
+Ball # 6 is at (17.833, 25.000) moving ( -16.3929,    0.0000)
+Ball # 7 is at (27.000, 34.874) moving (   0.0000,   19.8929)
+Ball # 8 is at (27.000, 15.126) moving (   0.0000,  -19.8929)
+Ball # 9 is at (84.665, 25.000) moving (  22.3929,    0.0000)
+Ball #10 is at (73.000, 39.245) moving (   0.0000,   30.3929)
+Ball #11 is at (73.000, 10.755) moving (   0.0000,  -30.3929)
+
+At time  0.4275:
+Ball # 0 is at ( 5.613,  5.613) moving ( -10.8329,  -10.8329)
+Ball # 6 is at (17.649, 25.000) moving ( -16.3495,    0.0000)
+Ball # 7 is at (27.000, 35.098) moving (   0.0000,   19.8495)
+Ball # 8 is at (27.000, 14.902) moving (   0.0000,  -19.8495)
+Ball # 9 is at (84.916, 25.000) moving (  22.3495,    0.0000)
+Ball #10 is at (73.000, 39.586) moving (   0.0000,   30.3495)
+Ball #11 is at (73.000, 10.414) moving (   0.0000,  -30.3495)
+
+At time  0.4387:
+Ball # 0 is at ( 5.491,  5.491) moving ( -10.8022,  -10.8022)
+Ball # 6 is at (17.465, 25.000) moving ( -16.3060,    0.0000)
+Ball # 7 is at (27.000, 35.321) moving (   0.0000,   19.8060)
+Ball # 8 is at (27.000, 14.679) moving (   0.0000,  -19.8060)
+Ball # 9 is at (85.168, 25.000) moving (  22.3060,    0.0000)
+Ball #10 is at (73.000, 39.928) moving (   0.0000,   30.3060)
+Ball #11 is at (73.000, 10.072) moving (   0.0000,  -30.3060)
+
+At time  0.4500:
+Ball # 0 is at ( 5.370,  5.370) moving ( -10.7715,  -10.7715)
+Ball # 6 is at (17.281, 25.000) moving ( -16.2626,    0.0000)
+Ball # 7 is at (27.000, 35.544) moving (   0.0000,   19.7626)
+Ball # 8 is at (27.000, 14.456) moving (   0.0000,  -19.7626)
+Ball # 9 is at (85.419, 25.000) moving (  22.2626,    0.0000)
+Ball #10 is at (73.000, 40.269) moving (   0.0000,   30.2626)
+Ball #11 is at (73.000,  9.731) moving (   0.0000,  -30.2626)
+
+At time  0.4612:
+Ball # 0 is at ( 5.248,  5.248) moving ( -10.7408,  -10.7408)
+Ball # 6 is at (17.098, 25.000) moving ( -16.2192,    0.0000)
+Ball # 7 is at (27.000, 35.766) moving (   0.0000,   19.7192)
+Ball # 8 is at (27.000, 14.234) moving (   0.0000,  -19.7192)
+Ball # 9 is at (85.669, 25.000) moving (  22.2192,    0.0000)
+Ball #10 is at (73.000, 40.609) moving (   0.0000,   30.2192)
+Ball #11 is at (73.000,  9.391) moving (   0.0000,  -30.2192)
+
+At time  0.4725:
+Ball # 0 is at ( 5.127,  5.127) moving ( -10.7100,  -10.7100)
+Ball # 6 is at (16.916, 25.000) moving ( -16.1757,    0.0000)
+Ball # 7 is at (27.000, 35.988) moving (   0.0000,   19.6757)
+Ball # 8 is at (27.000, 14.012) moving (   0.0000,  -19.6757)
+Ball # 9 is at (85.919, 25.000) moving (  22.1757,    0.0000)
+Ball #10 is at (73.000, 40.949) moving (   0.0000,   30.1757)
+Ball #11 is at (73.000,  9.051) moving (   0.0000,  -30.1757)
+
+At time  0.4837:
+Ball # 0 is at ( 5.007,  5.007) moving ( -10.6793,  -10.6793)
+Ball # 6 is at (16.734, 25.000) moving ( -16.1323,    0.0000)
+Ball # 7 is at (27.000, 36.209) moving (   0.0000,   19.6323)
+Ball # 8 is at (27.000, 13.791) moving (   0.0000,  -19.6323)
+Ball # 9 is at (86.169, 25.000) moving (  22.1323,    0.0000)
+Ball #10 is at (73.000, 41.289) moving (   0.0000,   30.1323)
+Ball #11 is at (73.000,  8.711) moving (   0.0000,  -30.1323)
+
+At time  0.4950:
+Ball # 0 is at ( 4.887,  4.887) moving ( -10.6486,  -10.6486)
+Ball # 6 is at (16.552, 25.000) moving ( -16.0889,    0.0000)
+Ball # 7 is at (27.000, 36.430) moving (   0.0000,   19.5889)
+Ball # 8 is at (27.000, 13.570) moving (   0.0000,  -19.5889)
+Ball # 9 is at (86.418, 25.000) moving (  22.0889,    0.0000)
+Ball #10 is at (73.000, 41.628) moving (   0.0000,   30.0889)
+Ball #11 is at (73.000,  8.372) moving (   0.0000,  -30.0889)
+
+At time  0.5062:
+Ball # 0 is at ( 4.767,  4.767) moving ( -10.6179,  -10.6179)
+Ball # 6 is at (16.371, 25.000) moving ( -16.0454,    0.0000)
+Ball # 7 is at (27.000, 36.651) moving (   0.0000,   19.5454)
+Ball # 8 is at (27.000, 13.349) moving (   0.0000,  -19.5454)
+Ball # 9 is at (86.666, 25.000) moving (  22.0454,    0.0000)
+Ball #10 is at (73.000, 41.966) moving (   0.0000,   30.0454)
+Ball #11 is at (73.000,  8.034) moving (   0.0000,  -30.0454)
+
+At time  0.5175:
+Ball # 0 is at ( 4.648,  4.648) moving ( -10.5872,  -10.5872)
+Ball # 6 is at (16.191, 25.000) moving ( -16.0020,    0.0000)
+Ball # 7 is at (27.000, 36.871) moving (   0.0000,   19.5020)
+Ball # 8 is at (27.000, 13.129) moving (   0.0000,  -19.5020)
+Ball # 9 is at (86.914, 25.000) moving (  22.0020,    0.0000)
+Ball #10 is at (73.000, 42.304) moving (   0.0000,   30.0020)
+Ball #11 is at (73.000,  7.696) moving (   0.0000,  -30.0020)
+
+At time  0.5287:
+Ball # 0 is at ( 4.529,  4.529) moving ( -10.5565,  -10.5565)
+Ball # 6 is at (16.011, 25.000) moving ( -15.9586,    0.0000)
+Ball # 7 is at (27.000, 37.090) moving (   0.0000,   19.4586)
+Ball # 8 is at (27.000, 12.910) moving (   0.0000,  -19.4586)
+Ball # 9 is at (87.162, 25.000) moving (  21.9586,    0.0000)
+Ball #10 is at (73.000, 42.642) moving (   0.0000,   29.9586)
+Ball #11 is at (73.000,  7.358) moving (   0.0000,  -29.9586)
+
+At time  0.5400:
+Ball # 0 is at ( 4.410,  4.410) moving ( -10.5258,  -10.5258)
+Ball # 6 is at (15.831, 25.000) moving ( -15.9151,    0.0000)
+Ball # 7 is at (27.000, 37.309) moving (   0.0000,   19.4151)
+Ball # 8 is at (27.000, 12.691) moving (   0.0000,  -19.4151)
+Ball # 9 is at (87.409, 25.000) moving (  21.9151,    0.0000)
+Ball #10 is at (73.000, 42.979) moving (   0.0000,   29.9151)
+Ball #11 is at (73.000,  7.021) moving (   0.0000,  -29.9151)
+
+At time  0.5512:
+Ball # 0 is at ( 4.291,  4.291) moving ( -10.4951,  -10.4951)
+Ball # 6 is at (15.652, 25.000) moving ( -15.8717,    0.0000)
+Ball # 7 is at (27.000, 37.527) moving (   0.0000,   19.3717)
+Ball # 8 is at (27.000, 12.473) moving (   0.0000,  -19.3717)
+Ball # 9 is at (87.655, 25.000) moving (  21.8717,    0.0000)
+Ball #10 is at (73.000, 43.315) moving (   0.0000,   29.8717)
+Ball #11 is at (73.000,  6.685) moving (   0.0000,  -29.8717)
+
+At time  0.5625:
+Ball # 0 is at ( 4.173,  4.173) moving ( -10.4643,  -10.4643)
+Ball # 6 is at (15.474, 25.000) moving ( -15.8283,    0.0000)
+Ball # 7 is at (27.000, 37.745) moving (   0.0000,   19.3283)
+Ball # 8 is at (27.000, 12.255) moving (   0.0000,  -19.3283)
+Ball # 9 is at (87.901, 25.000) moving (  21.8283,    0.0000)
+Ball #10 is at (73.000, 43.651) moving (   0.0000,   29.8283)
+Ball #11 is at (73.000,  6.349) moving (   0.0000,  -29.8283)
+
+At time  0.5737:
+Ball # 0 is at ( 4.056,  4.056) moving ( -10.4336,  -10.4336)
+Ball # 6 is at (15.296, 25.000) moving ( -15.7848,    0.0000)
+Ball # 7 is at (27.000, 37.963) moving (   0.0000,   19.2848)
+Ball # 8 is at (27.000, 12.037) moving (   0.0000,  -19.2848)
+Ball # 9 is at (88.147, 25.000) moving (  21.7848,    0.0000)
+Ball #10 is at (73.000, 43.987) moving (   0.0000,   29.7848)
+Ball #11 is at (73.000,  6.013) moving (   0.0000,  -29.7848)
+
+At time  0.5850:
+Ball # 0 is at ( 3.938,  3.938) moving ( -10.4029,  -10.4029)
+Ball # 6 is at (15.118, 25.000) moving ( -15.7414,    0.0000)
+Ball # 7 is at (27.000, 38.180) moving (   0.0000,   19.2414)
+Ball # 8 is at (27.000, 11.820) moving (   0.0000,  -19.2414)
+Ball # 9 is at (88.392, 25.000) moving (  21.7414,    0.0000)
+Ball #10 is at (73.000, 44.322) moving (   0.0000,   29.7414)
+Ball #11 is at (73.000,  5.678) moving (   0.0000,  -29.7414)
+
+At time  0.5962:
+Ball # 0 is at ( 3.821,  3.821) moving ( -10.3722,  -10.3722)
+Ball # 6 is at (14.941, 25.000) moving ( -15.6979,    0.0000)
+Ball # 7 is at (27.000, 38.396) moving (   0.0000,   19.1979)
+Ball # 8 is at (27.000, 11.604) moving (   0.0000,  -19.1979)
+Ball # 9 is at (88.637, 25.000) moving (  21.6979,    0.0000)
+Ball #10 is at (73.000, 44.657) moving (   0.0000,   29.6979)
+Ball #11 is at (73.000,  5.343) moving (   0.0000,  -29.6979)
+
+At time  0.6075:
+Ball # 0 is at ( 3.704,  3.704) moving ( -10.3415,  -10.3415)
+Ball # 6 is at (14.764, 25.000) moving ( -15.6545,    0.0000)
+Ball # 7 is at (27.000, 38.612) moving (   0.0000,   19.1545)
+Ball # 8 is at (27.000, 11.388) moving (   0.0000,  -19.1545)
+Ball # 9 is at (88.881, 25.000) moving (  21.6545,    0.0000)
+Ball #10 is at (73.000, 44.991) moving (   0.0000,   29.6545)
+Ball #11 is at (73.000,  5.009) moving (   0.0000,  -29.6545)
+
+At time  0.6187:
+Ball # 0 is at ( 3.588,  3.588) moving ( -10.3108,  -10.3108)
+Ball # 6 is at (14.588, 25.000) moving ( -15.6111,    0.0000)
+Ball # 7 is at (27.000, 38.827) moving (   0.0000,   19.1111)
+Ball # 8 is at (27.000, 11.173) moving (   0.0000,  -19.1111)
+Ball # 9 is at (89.124, 25.000) moving (  21.6111,    0.0000)
+Ball #10 is at (73.000, 45.324) moving (   0.0000,   29.6111)
+Ball #11 is at (73.000,  4.676) moving (   0.0000,  -29.6111)
+
+At time  0.6300:
+Ball # 0 is at ( 3.472,  3.472) moving ( -10.2801,  -10.2801)
+Ball # 6 is at (14.413, 25.000) moving ( -15.5676,    0.0000)
+Ball # 7 is at (27.000, 39.042) moving (   0.0000,   19.0676)
+Ball # 8 is at (27.000, 10.958) moving (   0.0000,  -19.0676)
+Ball # 9 is at (89.367, 25.000) moving (  21.5676,    0.0000)
+Ball #10 is at (73.000, 45.657) moving (   0.0000,   29.5676)
+Ball #11 is at (73.000,  4.343) moving (   0.0000,  -29.5676)
+
+At time  0.6412:
+Ball # 0 is at ( 3.356,  3.356) moving ( -10.2493,  -10.2493)
+Ball # 6 is at (14.237, 25.000) moving ( -15.5242,    0.0000)
+Ball # 7 is at (27.000, 39.257) moving (   0.0000,   19.0242)
+Ball # 8 is at (27.000, 10.743) moving (   0.0000,  -19.0242)
+Ball # 9 is at (89.610, 25.000) moving (  21.5242,    0.0000)
+Ball #10 is at (73.000, 45.990) moving (   0.0000,   29.5242)
+Ball #11 is at (73.000,  4.010) moving (   0.0000,  -29.5242)
+
+At time  0.6525:
+Ball # 0 is at ( 3.241,  3.241) moving ( -10.2186,  -10.2186)
+Ball # 6 is at (14.063, 25.000) moving ( -15.4808,    0.0000)
+Ball # 7 is at (27.000, 39.471) moving (   0.0000,   18.9808)
+Ball # 8 is at (27.000, 10.529) moving (   0.0000,  -18.9808)
+Ball # 9 is at (89.852, 25.000) moving (  21.4808,    0.0000)
+Ball #10 is at (73.000, 46.322) moving (   0.0000,   29.4808)
+Ball #11 is at (73.000,  3.678) moving (   0.0000,  -29.4808)
+
+At time  0.6637:
+Ball # 0 is at ( 3.126,  3.126) moving ( -10.1879,  -10.1879)
+Ball # 6 is at (13.889, 25.000) moving ( -15.4373,    0.0000)
+Ball # 7 is at (27.000, 39.685) moving (   0.0000,   18.9373)
+Ball # 8 is at (27.000, 10.315) moving (   0.0000,  -18.9373)
+Ball # 9 is at (90.094, 25.000) moving (  21.4373,    0.0000)
+Ball #10 is at (73.000, 46.654) moving (   0.0000,   29.4373)
+Ball #11 is at (73.000,  3.346) moving (   0.0000,  -29.4373)
+
+At time  0.6750:
+Ball # 0 is at ( 3.012,  3.012) moving ( -10.1572,  -10.1572)
+Ball # 6 is at (13.715, 25.000) moving ( -15.3939,    0.0000)
+Ball # 7 is at (27.000, 39.898) moving (   0.0000,   18.8939)
+Ball # 8 is at (27.000, 10.102) moving (   0.0000,  -18.8939)
+Ball # 9 is at (90.335, 25.000) moving (  21.3939,    0.0000)
+Ball #10 is at (73.000, 46.985) moving (   0.0000,   29.3939)
+Ball #11 is at (73.000,  3.015) moving (   0.0000,  -29.3939)
+
+At time  0.6862:
+Ball # 0 is at ( 2.897,  2.897) moving ( -10.1265,  -10.1265)
+Ball # 6 is at (13.542, 25.000) moving ( -15.3505,    0.0000)
+Ball # 7 is at (27.000, 40.110) moving (   0.0000,   18.8505)
+Ball # 8 is at (27.000,  9.890) moving (   0.0000,  -18.8505)
+Ball # 9 is at (90.576, 25.000) moving (  21.3505,    0.0000)
+Ball #10 is at (73.000, 47.316) moving (   0.0000,   29.3505)
+Ball #11 is at (73.000,  2.684) moving (   0.0000,  -29.3505)
+
+At time  0.6975:
+Ball # 0 is at ( 2.783,  2.783) moving ( -10.0958,  -10.0958)
+Ball # 6 is at (13.369, 25.000) moving ( -15.3070,    0.0000)
+Ball # 7 is at (27.000, 40.322) moving (   0.0000,   18.8070)
+Ball # 8 is at (27.000,  9.678) moving (   0.0000,  -18.8070)
+Ball # 9 is at (90.816, 25.000) moving (  21.3070,    0.0000)
+Ball #10 is at (73.000, 47.646) moving (   0.0000,   29.3070)
+Ball #11 is at (73.000,  2.354) moving (   0.0000,  -29.3070)
+
+At time  0.7087:
+Ball # 0 is at ( 2.670,  2.670) moving ( -10.0651,  -10.0651)
+Ball # 6 is at (13.197, 25.000) moving ( -15.2636,    0.0000)
+Ball # 7 is at (27.000, 40.534) moving (   0.0000,   18.7636)
+Ball # 8 is at (27.000,  9.466) moving (   0.0000,  -18.7636)
+Ball # 9 is at (91.056, 25.000) moving (  21.2636,    0.0000)
+Ball #10 is at (73.000, 47.976) moving (   0.0000,   29.2636)
+Ball #11 is at (73.000,  2.024) moving (   0.0000,  -29.2636)
+
+At time  0.7200:
+Ball # 0 is at ( 2.557,  2.557) moving ( -10.0344,  -10.0344)
+Ball # 6 is at (13.025, 25.000) moving ( -15.2202,    0.0000)
+Ball # 7 is at (27.000, 40.745) moving (   0.0000,   18.7202)
+Ball # 8 is at (27.000,  9.255) moving (   0.0000,  -18.7202)
+Ball # 9 is at (91.295, 25.000) moving (  21.2202,    0.0000)
+Ball #10 is at (73.000, 48.305) moving (   0.0000,   29.2202)
+Ball #11 is at (73.000,  1.695) moving (   0.0000,  -29.2202)
+
+At time  0.7312:
+Ball # 0 is at ( 2.444,  2.444) moving ( -10.0036,  -10.0036)
+Ball # 6 is at (12.854, 25.000) moving ( -15.1767,    0.0000)
+Ball # 7 is at (27.000, 40.955) moving (   0.0000,   18.6767)
+Ball # 8 is at (27.000,  9.045) moving (   0.0000,  -18.6767)
+Ball # 9 is at (91.534, 25.000) moving (  21.1767,    0.0000)
+Ball #10 is at (73.000, 48.634) moving (   0.0000,   29.1767)
+Ball #11 is at (73.000,  1.366) moving (   0.0000,  -29.1767)
+
+At time  0.7425:
+Ball # 0 is at ( 2.331,  2.331) moving (  -9.9729,   -9.9729)
+Ball # 6 is at (12.683, 25.000) moving ( -15.1333,    0.0000)
+Ball # 7 is at (27.000, 41.166) moving (   0.0000,   18.6333)
+Ball # 8 is at (27.000,  8.834) moving (   0.0000,  -18.6333)
+Ball # 9 is at (91.772, 25.000) moving (  21.1333,    0.0000)
+Ball #10 is at (73.000, 48.788) moving (   0.0000,  -14.5449)
+Ball #11 is at (73.000,  1.212) moving (   0.0000,   14.5449)
+
+At time  0.7537:
+Ball # 0 is at ( 2.219,  2.219) moving (  -9.9422,   -9.9422)
+Ball # 6 is at (12.513, 25.000) moving ( -15.0899,    0.0000)
+Ball # 7 is at (27.000, 41.375) moving (   0.0000,   18.5899)
+Ball # 8 is at (27.000,  8.625) moving (   0.0000,  -18.5899)
+Ball # 9 is at (92.010, 25.000) moving (  21.0899,    0.0000)
+Ball #10 is at (73.000, 48.625) moving (   0.0000,  -14.5015)
+Ball #11 is at (73.000,  1.375) moving (   0.0000,   14.5015)
+
+At time  0.7650:
+Ball # 0 is at ( 2.107,  2.107) moving (  -9.9115,   -9.9115)
+Ball # 6 is at (12.343, 25.000) moving ( -15.0464,    0.0000)
+Ball # 7 is at (27.000, 41.584) moving (   0.0000,   18.5464)
+Ball # 8 is at (27.000,  8.416) moving (   0.0000,  -18.5464)
+Ball # 9 is at (92.247, 25.000) moving (  21.0464,    0.0000)
+Ball #10 is at (73.000, 48.461) moving (   0.0000,  -14.4581)
+Ball #11 is at (73.000,  1.539) moving (   0.0000,   14.4581)
+
+At time  0.7762:
+Ball # 0 is at ( 1.996,  1.996) moving (  -9.8808,   -9.8808)
+Ball # 6 is at (12.174, 25.000) moving ( -15.0030,    0.0000)
+Ball # 7 is at (27.000, 41.793) moving (   0.0000,   18.5030)
+Ball # 8 is at (27.000,  8.207) moving (   0.0000,  -18.5030)
+Ball # 9 is at (92.484, 25.000) moving (  21.0030,    0.0000)
+Ball #10 is at (73.000, 48.299) moving (   0.0000,  -14.4146)
+Ball #11 is at (73.000,  1.701) moving (   0.0000,   14.4146)
+
+At time  0.7875:
+Ball # 0 is at ( 1.884,  1.884) moving (  -9.8501,   -9.8501)
+Ball # 6 is at (12.005, 25.000) moving ( -14.9596,    0.0000)
+Ball # 7 is at (27.000, 42.001) moving (   0.0000,   18.4596)
+Ball # 8 is at (27.000,  7.999) moving (   0.0000,  -18.4596)
+Ball # 9 is at (92.720, 25.000) moving (  20.9596,    0.0000)
+Ball #10 is at (73.000, 48.137) moving (   0.0000,  -14.3712)
+Ball #11 is at (73.000,  1.863) moving (   0.0000,   14.3712)
+
+At time  0.7987:
+Ball # 0 is at ( 1.774,  1.774) moving (  -9.8194,   -9.8194)
+Ball # 6 is at (11.837, 25.000) moving ( -14.9161,    0.0000)
+Ball # 7 is at (27.000, 42.209) moving (   0.0000,   18.4161)
+Ball # 8 is at (27.000,  7.791) moving (   0.0000,  -18.4161)
+Ball # 9 is at (92.956, 25.000) moving (  20.9161,    0.0000)
+Ball #10 is at (73.000, 47.975) moving (   0.0000,  -14.3278)
+Ball #11 is at (73.000,  2.025) moving (   0.0000,   14.3278)
+
+At time  0.8100:
+Ball # 0 is at ( 1.663,  1.663) moving (  -9.7887,   -9.7887)
+Ball # 6 is at (11.669, 25.000) moving ( -14.8727,    0.0000)
+Ball # 7 is at (27.000, 42.416) moving (   0.0000,   18.3727)
+Ball # 8 is at (27.000,  7.584) moving (   0.0000,  -18.3727)
+Ball # 9 is at (93.191, 25.000) moving (  20.8727,    0.0000)
+Ball #10 is at (73.000, 47.814) moving (   0.0000,  -14.2843)
+Ball #11 is at (73.000,  2.186) moving (   0.0000,   14.2843)
+
+At time  0.8212:
+Ball # 0 is at ( 1.553,  1.553) moving (  -9.7579,   -9.7579)
+Ball # 6 is at (11.502, 25.000) moving ( -14.8292,    0.0000)
+Ball # 7 is at (27.000, 42.623) moving (   0.0000,   18.3292)
+Ball # 8 is at (27.000,  7.377) moving (   0.0000,  -18.3292)
+Ball # 9 is at (93.426, 25.000) moving (  20.8292,    0.0000)
+Ball #10 is at (73.000, 47.653) moving (   0.0000,  -14.2409)
+Ball #11 is at (73.000,  2.347) moving (   0.0000,   14.2409)
+
+At time  0.8325:
+Ball # 0 is at ( 1.443,  1.443) moving (  -9.7272,   -9.7272)
+Ball # 6 is at (11.335, 25.000) moving ( -14.7858,    0.0000)
+Ball # 7 is at (27.000, 42.829) moving (   0.0000,   18.2858)
+Ball # 8 is at (27.000,  7.171) moving (   0.0000,  -18.2858)
+Ball # 9 is at (93.660, 25.000) moving (  20.7858,    0.0000)
+Ball #10 is at (73.000, 47.493) moving (   0.0000,  -14.1974)
+Ball #11 is at (73.000,  2.507) moving (   0.0000,   14.1974)
+
+At time  0.8437:
+Ball # 0 is at ( 1.334,  1.334) moving (  -9.6965,   -9.6965)
+Ball # 6 is at (11.168, 25.000) moving ( -14.7424,    0.0000)
+Ball # 7 is at (27.000, 43.035) moving (   0.0000,   18.2424)
+Ball # 8 is at (27.000,  6.965) moving (   0.0000,  -18.2424)
+Ball # 9 is at (93.894, 25.000) moving (  20.7424,    0.0000)
+Ball #10 is at (73.000, 47.333) moving (   0.0000,  -14.1540)
+Ball #11 is at (73.000,  2.667) moving (   0.0000,   14.1540)
+
+At time  0.8550:
+Ball # 0 is at ( 1.225,  1.225) moving (  -9.6658,   -9.6658)
+Ball # 6 is at (11.003, 25.000) moving ( -14.6989,    0.0000)
+Ball # 7 is at (27.000, 43.240) moving (   0.0000,   18.1989)
+Ball # 8 is at (27.000,  6.760) moving (   0.0000,  -18.1989)
+Ball # 9 is at (94.127, 25.000) moving (  20.6989,    0.0000)
+Ball #10 is at (73.000, 47.174) moving (   0.0000,  -14.1106)
+Ball #11 is at (73.000,  2.826) moving (   0.0000,   14.1106)
+
+At time  0.8662:
+Ball # 0 is at ( 1.116,  1.116) moving (  -9.6351,   -9.6351)
+Ball # 6 is at (10.837, 25.000) moving ( -14.6555,    0.0000)
+Ball # 7 is at (27.000, 43.445) moving (   0.0000,   18.1555)
+Ball # 8 is at (27.000,  6.555) moving (   0.0000,  -18.1555)
+Ball # 9 is at (94.360, 25.000) moving (  20.6555,    0.0000)
+Ball #10 is at (73.000, 47.015) moving (   0.0000,  -14.0671)
+Ball #11 is at (73.000,  2.985) moving (   0.0000,   14.0671)
+
+At time  0.8775:
+Ball # 0 is at ( 1.008,  1.008) moving (  -9.6044,   -9.6044)
+Ball # 6 is at (10.672, 25.000) moving ( -14.6121,    0.0000)
+Ball # 7 is at (27.000, 43.649) moving (   0.0000,   18.1121)
+Ball # 8 is at (27.000,  6.351) moving (   0.0000,  -18.1121)
+Ball # 9 is at (94.593, 25.000) moving (  20.6121,    0.0000)
+Ball #10 is at (73.000, 46.857) moving (   0.0000,  -14.0237)
+Ball #11 is at (73.000,  3.143) moving (   0.0000,   14.0237)
+
+At time  0.8887:
+Ball # 0 is at ( 0.900,  0.900) moving (  -9.5737,   -9.5737)
+Ball # 6 is at (10.508, 25.000) moving ( -14.5686,    0.0000)
+Ball # 7 is at (27.000, 43.853) moving (   0.0000,   18.0686)
+Ball # 8 is at (27.000,  6.147) moving (   0.0000,  -18.0686)
+Ball # 9 is at (94.824, 25.000) moving (  20.5686,    0.0000)
+Ball #10 is at (73.000, 46.699) moving (   0.0000,  -13.9803)
+Ball #11 is at (73.000,  3.301) moving (   0.0000,   13.9803)
+
+At time  0.9000:
+Ball # 0 is at ( 0.792,  0.792) moving (  -9.5429,   -9.5429)
+Ball # 6 is at (10.344, 25.000) moving ( -14.5252,    0.0000)
+Ball # 7 is at (27.000, 44.056) moving (   0.0000,   18.0252)
+Ball # 8 is at (27.000,  5.944) moving (   0.0000,  -18.0252)
+Ball # 9 is at (95.056, 25.000) moving (  20.5252,    0.0000)
+Ball #10 is at (73.000, 46.542) moving (   0.0000,  -13.9368)
+Ball #11 is at (73.000,  3.458) moving (   0.0000,   13.9368)
+
+At time  0.9112:
+Ball # 0 is at ( 0.684,  0.684) moving (  -9.5122,   -9.5122)
+Ball # 6 is at (10.181, 25.000) moving ( -14.4818,    0.0000)
+Ball # 7 is at (27.000, 44.259) moving (   0.0000,   17.9818)
+Ball # 8 is at (27.000,  5.741) moving (   0.0000,  -17.9818)
+Ball # 9 is at (95.287, 25.000) moving (  20.4818,    0.0000)
+Ball #10 is at (73.000, 46.385) moving (   0.0000,  -13.8934)
+Ball #11 is at (73.000,  3.615) moving (   0.0000,   13.8934)
+
+At time  0.9225:
+Ball # 0 is at ( 0.577,  0.577) moving (  -9.4815,   -9.4815)
+Ball # 6 is at (10.018, 25.000) moving ( -14.4383,    0.0000)
+Ball # 7 is at (27.000, 44.461) moving (   0.0000,   17.9383)
+Ball # 8 is at (27.000,  5.539) moving (   0.0000,  -17.9383)
+Ball # 9 is at (95.517, 25.000) moving (  20.4383,    0.0000)
+Ball #10 is at (73.000, 46.229) moving (   0.0000,  -13.8500)
+Ball #11 is at (73.000,  3.771) moving (   0.0000,   13.8500)
+
+At time  0.9337:
+Ball # 0 is at ( 0.471,  0.471) moving (  -9.4508,   -9.4508)
+Ball # 6 is at ( 9.855, 25.000) moving ( -14.3949,    0.0000)
+Ball # 7 is at (27.000, 44.663) moving (   0.0000,   17.8949)
+Ball # 8 is at (27.000,  5.337) moving (   0.0000,  -17.8949)
+Ball # 9 is at (95.747, 25.000) moving (  20.3949,    0.0000)
+Ball #10 is at (73.000, 46.073) moving (   0.0000,  -13.8065)
+Ball #11 is at (73.000,  3.927) moving (   0.0000,   13.8065)
+
+At time  0.9450:
+Ball # 0 is at ( 0.364,  0.364) moving (  -9.4201,   -9.4201)
+Ball # 6 is at ( 9.693, 25.000) moving ( -14.3515,    0.0000)
+Ball # 7 is at (27.000, 44.864) moving (   0.0000,   17.8515)
+Ball # 8 is at (27.000,  5.136) moving (   0.0000,  -17.8515)
+Ball # 9 is at (95.977, 25.000) moving (  20.3515,    0.0000)
+Ball #10 is at (73.000, 45.918) moving (   0.0000,  -13.7631)
+Ball #11 is at (73.000,  4.082) moving (   0.0000,   13.7631)
+
+At time  0.9562:
+Ball # 0 is at ( 0.259,  0.259) moving (  -9.3894,   -9.3894)
+Ball # 6 is at ( 9.532, 25.000) moving ( -14.3080,    0.0000)
+Ball # 7 is at (27.000, 45.065) moving (   0.0000,   17.8080)
+Ball # 8 is at (27.000,  4.935) moving (   0.0000,  -17.8080)
+Ball # 9 is at (96.206, 25.000) moving (  20.3080,    0.0000)
+Ball #10 is at (73.000, 45.763) moving (   0.0000,  -13.7197)
+Ball #11 is at (73.000,  4.237) moving (   0.0000,   13.7197)
+
+At time  0.9675:
+Ball # 0 is at ( 0.153,  0.153) moving (  -9.3587,   -9.3587)
+Ball # 6 is at ( 9.371, 25.000) moving ( -14.2646,    0.0000)
+Ball # 7 is at (27.000, 45.265) moving (   0.0000,   17.7646)
+Ball # 8 is at (27.000,  4.735) moving (   0.0000,  -17.7646)
+Ball # 9 is at (96.434, 25.000) moving (  20.2646,    0.0000)
+Ball #10 is at (73.000, 45.608) moving (   0.0000,  -13.6762)
+Ball #11 is at (73.000,  4.392) moving (   0.0000,   13.6762)
+
+At time  0.9787:
+Ball # 0 is at ( 0.048,  0.048) moving (  -9.3280,   -9.3280)
+Ball # 6 is at ( 9.211, 25.000) moving ( -14.2212,    0.0000)
+Ball # 7 is at (27.000, 45.465) moving (   0.0000,   17.7212)
+Ball # 8 is at (27.000,  4.535) moving (   0.0000,  -17.7212)
+Ball # 9 is at (96.662, 25.000) moving (  20.2212,    0.0000)
+Ball #10 is at (73.000, 45.455) moving (   0.0000,  -13.6328)
+Ball #11 is at (73.000,  4.545) moving (   0.0000,   13.6328)
+
+Ball 0 dropped into a pocket.
+DIAGNOSTIC: 10 balls freed.
+DIAGNOSTIC: 10 nodes freed.
+
+At time  0.9900:
+Ball # 6 is at ( 9.051, 25.000) moving ( -14.1777,    0.0000)
+Ball # 7 is at (27.000, 45.664) moving (   0.0000,   17.6777)
+Ball # 8 is at (27.000,  4.336) moving (   0.0000,  -17.6777)
+Ball # 9 is at (96.889, 25.000) moving (  20.1777,    0.0000)
+Ball #10 is at (73.000, 45.301) moving (   0.0000,  -13.5894)
+Ball #11 is at (73.000,  4.699) moving (   0.0000,   13.5894)
+
+At time  1.0012:
+Ball # 6 is at ( 8.891, 25.000) moving ( -14.1343,    0.0000)
+Ball # 7 is at (27.000, 45.863) moving (   0.0000,   17.6343)
+Ball # 8 is at (27.000,  4.137) moving (   0.0000,  -17.6343)
+Ball # 9 is at (97.116, 25.000) moving (  20.1343,    0.0000)
+Ball #10 is at (73.000, 45.148) moving (   0.0000,  -13.5459)
+Ball #11 is at (73.000,  4.852) moving (   0.0000,   13.5459)
+
+At time  1.0125:
+Ball # 6 is at ( 8.732, 25.000) moving ( -14.0909,    0.0000)
+Ball # 7 is at (27.000, 46.062) moving (   0.0000,   17.5909)
+Ball # 8 is at (27.000,  3.938) moving (   0.0000,  -17.5909)
+Ball # 9 is at (97.343, 25.000) moving (  20.0909,    0.0000)
+Ball #10 is at (73.000, 44.996) moving (   0.0000,  -13.5025)
+Ball #11 is at (73.000,  5.004) moving (   0.0000,   13.5025)
+
+At time  1.0237:
+Ball # 6 is at ( 8.573, 25.000) moving ( -14.0474,    0.0000)
+Ball # 7 is at (27.000, 46.260) moving (   0.0000,   17.5474)
+Ball # 8 is at (27.000,  3.740) moving (   0.0000,  -17.5474)
+Ball # 9 is at (97.569, 25.000) moving (  20.0474,    0.0000)
+Ball #10 is at (73.000, 44.844) moving (   0.0000,  -13.4591)
+Ball #11 is at (73.000,  5.156) moving (   0.0000,   13.4591)
+
+At time  1.0350:
+Ball # 6 is at ( 8.415, 25.000) moving ( -14.0040,    0.0000)
+Ball # 7 is at (27.000, 46.457) moving (   0.0000,   17.5040)
+Ball # 8 is at (27.000,  3.543) moving (   0.0000,  -17.5040)
+Ball # 9 is at (97.795, 25.000) moving (  20.0040,    0.0000)
+Ball #10 is at (73.000, 44.693) moving (   0.0000,  -13.4156)
+Ball #11 is at (73.000,  5.307) moving (   0.0000,   13.4156)
+
+At time  1.0462:
+Ball # 6 is at ( 8.258, 25.000) moving ( -13.9605,    0.0000)
+Ball # 7 is at (27.000, 46.654) moving (   0.0000,   17.4605)
+Ball # 8 is at (27.000,  3.346) moving (   0.0000,  -17.4605)
+Ball # 9 is at (98.020, 25.000) moving (  19.9605,    0.0000)
+Ball #10 is at (73.000, 44.542) moving (   0.0000,  -13.3722)
+Ball #11 is at (73.000,  5.458) moving (   0.0000,   13.3722)
+
+At time  1.0575:
+Ball # 6 is at ( 8.101, 25.000) moving ( -13.9171,    0.0000)
+Ball # 7 is at (27.000, 46.850) moving (   0.0000,   17.4171)
+Ball # 8 is at (27.000,  3.150) moving (   0.0000,  -17.4171)
+Ball # 9 is at (98.244, 25.000) moving (  19.9171,    0.0000)
+Ball #10 is at (73.000, 44.391) moving (   0.0000,  -13.3287)
+Ball #11 is at (73.000,  5.609) moving (   0.0000,   13.3287)
+
+At time  1.0687:
+Ball # 6 is at ( 7.944, 25.000) moving ( -13.8737,    0.0000)
+Ball # 7 is at (27.000, 47.046) moving (   0.0000,   17.3737)
+Ball # 8 is at (27.000,  2.954) moving (   0.0000,  -17.3737)
+Ball # 9 is at (98.468, 25.000) moving (  19.8737,    0.0000)
+Ball #10 is at (73.000, 44.241) moving (   0.0000,  -13.2853)
+Ball #11 is at (73.000,  5.759) moving (   0.0000,   13.2853)
+
+At time  1.0800:
+Ball # 6 is at ( 7.788, 25.000) moving ( -13.8302,    0.0000)
+Ball # 7 is at (27.000, 47.242) moving (   0.0000,   17.3302)
+Ball # 8 is at (27.000,  2.758) moving (   0.0000,  -17.3302)
+Ball # 9 is at (98.692, 25.000) moving (  19.8302,    0.0000)
+Ball #10 is at (73.000, 44.092) moving (   0.0000,  -13.2419)
+Ball #11 is at (73.000,  5.908) moving (   0.0000,   13.2419)
+
+At time  1.0912:
+Ball # 6 is at ( 7.633, 25.000) moving ( -13.7868,    0.0000)
+Ball # 7 is at (27.000, 47.437) moving (   0.0000,   17.2868)
+Ball # 8 is at (27.000,  2.563) moving (   0.0000,  -17.2868)
+Ball # 9 is at (98.835, 25.000) moving (  -9.8717,    0.0000)
+Ball #10 is at (73.000, 43.943) moving (   0.0000,  -13.1984)
+Ball #11 is at (73.000,  6.057) moving (   0.0000,   13.1984)
+
+At time  1.1025:
+Ball # 6 is at ( 7.478, 25.000) moving ( -13.7434,    0.0000)
+Ball # 7 is at (27.000, 47.631) moving (   0.0000,   17.2434)
+Ball # 8 is at (27.000,  2.369) moving (   0.0000,  -17.2434)
+Ball # 9 is at (98.724, 25.000) moving (  -9.8283,    0.0000)
+Ball #10 is at (73.000, 43.794) moving (   0.0000,  -13.1550)
+Ball #11 is at (73.000,  6.206) moving (   0.0000,   13.1550)
+
+At time  1.1137:
+Ball # 6 is at ( 7.323, 25.000) moving ( -13.6999,    0.0000)
+Ball # 7 is at (27.000, 47.825) moving (   0.0000,   17.1999)
+Ball # 8 is at (27.000,  2.175) moving (   0.0000,  -17.1999)
+Ball # 9 is at (98.613, 25.000) moving (  -9.7848,    0.0000)
+Ball #10 is at (73.000, 43.646) moving (   0.0000,  -13.1116)
+Ball #11 is at (73.000,  6.354) moving (   0.0000,   13.1116)
+
+At time  1.1250:
+Ball # 6 is at ( 7.169, 25.000) moving ( -13.6565,    0.0000)
+Ball # 7 is at (27.000, 48.019) moving (   0.0000,   17.1565)
+Ball # 8 is at (27.000,  1.981) moving (   0.0000,  -17.1565)
+Ball # 9 is at (98.503, 25.000) moving (  -9.7414,    0.0000)
+Ball #10 is at (73.000, 43.499) moving (   0.0000,  -13.0681)
+Ball #11 is at (73.000,  6.501) moving (   0.0000,   13.0681)
+
+At time  1.1362:
+Ball # 6 is at ( 7.015, 25.000) moving ( -13.6131,    0.0000)
+Ball # 7 is at (27.000, 48.212) moving (   0.0000,   17.1131)
+Ball # 8 is at (27.000,  1.788) moving (   0.0000,  -17.1131)
+Ball # 9 is at (98.394, 25.000) moving (  -9.6979,    0.0000)
+Ball #10 is at (73.000, 43.352) moving (   0.0000,  -13.0247)
+Ball #11 is at (73.000,  6.648) moving (   0.0000,   13.0247)
+
+At time  1.1475:
+Ball # 6 is at ( 6.862, 25.000) moving ( -13.5696,    0.0000)
+Ball # 7 is at (27.000, 48.404) moving (   0.0000,   17.0696)
+Ball # 8 is at (27.000,  1.596) moving (   0.0000,  -17.0696)
+Ball # 9 is at (98.285, 25.000) moving (  -9.6545,    0.0000)
+Ball #10 is at (73.000, 43.205) moving (   0.0000,  -12.9813)
+Ball #11 is at (73.000,  6.795) moving (   0.0000,   12.9813)
+
+At time  1.1587:
+Ball # 6 is at ( 6.709, 25.000) moving ( -13.5262,    0.0000)
+Ball # 7 is at (27.000, 48.596) moving (   0.0000,   17.0262)
+Ball # 8 is at (27.000,  1.404) moving (   0.0000,  -17.0262)
+Ball # 9 is at (98.176, 25.000) moving (  -9.6111,    0.0000)
+Ball #10 is at (73.000, 43.059) moving (   0.0000,  -12.9378)
+Ball #11 is at (73.000,  6.941) moving (   0.0000,   12.9378)
+
+At time  1.1700:
+Ball # 6 is at ( 6.557, 25.000) moving ( -13.4828,    0.0000)
+Ball # 7 is at (27.000, 48.788) moving (   0.0000,   16.9828)
+Ball # 8 is at (27.000,  1.212) moving (   0.0000,  -16.9828)
+Ball # 9 is at (98.068, 25.000) moving (  -9.5676,    0.0000)
+Ball #10 is at (73.000, 42.914) moving (   0.0000,  -12.8944)
+Ball #11 is at (73.000,  7.086) moving (   0.0000,   12.8944)
+
+At time  1.1812:
+Ball # 6 is at ( 6.405, 25.000) moving ( -13.4393,    0.0000)
+Ball # 7 is at (27.000, 48.771) moving (   0.0000,   -8.4479)
+Ball # 8 is at (27.000,  1.229) moving (   0.0000,    8.4479)
+Ball # 9 is at (97.960, 25.000) moving (  -9.5242,    0.0000)
+Ball #10 is at (73.000, 42.769) moving (   0.0000,  -12.8510)
+Ball #11 is at (73.000,  7.231) moving (   0.0000,   12.8510)
+
+At time  1.1925:
+Ball # 6 is at ( 6.254, 25.000) moving ( -13.3959,    0.0000)
+Ball # 7 is at (27.000, 48.676) moving (   0.0000,   -8.4045)
+Ball # 8 is at (27.000,  1.324) moving (   0.0000,    8.4045)
+Ball # 9 is at (97.853, 25.000) moving (  -9.4808,    0.0000)
+Ball #10 is at (73.000, 42.624) moving (   0.0000,  -12.8075)
+Ball #11 is at (73.000,  7.376) moving (   0.0000,   12.8075)
+
+At time  1.2037:
+Ball # 6 is at ( 6.104, 25.000) moving ( -13.3525,    0.0000)
+Ball # 7 is at (27.000, 48.582) moving (   0.0000,   -8.3611)
+Ball # 8 is at (27.000,  1.418) moving (   0.0000,    8.3611)
+Ball # 9 is at (97.747, 25.000) moving (  -9.4373,    0.0000)
+Ball #10 is at (73.000, 42.480) moving (   0.0000,  -12.7641)
+Ball #11 is at (73.000,  7.520) moving (   0.0000,   12.7641)
+
+At time  1.2150:
+Ball # 6 is at ( 5.953, 25.000) moving ( -13.3090,    0.0000)
+Ball # 7 is at (27.000, 48.487) moving (   0.0000,   -8.3176)
+Ball # 8 is at (27.000,  1.513) moving (   0.0000,    8.3176)
+Ball # 9 is at (97.640, 25.000) moving (  -9.3939,    0.0000)
+Ball #10 is at (73.000, 42.336) moving (   0.0000,  -12.7207)
+Ball #11 is at (73.000,  7.664) moving (   0.0000,   12.7207)
+
+At time  1.2262:
+Ball # 6 is at ( 5.804, 25.000) moving ( -13.2656,    0.0000)
+Ball # 7 is at (27.000, 48.394) moving (   0.0000,   -8.2742)
+Ball # 8 is at (27.000,  1.606) moving (   0.0000,    8.2742)
+Ball # 9 is at (97.535, 25.000) moving (  -9.3505,    0.0000)
+Ball #10 is at (73.000, 42.193) moving (   0.0000,  -12.6772)
+Ball #11 is at (73.000,  7.807) moving (   0.0000,   12.6772)
+
+At time  1.2375:
+Ball # 6 is at ( 5.654, 25.000) moving ( -13.2222,    0.0000)
+Ball # 7 is at (27.000, 48.301) moving (   0.0000,   -8.2308)
+Ball # 8 is at (27.000,  1.699) moving (   0.0000,    8.2308)
+Ball # 9 is at (97.430, 25.000) moving (  -9.3070,    0.0000)
+Ball #10 is at (73.000, 42.051) moving (   0.0000,  -12.6338)
+Ball #11 is at (73.000,  7.949) moving (   0.0000,   12.6338)
+
+At time  1.2487:
+Ball # 6 is at ( 5.506, 25.000) moving ( -13.1787,    0.0000)
+Ball # 7 is at (27.000, 48.208) moving (   0.0000,   -8.1873)
+Ball # 8 is at (27.000,  1.792) moving (   0.0000,    8.1873)
+Ball # 9 is at (97.325, 25.000) moving (  -9.2636,    0.0000)
+Ball #10 is at (73.000, 41.909) moving (   0.0000,  -12.5904)
+Ball #11 is at (73.000,  8.091) moving (   0.0000,   12.5904)
+
+At time  1.2600:
+Ball # 6 is at ( 5.357, 25.000) moving ( -13.1353,    0.0000)
+Ball # 7 is at (27.000, 48.116) moving (   0.0000,   -8.1439)
+Ball # 8 is at (27.000,  1.884) moving (   0.0000,    8.1439)
+Ball # 9 is at (97.221, 25.000) moving (  -9.2202,    0.0000)
+Ball #10 is at (73.000, 41.767) moving (   0.0000,  -12.5469)
+Ball #11 is at (73.000,  8.233) moving (   0.0000,   12.5469)
+
+At time  1.2712:
+Ball # 6 is at ( 5.210, 25.000) moving ( -13.0918,    0.0000)
+Ball # 7 is at (27.000, 48.024) moving (   0.0000,   -8.1005)
+Ball # 8 is at (27.000,  1.976) moving (   0.0000,    8.1005)
+Ball # 9 is at (97.117, 25.000) moving (  -9.1767,    0.0000)
+Ball #10 is at (73.000, 41.626) moving (   0.0000,  -12.5035)
+Ball #11 is at (73.000,  8.374) moving (   0.0000,   12.5035)
+
+At time  1.2825:
+Ball # 6 is at ( 5.062, 25.000) moving ( -13.0484,    0.0000)
+Ball # 7 is at (27.000, 47.933) moving (   0.0000,   -8.0570)
+Ball # 8 is at (27.000,  2.067) moving (   0.0000,    8.0570)
+Ball # 9 is at (97.014, 25.000) moving (  -9.1333,    0.0000)
+Ball #10 is at (73.000, 41.485) moving (   0.0000,  -12.4601)
+Ball #11 is at (73.000,  8.515) moving (   0.0000,   12.4601)
+
+At time  1.2937:
+Ball # 6 is at ( 4.916, 25.000) moving ( -13.0050,    0.0000)
+Ball # 7 is at (27.000, 47.843) moving (   0.0000,   -8.0136)
+Ball # 8 is at (27.000,  2.157) moving (   0.0000,    8.0136)
+Ball # 9 is at (96.911, 25.000) moving (  -9.0899,    0.0000)
+Ball #10 is at (73.000, 41.345) moving (   0.0000,  -12.4166)
+Ball #11 is at (73.000,  8.655) moving (   0.0000,   12.4166)
+
+At time  1.3050:
+Ball # 6 is at ( 4.769, 25.000) moving ( -12.9615,    0.0000)
+Ball # 7 is at (27.000, 47.753) moving (   0.0000,   -7.9702)
+Ball # 8 is at (27.000,  2.247) moving (   0.0000,    7.9702)
+Ball # 9 is at (96.809, 25.000) moving (  -9.0464,    0.0000)
+Ball #10 is at (73.000, 41.205) moving (   0.0000,  -12.3732)
+Ball #11 is at (73.000,  8.795) moving (   0.0000,   12.3732)
+
+At time  1.3162:
+Ball # 6 is at ( 4.623, 25.000) moving ( -12.9181,    0.0000)
+Ball # 7 is at (27.000, 47.663) moving (   0.0000,   -7.9267)
+Ball # 8 is at (27.000,  2.337) moving (   0.0000,    7.9267)
+Ball # 9 is at (96.707, 25.000) moving (  -9.0030,    0.0000)
+Ball #10 is at (73.000, 41.066) moving (   0.0000,  -12.3297)
+Ball #11 is at (73.000,  8.934) moving (   0.0000,   12.3297)
+
+At time  1.3275:
+Ball # 6 is at ( 4.478, 25.000) moving ( -12.8747,    0.0000)
+Ball # 7 is at (27.000, 47.574) moving (   0.0000,   -7.8833)
+Ball # 8 is at (27.000,  2.426) moving (   0.0000,    7.8833)
+Ball # 9 is at (96.606, 25.000) moving (  -8.9596,    0.0000)
+Ball #10 is at (73.000, 40.927) moving (   0.0000,  -12.2863)
+Ball #11 is at (73.000,  9.073) moving (   0.0000,   12.2863)
+
+At time  1.3387:
+Ball # 6 is at ( 4.333, 25.000) moving ( -12.8312,    0.0000)
+Ball # 7 is at (27.000, 47.485) moving (   0.0000,   -7.8399)
+Ball # 8 is at (27.000,  2.515) moving (   0.0000,    7.8399)
+Ball # 9 is at (96.505, 25.000) moving (  -8.9161,    0.0000)
+Ball #10 is at (73.000, 40.789) moving (   0.0000,  -12.2429)
+Ball #11 is at (73.000,  9.211) moving (   0.0000,   12.2429)
+
+At time  1.3500:
+Ball # 6 is at ( 4.189, 25.000) moving ( -12.7878,    0.0000)
+Ball # 7 is at (27.000, 47.397) moving (   0.0000,   -7.7964)
+Ball # 8 is at (27.000,  2.603) moving (   0.0000,    7.7964)
+Ball # 9 is at (96.404, 25.000) moving (  -8.8727,    0.0000)
+Ball #10 is at (73.000, 40.651) moving (   0.0000,  -12.1994)
+Ball #11 is at (73.000,  9.349) moving (   0.0000,   12.1994)
+
+At time  1.3612:
+Ball # 6 is at ( 4.045, 25.000) moving ( -12.7444,    0.0000)
+Ball # 7 is at (27.000, 47.309) moving (   0.0000,   -7.7530)
+Ball # 8 is at (27.000,  2.691) moving (   0.0000,    7.7530)
+Ball # 9 is at (96.305, 25.000) moving (  -8.8292,    0.0000)
+Ball #10 is at (73.000, 40.514) moving (   0.0000,  -12.1560)
+Ball #11 is at (73.000,  9.486) moving (   0.0000,   12.1560)
+
+At time  1.3725:
+Ball # 6 is at ( 3.902, 25.000) moving ( -12.7009,    0.0000)
+Ball # 7 is at (27.000, 47.222) moving (   0.0000,   -7.7096)
+Ball # 8 is at (27.000,  2.778) moving (   0.0000,    7.7096)
+Ball # 9 is at (96.205, 25.000) moving (  -8.7858,    0.0000)
+Ball #10 is at (73.000, 40.377) moving (   0.0000,  -12.1126)
+Ball #11 is at (73.000,  9.623) moving (   0.0000,   12.1126)
+
+At time  1.3837:
+Ball # 6 is at ( 3.759, 25.000) moving ( -12.6575,    0.0000)
+Ball # 7 is at (27.000, 47.135) moving (   0.0000,   -7.6661)
+Ball # 8 is at (27.000,  2.865) moving (   0.0000,    7.6661)
+Ball # 9 is at (96.106, 25.000) moving (  -8.7424,    0.0000)
+Ball #10 is at (73.000, 40.241) moving (   0.0000,  -12.0691)
+Ball #11 is at (73.000,  9.759) moving (   0.0000,   12.0691)
+
+At time  1.3950:
+Ball # 6 is at ( 3.616, 25.000) moving ( -12.6141,    0.0000)
+Ball # 7 is at (27.000, 47.049) moving (   0.0000,   -7.6227)
+Ball # 8 is at (27.000,  2.951) moving (   0.0000,    7.6227)
+Ball # 9 is at (96.008, 25.000) moving (  -8.6989,    0.0000)
+Ball #10 is at (73.000, 40.105) moving (   0.0000,  -12.0257)
+Ball #11 is at (73.000,  9.895) moving (   0.0000,   12.0257)
+
+At time  1.4062:
+Ball # 6 is at ( 3.474, 25.000) moving ( -12.5706,    0.0000)
+Ball # 7 is at (27.000, 46.963) moving (   0.0000,   -7.5792)
+Ball # 8 is at (27.000,  3.037) moving (   0.0000,    7.5792)
+Ball # 9 is at (95.910, 25.000) moving (  -8.6555,    0.0000)
+Ball #10 is at (73.000, 39.970) moving (   0.0000,  -11.9823)
+Ball #11 is at (73.000, 10.030) moving (   0.0000,   11.9823)
+
+At time  1.4175:
+Ball # 6 is at ( 3.333, 25.000) moving ( -12.5272,    0.0000)
+Ball # 7 is at (27.000, 46.878) moving (   0.0000,   -7.5358)
+Ball # 8 is at (27.000,  3.122) moving (   0.0000,    7.5358)
+Ball # 9 is at (95.813, 25.000) moving (  -8.6121,    0.0000)
+Ball #10 is at (73.000, 39.835) moving (   0.0000,  -11.9388)
+Ball #11 is at (73.000, 10.165) moving (   0.0000,   11.9388)
+
+At time  1.4287:
+Ball # 6 is at ( 3.192, 25.000) moving ( -12.4838,    0.0000)
+Ball # 7 is at (27.000, 46.793) moving (   0.0000,   -7.4924)
+Ball # 8 is at (27.000,  3.207) moving (   0.0000,    7.4924)
+Ball # 9 is at (95.716, 25.000) moving (  -8.5686,    0.0000)
+Ball #10 is at (73.000, 39.701) moving (   0.0000,  -11.8954)
+Ball #11 is at (73.000, 10.299) moving (   0.0000,   11.8954)
+
+At time  1.4400:
+Ball # 6 is at ( 3.052, 25.000) moving ( -12.4403,    0.0000)
+Ball # 7 is at (27.000, 46.709) moving (   0.0000,   -7.4489)
+Ball # 8 is at (27.000,  3.291) moving (   0.0000,    7.4489)
+Ball # 9 is at (95.620, 25.000) moving (  -8.5252,    0.0000)
+Ball #10 is at (73.000, 39.567) moving (   0.0000,  -11.8520)
+Ball #11 is at (73.000, 10.433) moving (   0.0000,   11.8520)
+
+At time  1.4512:
+Ball # 6 is at ( 2.912, 25.000) moving ( -12.3969,    0.0000)
+Ball # 7 is at (27.000, 46.625) moving (   0.0000,   -7.4055)
+Ball # 8 is at (27.000,  3.375) moving (   0.0000,    7.4055)
+Ball # 9 is at (95.524, 25.000) moving (  -8.4818,    0.0000)
+Ball #10 is at (73.000, 39.434) moving (   0.0000,  -11.8085)
+Ball #11 is at (73.000, 10.566) moving (   0.0000,   11.8085)
+
+At time  1.4625:
+Ball # 6 is at ( 2.772, 25.000) moving ( -12.3535,    0.0000)
+Ball # 7 is at (27.000, 46.542) moving (   0.0000,   -7.3621)
+Ball # 8 is at (27.000,  3.458) moving (   0.0000,    7.3621)
+Ball # 9 is at (95.428, 25.000) moving (  -8.4383,    0.0000)
+Ball #10 is at (73.000, 39.301) moving (   0.0000,  -11.7651)
+Ball #11 is at (73.000, 10.699) moving (   0.0000,   11.7651)
+
+At time  1.4737:
+Ball # 6 is at ( 2.633, 25.000) moving ( -12.3100,    0.0000)
+Ball # 7 is at (27.000, 46.459) moving (   0.0000,   -7.3186)
+Ball # 8 is at (27.000,  3.541) moving (   0.0000,    7.3186)
+Ball # 9 is at (95.333, 25.000) moving (  -8.3949,    0.0000)
+Ball #10 is at (73.000, 39.169) moving (   0.0000,  -11.7217)
+Ball #11 is at (73.000, 10.831) moving (   0.0000,   11.7217)
+
+At time  1.4850:
+Ball # 6 is at ( 2.495, 25.000) moving ( -12.2666,    0.0000)
+Ball # 7 is at (27.000, 46.377) moving (   0.0000,   -7.2752)
+Ball # 8 is at (27.000,  3.623) moving (   0.0000,    7.2752)
+Ball # 9 is at (95.239, 25.000) moving (  -8.3515,    0.0000)
+Ball #10 is at (73.000, 39.037) moving (   0.0000,  -11.6782)
+Ball #11 is at (73.000, 10.963) moving (   0.0000,   11.6782)
+
+At time  1.4962:
+Ball # 6 is at ( 2.357, 25.000) moving ( -12.2231,    0.0000)
+Ball # 7 is at (27.000, 46.295) moving (   0.0000,   -7.2318)
+Ball # 8 is at (27.000,  3.705) moving (   0.0000,    7.2318)
+Ball # 9 is at (95.145, 25.000) moving (  -8.3080,    0.0000)
+Ball #10 is at (73.000, 38.905) moving (   0.0000,  -11.6348)
+Ball #11 is at (73.000, 11.095) moving (   0.0000,   11.6348)
+
+At time  1.5075:
+Ball # 6 is at ( 2.219, 25.000) moving ( -12.1797,    0.0000)
+Ball # 7 is at (27.000, 46.213) moving (   0.0000,   -7.1883)
+Ball # 8 is at (27.000,  3.787) moving (   0.0000,    7.1883)
+Ball # 9 is at (95.051, 25.000) moving (  -8.2646,    0.0000)
+Ball #10 is at (73.000, 38.774) moving (   0.0000,  -11.5914)
+Ball #11 is at (73.000, 11.226) moving (   0.0000,   11.5914)
+
+At time  1.5187:
+Ball # 6 is at ( 2.082, 25.000) moving ( -12.1363,    0.0000)
+Ball # 7 is at (27.000, 46.132) moving (   0.0000,   -7.1449)
+Ball # 8 is at (27.000,  3.868) moving (   0.0000,    7.1449)
+Ball # 9 is at (94.958, 25.000) moving (  -8.2212,    0.0000)
+Ball #10 is at (73.000, 38.644) moving (   0.0000,  -11.5479)
+Ball #11 is at (73.000, 11.356) moving (   0.0000,   11.5479)
+
+At time  1.5300:
+Ball # 6 is at ( 1.946, 25.000) moving ( -12.0928,    0.0000)
+Ball # 7 is at (27.000, 46.052) moving (   0.0000,   -7.1015)
+Ball # 8 is at (27.000,  3.948) moving (   0.0000,    7.1015)
+Ball # 9 is at (94.866, 25.000) moving (  -8.1777,    0.0000)
+Ball #10 is at (73.000, 38.514) moving (   0.0000,  -11.5045)
+Ball #11 is at (73.000, 11.486) moving (   0.0000,   11.5045)
+
+At time  1.5412:
+Ball # 6 is at ( 1.810, 25.000) moving ( -12.0494,    0.0000)
+Ball # 7 is at (27.000, 45.972) moving (   0.0000,   -7.0580)
+Ball # 8 is at (27.000,  4.028) moving (   0.0000,    7.0580)
+Ball # 9 is at (94.774, 25.000) moving (  -8.1343,    0.0000)
+Ball #10 is at (73.000, 38.385) moving (   0.0000,  -11.4610)
+Ball #11 is at (73.000, 11.615) moving (   0.0000,   11.4610)
+
+At time  1.5525:
+Ball # 6 is at ( 1.674, 25.000) moving ( -12.0060,    0.0000)
+Ball # 7 is at (27.000, 45.893) moving (   0.0000,   -7.0146)
+Ball # 8 is at (27.000,  4.107) moving (   0.0000,    7.0146)
+Ball # 9 is at (94.682, 25.000) moving (  -8.0909,    0.0000)
+Ball #10 is at (73.000, 38.256) moving (   0.0000,  -11.4176)
+Ball #11 is at (73.000, 11.744) moving (   0.0000,   11.4176)
+
+At time  1.5637:
+Ball # 6 is at ( 1.539, 25.000) moving ( -11.9625,    0.0000)
+Ball # 7 is at (27.000, 45.814) moving (   0.0000,   -6.9712)
+Ball # 8 is at (27.000,  4.186) moving (   0.0000,    6.9712)
+Ball # 9 is at (94.591, 25.000) moving (  -8.0474,    0.0000)
+Ball #10 is at (73.000, 38.127) moving (   0.0000,  -11.3742)
+Ball #11 is at (73.000, 11.873) moving (   0.0000,   11.3742)
+
+At time  1.5750:
+Ball # 6 is at ( 1.404, 25.000) moving ( -11.9191,    0.0000)
+Ball # 7 is at (27.000, 45.735) moving (   0.0000,   -6.9277)
+Ball # 8 is at (27.000,  4.265) moving (   0.0000,    6.9277)
+Ball # 9 is at (94.501, 25.000) moving (  -8.0040,    0.0000)
+Ball #10 is at (73.000, 37.999) moving (   0.0000,  -11.3307)
+Ball #11 is at (73.000, 12.001) moving (   0.0000,   11.3307)
+
+At time  1.5862:
+Ball # 6 is at ( 1.270, 25.000) moving ( -11.8757,    0.0000)
+Ball # 7 is at (27.000, 45.658) moving (   0.0000,   -6.8843)
+Ball # 8 is at (27.000,  4.342) moving (   0.0000,    6.8843)
+Ball # 9 is at (94.411, 25.000) moving (  -7.9605,    0.0000)
+Ball #10 is at (73.000, 37.872) moving (   0.0000,  -11.2873)
+Ball #11 is at (73.000, 12.128) moving (   0.0000,   11.2873)
+
+At time  1.5975:
+Ball # 6 is at ( 1.137, 25.000) moving ( -11.8322,    0.0000)
+Ball # 7 is at (27.000, 45.580) moving (   0.0000,   -6.8409)
+Ball # 8 is at (27.000,  4.420) moving (   0.0000,    6.8409)
+Ball # 9 is at (94.321, 25.000) moving (  -7.9171,    0.0000)
+Ball #10 is at (73.000, 37.745) moving (   0.0000,  -11.2439)
+Ball #11 is at (73.000, 12.255) moving (   0.0000,   11.2439)
+
+At time  1.6087:
+Ball # 6 is at ( 1.246, 25.000) moving (   5.8727,    0.0000)
+Ball # 7 is at (27.000, 45.503) moving (   0.0000,   -6.7974)
+Ball # 8 is at (27.000,  4.497) moving (   0.0000,    6.7974)
+Ball # 9 is at (94.232, 25.000) moving (  -7.8737,    0.0000)
+Ball #10 is at (73.000, 37.618) moving (   0.0000,  -11.2004)
+Ball #11 is at (73.000, 12.382) moving (   0.0000,   11.2004)
+
+At time  1.6200:
+Ball # 6 is at ( 1.312, 25.000) moving (   5.8292,    0.0000)
+Ball # 7 is at (27.000, 45.427) moving (   0.0000,   -6.7540)
+Ball # 8 is at (27.000,  4.573) moving (   0.0000,    6.7540)
+Ball # 9 is at (94.144, 25.000) moving (  -7.8302,    0.0000)
+Ball #10 is at (73.000, 37.492) moving (   0.0000,  -11.1570)
+Ball #11 is at (73.000, 12.508) moving (   0.0000,   11.1570)
+
+At time  1.6312:
+Ball # 6 is at ( 1.378, 25.000) moving (   5.7858,    0.0000)
+Ball # 7 is at (27.000, 45.351) moving (   0.0000,   -6.7105)
+Ball # 8 is at (27.000,  4.649) moving (   0.0000,    6.7105)
+Ball # 9 is at (94.056, 25.000) moving (  -7.7868,    0.0000)
+Ball #10 is at (73.000, 37.367) moving (   0.0000,  -11.1136)
+Ball #11 is at (73.000, 12.633) moving (   0.0000,   11.1136)
+
+At time  1.6425:
+Ball # 6 is at ( 1.443, 25.000) moving (   5.7424,    0.0000)
+Ball # 7 is at (27.000, 45.275) moving (   0.0000,   -6.6671)
+Ball # 8 is at (27.000,  4.725) moving (   0.0000,    6.6671)
+Ball # 9 is at (93.968, 25.000) moving (  -7.7434,    0.0000)
+Ball #10 is at (73.000, 37.242) moving (   0.0000,  -11.0701)
+Ball #11 is at (73.000, 12.758) moving (   0.0000,   11.0701)
+
+At time  1.6537:
+Ball # 6 is at ( 1.508, 25.000) moving (   5.6989,    0.0000)
+Ball # 7 is at (27.000, 45.200) moving (   0.0000,   -6.6237)
+Ball # 8 is at (27.000,  4.800) moving (   0.0000,    6.6237)
+Ball # 9 is at (93.881, 25.000) moving (  -7.6999,    0.0000)
+Ball #10 is at (73.000, 37.117) moving (   0.0000,  -11.0267)
+Ball #11 is at (73.000, 12.883) moving (   0.0000,   11.0267)
+
+At time  1.6650:
+Ball # 6 is at ( 1.572, 25.000) moving (   5.6555,    0.0000)
+Ball # 7 is at (27.000, 45.126) moving (   0.0000,   -6.5802)
+Ball # 8 is at (27.000,  4.874) moving (   0.0000,    6.5802)
+Ball # 9 is at (93.794, 25.000) moving (  -7.6565,    0.0000)
+Ball #10 is at (73.000, 36.993) moving (   0.0000,  -10.9833)
+Ball #11 is at (73.000, 13.007) moving (   0.0000,   10.9833)
+
+At time  1.6762:
+Ball # 6 is at ( 1.635, 25.000) moving (   5.6121,    0.0000)
+Ball # 7 is at (27.000, 45.052) moving (   0.0000,   -6.5368)
+Ball # 8 is at (27.000,  4.948) moving (   0.0000,    6.5368)
+Ball # 9 is at (93.708, 25.000) moving (  -7.6131,    0.0000)
+Ball #10 is at (73.000, 36.870) moving (   0.0000,  -10.9398)
+Ball #11 is at (73.000, 13.130) moving (   0.0000,   10.9398)
+
+At time  1.6875:
+Ball # 6 is at ( 1.699, 25.000) moving (   5.5686,    0.0000)
+Ball # 7 is at (27.000, 44.978) moving (   0.0000,   -6.4934)
+Ball # 8 is at (27.000,  5.022) moving (   0.0000,    6.4934)
+Ball # 9 is at (93.622, 25.000) moving (  -7.5696,    0.0000)
+Ball #10 is at (73.000, 36.747) moving (   0.0000,  -10.8964)
+Ball #11 is at (73.000, 13.253) moving (   0.0000,   10.8964)
+
+At time  1.6987:
+Ball # 6 is at ( 1.761, 25.000) moving (   5.5252,    0.0000)
+Ball # 7 is at (27.000, 44.905) moving (   0.0000,   -6.4499)
+Ball # 8 is at (27.000,  5.095) moving (   0.0000,    6.4499)
+Ball # 9 is at (93.537, 25.000) moving (  -7.5262,    0.0000)
+Ball #10 is at (73.000, 36.624) moving (   0.0000,  -10.8530)
+Ball #11 is at (73.000, 13.376) moving (   0.0000,   10.8530)
+
+At time  1.7100:
+Ball # 6 is at ( 1.823, 25.000) moving (   5.4818,    0.0000)
+Ball # 7 is at (27.000, 44.832) moving (   0.0000,   -6.4065)
+Ball # 8 is at (27.000,  5.168) moving (   0.0000,    6.4065)
+Ball # 9 is at (93.453, 25.000) moving (  -7.4828,    0.0000)
+Ball #10 is at (73.000, 36.502) moving (   0.0000,  -10.8095)
+Ball #11 is at (73.000, 13.498) moving (   0.0000,   10.8095)
+
+At time  1.7212:
+Ball # 6 is at ( 1.885, 25.000) moving (   5.4383,    0.0000)
+Ball # 7 is at (27.000, 44.760) moving (   0.0000,   -6.3631)
+Ball # 8 is at (27.000,  5.240) moving (   0.0000,    6.3631)
+Ball # 9 is at (93.368, 25.000) moving (  -7.4393,    0.0000)
+Ball #10 is at (73.000, 36.380) moving (   0.0000,  -10.7661)
+Ball #11 is at (73.000, 13.620) moving (   0.0000,   10.7661)
+
+At time  1.7325:
+Ball # 6 is at ( 1.946, 25.000) moving (   5.3949,    0.0000)
+Ball # 7 is at (27.000, 44.689) moving (   0.0000,   -6.3196)
+Ball # 8 is at (27.000,  5.311) moving (   0.0000,    6.3196)
+Ball # 9 is at (93.285, 25.000) moving (  -7.3959,    0.0000)
+Ball #10 is at (73.000, 36.259) moving (   0.0000,  -10.7227)
+Ball #11 is at (73.000, 13.741) moving (   0.0000,   10.7227)
+
+At time  1.7437:
+Ball # 6 is at ( 2.007, 25.000) moving (   5.3515,    0.0000)
+Ball # 7 is at (27.000, 44.618) moving (   0.0000,   -6.2762)
+Ball # 8 is at (27.000,  5.382) moving (   0.0000,    6.2762)
+Ball # 9 is at (93.202, 25.000) moving (  -7.3525,    0.0000)
+Ball #10 is at (73.000, 36.139) moving (   0.0000,  -10.6792)
+Ball #11 is at (73.000, 13.861) moving (   0.0000,   10.6792)
+
+At time  1.7550:
+Ball # 6 is at ( 2.067, 25.000) moving (   5.3080,    0.0000)
+Ball # 7 is at (27.000, 44.547) moving (   0.0000,   -6.2328)
+Ball # 8 is at (27.000,  5.453) moving (   0.0000,    6.2328)
+Ball # 9 is at (93.119, 25.000) moving (  -7.3090,    0.0000)
+Ball #10 is at (73.000, 36.018) moving (   0.0000,  -10.6358)
+Ball #11 is at (73.000, 13.982) moving (   0.0000,   10.6358)
+
+At time  1.7662:
+Ball # 6 is at ( 2.127, 25.000) moving (   5.2646,    0.0000)
+Ball # 7 is at (27.000, 44.477) moving (   0.0000,   -6.1893)
+Ball # 8 is at (27.000,  5.523) moving (   0.0000,    6.1893)
+Ball # 9 is at (93.037, 25.000) moving (  -7.2656,    0.0000)
+Ball #10 is at (73.000, 35.899) moving (   0.0000,  -10.5923)
+Ball #11 is at (73.000, 14.101) moving (   0.0000,   10.5923)
+
+At time  1.7775:
+Ball # 6 is at ( 2.186, 25.000) moving (   5.2212,    0.0000)
+Ball # 7 is at (27.000, 44.407) moving (   0.0000,   -6.1459)
+Ball # 8 is at (27.000,  5.593) moving (   0.0000,    6.1459)
+Ball # 9 is at (92.955, 25.000) moving (  -7.2222,    0.0000)
+Ball #10 is at (73.000, 35.780) moving (   0.0000,  -10.5489)
+Ball #11 is at (73.000, 14.220) moving (   0.0000,   10.5489)
+
+At time  1.7887:
+Ball # 6 is at ( 2.245, 25.000) moving (   5.1777,    0.0000)
+Ball # 7 is at (27.000, 44.338) moving (   0.0000,   -6.1025)
+Ball # 8 is at (27.000,  5.662) moving (   0.0000,    6.1025)
+Ball # 9 is at (92.874, 25.000) moving (  -7.1787,    0.0000)
+Ball #10 is at (73.000, 35.661) moving (   0.0000,  -10.5055)
+Ball #11 is at (73.000, 14.339) moving (   0.0000,   10.5055)
+
+At time  1.8000:
+Ball # 6 is at ( 2.303, 25.000) moving (   5.1343,    0.0000)
+Ball # 7 is at (27.000, 44.270) moving (   0.0000,   -6.0590)
+Ball # 8 is at (27.000,  5.730) moving (   0.0000,    6.0590)
+Ball # 9 is at (92.793, 25.000) moving (  -7.1353,    0.0000)
+Ball #10 is at (73.000, 35.543) moving (   0.0000,  -10.4620)
+Ball #11 is at (73.000, 14.457) moving (   0.0000,   10.4620)
+
+At time  1.8112:
+Ball # 6 is at ( 2.361, 25.000) moving (   5.0909,    0.0000)
+Ball # 7 is at (27.000, 44.201) moving (   0.0000,   -6.0156)
+Ball # 8 is at (27.000,  5.799) moving (   0.0000,    6.0156)
+Ball # 9 is at (92.713, 25.000) moving (  -7.0918,    0.0000)
+Ball #10 is at (73.000, 35.425) moving (   0.0000,  -10.4186)
+Ball #11 is at (73.000, 14.575) moving (   0.0000,   10.4186)
+
+At time  1.8225:
+Ball # 6 is at ( 2.418, 25.000) moving (   5.0474,    0.0000)
+Ball # 7 is at (27.000, 44.134) moving (   0.0000,   -5.9722)
+Ball # 8 is at (27.000,  5.866) moving (   0.0000,    5.9722)
+Ball # 9 is at (92.633, 25.000) moving (  -7.0484,    0.0000)
+Ball #10 is at (73.000, 35.308) moving (   0.0000,  -10.3752)
+Ball #11 is at (73.000, 14.692) moving (   0.0000,   10.3752)
+
+At time  1.8337:
+Ball # 6 is at ( 2.475, 25.000) moving (   5.0040,    0.0000)
+Ball # 7 is at (27.000, 44.067) moving (   0.0000,   -5.9287)
+Ball # 8 is at (27.000,  5.933) moving (   0.0000,    5.9287)
+Ball # 9 is at (92.554, 25.000) moving (  -7.0050,    0.0000)
+Ball #10 is at (73.000, 35.191) moving (   0.0000,  -10.3317)
+Ball #11 is at (73.000, 14.809) moving (   0.0000,   10.3317)
+
+At time  1.8450:
+Ball # 6 is at ( 2.531, 25.000) moving (   4.9605,    0.0000)
+Ball # 7 is at (27.000, 44.000) moving (   0.0000,   -5.8853)
+Ball # 8 is at (27.000,  6.000) moving (   0.0000,    5.8853)
+Ball # 9 is at (92.475, 25.000) moving (  -6.9615,    0.0000)
+Ball #10 is at (73.000, 35.075) moving (   0.0000,  -10.2883)
+Ball #11 is at (73.000, 14.925) moving (   0.0000,   10.2883)
+
+At time  1.8562:
+Ball # 6 is at ( 2.587, 25.000) moving (   4.9171,    0.0000)
+Ball # 7 is at (27.000, 43.934) moving (   0.0000,   -5.8418)
+Ball # 8 is at (27.000,  6.066) moving (   0.0000,    5.8418)
+Ball # 9 is at (92.396, 25.000) moving (  -6.9181,    0.0000)
+Ball #10 is at (73.000, 34.959) moving (   0.0000,  -10.2449)
+Ball #11 is at (73.000, 15.041) moving (   0.0000,   10.2449)
+
+At time  1.8675:
+Ball # 6 is at ( 2.642, 25.000) moving (   4.8737,    0.0000)
+Ball # 7 is at (27.000, 43.868) moving (   0.0000,   -5.7984)
+Ball # 8 is at (27.000,  6.132) moving (   0.0000,    5.7984)
+Ball # 9 is at (92.319, 25.000) moving (  -6.8747,    0.0000)
+Ball #10 is at (73.000, 34.844) moving (   0.0000,  -10.2014)
+Ball #11 is at (73.000, 15.156) moving (   0.0000,   10.2014)
+
+At time  1.8787:
+Ball # 6 is at ( 2.697, 25.000) moving (   4.8302,    0.0000)
+Ball # 7 is at (27.000, 43.803) moving (   0.0000,   -5.7550)
+Ball # 8 is at (27.000,  6.197) moving (   0.0000,    5.7550)
+Ball # 9 is at (92.241, 25.000) moving (  -6.8312,    0.0000)
+Ball #10 is at (73.000, 34.729) moving (   0.0000,  -10.1580)
+Ball #11 is at (73.000, 15.271) moving (   0.0000,   10.1580)
+
+At time  1.8900:
+Ball # 6 is at ( 2.751, 25.000) moving (   4.7868,    0.0000)
+Ball # 7 is at (27.000, 43.738) moving (   0.0000,   -5.7115)
+Ball # 8 is at (27.000,  6.262) moving (   0.0000,    5.7115)
+Ball # 9 is at (92.164, 25.000) moving (  -6.7878,    0.0000)
+Ball #10 is at (73.000, 34.615) moving (   0.0000,  -10.1146)
+Ball #11 is at (73.000, 15.385) moving (   0.0000,   10.1146)
+
+At time  1.9012:
+Ball # 6 is at ( 2.805, 25.000) moving (   4.7434,    0.0000)
+Ball # 7 is at (27.000, 43.674) moving (   0.0000,   -5.6681)
+Ball # 8 is at (27.000,  6.326) moving (   0.0000,    5.6681)
+Ball # 9 is at (92.088, 25.000) moving (  -6.7444,    0.0000)
+Ball #10 is at (73.000, 34.501) moving (   0.0000,  -10.0711)
+Ball #11 is at (73.000, 15.499) moving (   0.0000,   10.0711)
+
+At time  1.9125:
+Ball # 6 is at ( 2.859, 25.000) moving (   4.6999,    0.0000)
+Ball # 7 is at (27.000, 43.610) moving (   0.0000,   -5.6247)
+Ball # 8 is at (27.000,  6.390) moving (   0.0000,    5.6247)
+Ball # 9 is at (92.012, 25.000) moving (  -6.7009,    0.0000)
+Ball #10 is at (73.000, 34.388) moving (   0.0000,  -10.0277)
+Ball #11 is at (73.000, 15.612) moving (   0.0000,   10.0277)
+
+At time  1.9237:
+Ball # 6 is at ( 2.911, 25.000) moving (   4.6565,    0.0000)
+Ball # 7 is at (27.000, 43.547) moving (   0.0000,   -5.5812)
+Ball # 8 is at (27.000,  6.453) moving (   0.0000,    5.5812)
+Ball # 9 is at (91.937, 25.000) moving (  -6.6575,    0.0000)
+Ball #10 is at (73.000, 34.275) moving (   0.0000,   -9.9843)
+Ball #11 is at (73.000, 15.725) moving (   0.0000,    9.9843)
+
+At time  1.9350:
+Ball # 6 is at ( 2.964, 25.000) moving (   4.6131,    0.0000)
+Ball # 7 is at (27.000, 43.484) moving (   0.0000,   -5.5378)
+Ball # 8 is at (27.000,  6.516) moving (   0.0000,    5.5378)
+Ball # 9 is at (91.862, 25.000) moving (  -6.6141,    0.0000)
+Ball #10 is at (73.000, 34.163) moving (   0.0000,   -9.9408)
+Ball #11 is at (73.000, 15.837) moving (   0.0000,    9.9408)
+
+At time  1.9462:
+Ball # 6 is at ( 3.016, 25.000) moving (   4.5696,    0.0000)
+Ball # 7 is at (27.000, 43.422) moving (   0.0000,   -5.4944)
+Ball # 8 is at (27.000,  6.578) moving (   0.0000,    5.4944)
+Ball # 9 is at (91.787, 25.000) moving (  -6.5706,    0.0000)
+Ball #10 is at (73.000, 34.051) moving (   0.0000,   -9.8974)
+Ball #11 is at (73.000, 15.949) moving (   0.0000,    9.8974)
+
+At time  1.9575:
+Ball # 6 is at ( 3.067, 25.000) moving (   4.5262,    0.0000)
+Ball # 7 is at (27.000, 43.360) moving (   0.0000,   -5.4509)
+Ball # 8 is at (27.000,  6.640) moving (   0.0000,    5.4509)
+Ball # 9 is at (91.714, 25.000) moving (  -6.5272,    0.0000)
+Ball #10 is at (73.000, 33.939) moving (   0.0000,   -9.8540)
+Ball #11 is at (73.000, 16.061) moving (   0.0000,    9.8540)
+
+At time  1.9687:
+Ball # 6 is at ( 3.118, 25.000) moving (   4.4828,    0.0000)
+Ball # 7 is at (27.000, 43.298) moving (   0.0000,   -5.4075)
+Ball # 8 is at (27.000,  6.702) moving (   0.0000,    5.4075)
+Ball # 9 is at (91.640, 25.000) moving (  -6.4838,    0.0000)
+Ball #10 is at (73.000, 33.829) moving (   0.0000,   -9.8105)
+Ball #11 is at (73.000, 16.171) moving (   0.0000,    9.8105)
+
+At time  1.9800:
+Ball # 6 is at ( 3.169, 25.000) moving (   4.4393,    0.0000)
+Ball # 7 is at (27.000, 43.238) moving (   0.0000,   -5.3641)
+Ball # 8 is at (27.000,  6.762) moving (   0.0000,    5.3641)
+Ball # 9 is at (91.567, 25.000) moving (  -6.4403,    0.0000)
+Ball #10 is at (73.000, 33.718) moving (   0.0000,   -9.7671)
+Ball #11 is at (73.000, 16.282) moving (   0.0000,    9.7671)
+
+At time  1.9912:
+Ball # 6 is at ( 3.218, 25.000) moving (   4.3959,    0.0000)
+Ball # 7 is at (27.000, 43.177) moving (   0.0000,   -5.3206)
+Ball # 8 is at (27.000,  6.823) moving (   0.0000,    5.3206)
+Ball # 9 is at (91.495, 25.000) moving (  -6.3969,    0.0000)
+Ball #10 is at (73.000, 33.608) moving (   0.0000,   -9.7236)
+Ball #11 is at (73.000, 16.392) moving (   0.0000,    9.7236)
+
+At time  2.0025:
+Ball # 6 is at ( 3.268, 25.000) moving (   4.3525,    0.0000)
+Ball # 7 is at (27.000, 43.117) moving (   0.0000,   -5.2772)
+Ball # 8 is at (27.000,  6.883) moving (   0.0000,    5.2772)
+Ball # 9 is at (91.423, 25.000) moving (  -6.3535,    0.0000)
+Ball #10 is at (73.000, 33.499) moving (   0.0000,   -9.6802)
+Ball #11 is at (73.000, 16.501) moving (   0.0000,    9.6802)
+
+At time  2.0137:
+Ball # 6 is at ( 3.317, 25.000) moving (   4.3090,    0.0000)
+Ball # 7 is at (27.000, 43.058) moving (   0.0000,   -5.2338)
+Ball # 8 is at (27.000,  6.942) moving (   0.0000,    5.2338)
+Ball # 9 is at (91.351, 25.000) moving (  -6.3100,    0.0000)
+Ball #10 is at (73.000, 33.390) moving (   0.0000,   -9.6368)
+Ball #11 is at (73.000, 16.610) moving (   0.0000,    9.6368)
+
+At time  2.0250:
+Ball # 6 is at ( 3.365, 25.000) moving (   4.2656,    0.0000)
+Ball # 7 is at (27.000, 42.999) moving (   0.0000,   -5.1903)
+Ball # 8 is at (27.000,  7.001) moving (   0.0000,    5.1903)
+Ball # 9 is at (91.280, 25.000) moving (  -6.2666,    0.0000)
+Ball #10 is at (73.000, 33.282) moving (   0.0000,   -9.5933)
+Ball #11 is at (73.000, 16.718) moving (   0.0000,    9.5933)
+
+At time  2.0362:
+Ball # 6 is at ( 3.413, 25.000) moving (   4.2222,    0.0000)
+Ball # 7 is at (27.000, 42.941) moving (   0.0000,   -5.1469)
+Ball # 8 is at (27.000,  7.059) moving (   0.0000,    5.1469)
+Ball # 9 is at (91.210, 25.000) moving (  -6.2231,    0.0000)
+Ball #10 is at (73.000, 33.174) moving (   0.0000,   -9.5499)
+Ball #11 is at (73.000, 16.826) moving (   0.0000,    9.5499)
+
+At time  2.0475:
+Ball # 6 is at ( 3.461, 25.000) moving (   4.1787,    0.0000)
+Ball # 7 is at (27.000, 42.883) moving (   0.0000,   -5.1035)
+Ball # 8 is at (27.000,  7.117) moving (   0.0000,    5.1035)
+Ball # 9 is at (91.140, 25.000) moving (  -6.1797,    0.0000)
+Ball #10 is at (73.000, 33.066) moving (   0.0000,   -9.5065)
+Ball #11 is at (73.000, 16.934) moving (   0.0000,    9.5065)
+
+At time  2.0587:
+Ball # 6 is at ( 3.508, 25.000) moving (   4.1353,    0.0000)
+Ball # 7 is at (27.000, 42.825) moving (   0.0000,   -5.0600)
+Ball # 8 is at (27.000,  7.175) moving (   0.0000,    5.0600)
+Ball # 9 is at (91.070, 25.000) moving (  -6.1363,    0.0000)
+Ball #10 is at (73.000, 32.959) moving (   0.0000,   -9.4630)
+Ball #11 is at (73.000, 17.041) moving (   0.0000,    9.4630)
+
+At time  2.0700:
+Ball # 6 is at ( 3.554, 25.000) moving (   4.0918,    0.0000)
+Ball # 7 is at (27.000, 42.769) moving (   0.0000,   -5.0166)
+Ball # 8 is at (27.000,  7.231) moving (   0.0000,    5.0166)
+Ball # 9 is at (91.001, 25.000) moving (  -6.0928,    0.0000)
+Ball #10 is at (73.000, 32.853) moving (   0.0000,   -9.4196)
+Ball #11 is at (73.000, 17.147) moving (   0.0000,    9.4196)
+
+At time  2.0812:
+Ball # 6 is at ( 3.600, 25.000) moving (   4.0484,    0.0000)
+Ball # 7 is at (27.000, 42.712) moving (   0.0000,   -4.9731)
+Ball # 8 is at (27.000,  7.288) moving (   0.0000,    4.9731)
+Ball # 9 is at (90.933, 25.000) moving (  -6.0494,    0.0000)
+Ball #10 is at (73.000, 32.747) moving (   0.0000,   -9.3762)
+Ball #11 is at (73.000, 17.253) moving (   0.0000,    9.3762)
+
+At time  2.0925:
+Ball # 6 is at ( 3.646, 25.000) moving (   4.0050,    0.0000)
+Ball # 7 is at (27.000, 42.656) moving (   0.0000,   -4.9297)
+Ball # 8 is at (27.000,  7.344) moving (   0.0000,    4.9297)
+Ball # 9 is at (90.865, 25.000) moving (  -6.0060,    0.0000)
+Ball #10 is at (73.000, 32.641) moving (   0.0000,   -9.3327)
+Ball #11 is at (73.000, 17.359) moving (   0.0000,    9.3327)
+
+At time  2.1037:
+Ball # 6 is at ( 3.691, 25.000) moving (   3.9615,    0.0000)
+Ball # 7 is at (27.000, 42.601) moving (   0.0000,   -4.8863)
+Ball # 8 is at (27.000,  7.399) moving (   0.0000,    4.8863)
+Ball # 9 is at (90.797, 25.000) moving (  -5.9625,    0.0000)
+Ball #10 is at (73.000, 32.536) moving (   0.0000,   -9.2893)
+Ball #11 is at (73.000, 17.464) moving (   0.0000,    9.2893)
+
+At time  2.1150:
+Ball # 6 is at ( 3.736, 25.000) moving (   3.9181,    0.0000)
+Ball # 7 is at (27.000, 42.546) moving (   0.0000,   -4.8428)
+Ball # 8 is at (27.000,  7.454) moving (   0.0000,    4.8428)
+Ball # 9 is at (90.730, 25.000) moving (  -5.9191,    0.0000)
+Ball #10 is at (73.000, 32.432) moving (   0.0000,   -9.2459)
+Ball #11 is at (73.000, 17.568) moving (   0.0000,    9.2459)
+
+At time  2.1262:
+Ball # 6 is at ( 3.780, 25.000) moving (   3.8747,    0.0000)
+Ball # 7 is at (27.000, 42.491) moving (   0.0000,   -4.7994)
+Ball # 8 is at (27.000,  7.509) moving (   0.0000,    4.7994)
+Ball # 9 is at (90.663, 25.000) moving (  -5.8757,    0.0000)
+Ball #10 is at (73.000, 32.328) moving (   0.0000,   -9.2024)
+Ball #11 is at (73.000, 17.672) moving (   0.0000,    9.2024)
+
+At time  2.1375:
+Ball # 6 is at ( 3.823, 25.000) moving (   3.8312,    0.0000)
+Ball # 7 is at (27.000, 42.437) moving (   0.0000,   -4.7560)
+Ball # 8 is at (27.000,  7.563) moving (   0.0000,    4.7560)
+Ball # 9 is at (90.597, 25.000) moving (  -5.8322,    0.0000)
+Ball #10 is at (73.000, 32.224) moving (   0.0000,   -9.1590)
+Ball #11 is at (73.000, 17.776) moving (   0.0000,    9.1590)
+
+At time  2.1487:
+Ball # 6 is at ( 3.866, 25.000) moving (   3.7878,    0.0000)
+Ball # 7 is at (27.000, 42.384) moving (   0.0000,   -4.7125)
+Ball # 8 is at (27.000,  7.616) moving (   0.0000,    4.7125)
+Ball # 9 is at (90.532, 25.000) moving (  -5.7888,    0.0000)
+Ball #10 is at (73.000, 32.121) moving (   0.0000,   -9.1156)
+Ball #11 is at (73.000, 17.879) moving (   0.0000,    9.1156)
+
+At time  2.1600:
+Ball # 6 is at ( 3.909, 25.000) moving (   3.7444,    0.0000)
+Ball # 7 is at (27.000, 42.331) moving (   0.0000,   -4.6691)
+Ball # 8 is at (27.000,  7.669) moving (   0.0000,    4.6691)
+Ball # 9 is at (90.467, 25.000) moving (  -5.7454,    0.0000)
+Ball #10 is at (73.000, 32.019) moving (   0.0000,   -9.0721)
+Ball #11 is at (73.000, 17.981) moving (   0.0000,    9.0721)
+
+At time  2.1712:
+Ball # 6 is at ( 3.951, 25.000) moving (   3.7009,    0.0000)
+Ball # 7 is at (27.000, 42.278) moving (   0.0000,   -4.6257)
+Ball # 8 is at (27.000,  7.722) moving (   0.0000,    4.6257)
+Ball # 9 is at (90.402, 25.000) moving (  -5.7019,    0.0000)
+Ball #10 is at (73.000, 31.917) moving (   0.0000,   -9.0287)
+Ball #11 is at (73.000, 18.083) moving (   0.0000,    9.0287)
+
+At time  2.1825:
+Ball # 6 is at ( 3.993, 25.000) moving (   3.6575,    0.0000)
+Ball # 7 is at (27.000, 42.226) moving (   0.0000,   -4.5822)
+Ball # 8 is at (27.000,  7.774) moving (   0.0000,    4.5822)
+Ball # 9 is at (90.338, 25.000) moving (  -5.6585,    0.0000)
+Ball #10 is at (73.000, 31.815) moving (   0.0000,   -8.9853)
+Ball #11 is at (73.000, 18.185) moving (   0.0000,    8.9853)
+
+At time  2.1937:
+Ball # 6 is at ( 4.034, 25.000) moving (   3.6141,    0.0000)
+Ball # 7 is at (27.000, 42.175) moving (   0.0000,   -4.5388)
+Ball # 8 is at (27.000,  7.825) moving (   0.0000,    4.5388)
+Ball # 9 is at (90.274, 25.000) moving (  -5.6151,    0.0000)
+Ball #10 is at (73.000, 31.714) moving (   0.0000,   -8.9418)
+Ball #11 is at (73.000, 18.286) moving (   0.0000,    8.9418)
+
+At time  2.2050:
+Ball # 6 is at ( 4.075, 25.000) moving (   3.5706,    0.0000)
+Ball # 7 is at (27.000, 42.124) moving (   0.0000,   -4.4954)
+Ball # 8 is at (27.000,  7.876) moving (   0.0000,    4.4954)
+Ball # 9 is at (90.211, 25.000) moving (  -5.5716,    0.0000)
+Ball #10 is at (73.000, 31.613) moving (   0.0000,   -8.8984)
+Ball #11 is at (73.000, 18.387) moving (   0.0000,    8.8984)
+
+At time  2.2162:
+Ball # 6 is at ( 4.115, 25.000) moving (   3.5272,    0.0000)
+Ball # 7 is at (27.000, 42.073) moving (   0.0000,   -4.4519)
+Ball # 8 is at (27.000,  7.927) moving (   0.0000,    4.4519)
+Ball # 9 is at (90.148, 25.000) moving (  -5.5282,    0.0000)
+Ball #10 is at (73.000, 31.513) moving (   0.0000,   -8.8549)
+Ball #11 is at (73.000, 18.487) moving (   0.0000,    8.8549)
+
+At time  2.2275:
+Ball # 6 is at ( 4.154, 25.000) moving (   3.4838,    0.0000)
+Ball # 7 is at (27.000, 42.023) moving (   0.0000,   -4.4085)
+Ball # 8 is at (27.000,  7.977) moving (   0.0000,    4.4085)
+Ball # 9 is at (90.086, 25.000) moving (  -5.4848,    0.0000)
+Ball #10 is at (73.000, 31.414) moving (   0.0000,   -8.8115)
+Ball #11 is at (73.000, 18.586) moving (   0.0000,    8.8115)
+
+At time  2.2387:
+Ball # 6 is at ( 4.194, 25.000) moving (   3.4403,    0.0000)
+Ball # 7 is at (27.000, 41.973) moving (   0.0000,   -4.3651)
+Ball # 8 is at (27.000,  8.027) moving (   0.0000,    4.3651)
+Ball # 9 is at (90.024, 25.000) moving (  -5.4413,    0.0000)
+Ball #10 is at (73.000, 31.315) moving (   0.0000,   -8.7681)
+Ball #11 is at (73.000, 18.685) moving (   0.0000,    8.7681)
+
+At time  2.2500:
+Ball # 6 is at ( 4.232, 25.000) moving (   3.3969,    0.0000)
+Ball # 7 is at (27.000, 41.924) moving (   0.0000,   -4.3216)
+Ball # 8 is at (27.000,  8.076) moving (   0.0000,    4.3216)
+Ball # 9 is at (89.963, 25.000) moving (  -5.3979,    0.0000)
+Ball #10 is at (73.000, 31.216) moving (   0.0000,   -8.7246)
+Ball #11 is at (73.000, 18.784) moving (   0.0000,    8.7246)
+
+At time  2.2612:
+Ball # 6 is at ( 4.271, 25.000) moving (   3.3535,    0.0000)
+Ball # 7 is at (27.000, 41.876) moving (   0.0000,   -4.2782)
+Ball # 8 is at (27.000,  8.124) moving (   0.0000,    4.2782)
+Ball # 9 is at (89.902, 25.000) moving (  -5.3545,    0.0000)
+Ball #10 is at (73.000, 31.118) moving (   0.0000,   -8.6812)
+Ball #11 is at (73.000, 18.882) moving (   0.0000,    8.6812)
+
+At time  2.2725:
+Ball # 6 is at ( 4.308, 25.000) moving (   3.3100,    0.0000)
+Ball # 7 is at (27.000, 41.827) moving (   0.0000,   -4.2348)
+Ball # 8 is at (27.000,  8.173) moving (   0.0000,    4.2348)
+Ball # 9 is at (89.842, 25.000) moving (  -5.3110,    0.0000)
+Ball #10 is at (73.000, 31.020) moving (   0.0000,   -8.6378)
+Ball #11 is at (73.000, 18.980) moving (   0.0000,    8.6378)
+
+At time  2.2837:
+Ball # 6 is at ( 4.345, 25.000) moving (   3.2666,    0.0000)
+Ball # 7 is at (27.000, 41.780) moving (   0.0000,   -4.1913)
+Ball # 8 is at (27.000,  8.220) moving (   0.0000,    4.1913)
+Ball # 9 is at (89.782, 25.000) moving (  -5.2676,    0.0000)
+Ball #10 is at (73.000, 30.923) moving (   0.0000,   -8.5943)
+Ball #11 is at (73.000, 19.077) moving (   0.0000,    8.5943)
+
+At time  2.2950:
+Ball # 6 is at ( 4.382, 25.000) moving (   3.2231,    0.0000)
+Ball # 7 is at (27.000, 41.733) moving (   0.0000,   -4.1479)
+Ball # 8 is at (27.000,  8.267) moving (   0.0000,    4.1479)
+Ball # 9 is at (89.723, 25.000) moving (  -5.2241,    0.0000)
+Ball #10 is at (73.000, 30.826) moving (   0.0000,   -8.5509)
+Ball #11 is at (73.000, 19.174) moving (   0.0000,    8.5509)
+
+At time  2.3062:
+Ball # 6 is at ( 4.418, 25.000) moving (   3.1797,    0.0000)
+Ball # 7 is at (27.000, 41.686) moving (   0.0000,   -4.1045)
+Ball # 8 is at (27.000,  8.314) moving (   0.0000,    4.1045)
+Ball # 9 is at (89.664, 25.000) moving (  -5.1807,    0.0000)
+Ball #10 is at (73.000, 30.730) moving (   0.0000,   -8.5075)
+Ball #11 is at (73.000, 19.270) moving (   0.0000,    8.5075)
+
+At time  2.3175:
+Ball # 6 is at ( 4.454, 25.000) moving (   3.1363,    0.0000)
+Ball # 7 is at (27.000, 41.640) moving (   0.0000,   -4.0610)
+Ball # 8 is at (27.000,  8.360) moving (   0.0000,    4.0610)
+Ball # 9 is at (89.606, 25.000) moving (  -5.1373,    0.0000)
+Ball #10 is at (73.000, 30.634) moving (   0.0000,   -8.4640)
+Ball #11 is at (73.000, 19.366) moving (   0.0000,    8.4640)
+
+At time  2.3287:
+Ball # 6 is at ( 4.490, 25.000) moving (   3.0928,    0.0000)
+Ball # 7 is at (27.000, 41.594) moving (   0.0000,   -4.0176)
+Ball # 8 is at (27.000,  8.406) moving (   0.0000,    4.0176)
+Ball # 9 is at (89.548, 25.000) moving (  -5.0938,    0.0000)
+Ball #10 is at (73.000, 30.539) moving (   0.0000,   -8.4206)
+Ball #11 is at (73.000, 19.461) moving (   0.0000,    8.4206)
+
+At time  2.3400:
+Ball # 6 is at ( 4.524, 25.000) moving (   3.0494,    0.0000)
+Ball # 7 is at (27.000, 41.549) moving (   0.0000,   -3.9741)
+Ball # 8 is at (27.000,  8.451) moving (   0.0000,    3.9741)
+Ball # 9 is at (89.491, 25.000) moving (  -5.0504,    0.0000)
+Ball #10 is at (73.000, 30.444) moving (   0.0000,   -8.3772)
+Ball #11 is at (73.000, 19.556) moving (   0.0000,    8.3772)
+
+At time  2.3512:
+Ball # 6 is at ( 4.559, 25.000) moving (   3.0060,    0.0000)
+Ball # 7 is at (27.000, 41.504) moving (   0.0000,   -3.9307)
+Ball # 8 is at (27.000,  8.496) moving (   0.0000,    3.9307)
+Ball # 9 is at (89.434, 25.000) moving (  -5.0070,    0.0000)
+Ball #10 is at (73.000, 30.350) moving (   0.0000,   -8.3337)
+Ball #11 is at (73.000, 19.650) moving (   0.0000,    8.3337)
+
+At time  2.3625:
+Ball # 6 is at ( 4.592, 25.000) moving (   2.9625,    0.0000)
+Ball # 7 is at (27.000, 41.460) moving (   0.0000,   -3.8873)
+Ball # 8 is at (27.000,  8.540) moving (   0.0000,    3.8873)
+Ball # 9 is at (89.378, 25.000) moving (  -4.9635,    0.0000)
+Ball #10 is at (73.000, 30.256) moving (   0.0000,   -8.2903)
+Ball #11 is at (73.000, 19.744) moving (   0.0000,    8.2903)
+
+At time  2.3737:
+Ball # 6 is at ( 4.626, 25.000) moving (   2.9191,    0.0000)
+Ball # 7 is at (27.000, 41.416) moving (   0.0000,   -3.8438)
+Ball # 8 is at (27.000,  8.584) moving (   0.0000,    3.8438)
+Ball # 9 is at (89.322, 25.000) moving (  -4.9201,    0.0000)
+Ball #10 is at (73.000, 30.163) moving (   0.0000,   -8.2469)
+Ball #11 is at (73.000, 19.837) moving (   0.0000,    8.2469)
+
+At time  2.3850:
+Ball # 6 is at ( 4.659, 25.000) moving (   2.8757,    0.0000)
+Ball # 7 is at (27.000, 41.373) moving (   0.0000,   -3.8004)
+Ball # 8 is at (27.000,  8.627) moving (   0.0000,    3.8004)
+Ball # 9 is at (89.267, 25.000) moving (  -4.8767,    0.0000)
+Ball #10 is at (73.000, 30.070) moving (   0.0000,   -8.2034)
+Ball #11 is at (73.000, 19.930) moving (   0.0000,    8.2034)
+
+At time  2.3962:
+Ball # 6 is at ( 4.691, 25.000) moving (   2.8322,    0.0000)
+Ball # 7 is at (27.000, 41.330) moving (   0.0000,   -3.7570)
+Ball # 8 is at (27.000,  8.670) moving (   0.0000,    3.7570)
+Ball # 9 is at (89.212, 25.000) moving (  -4.8332,    0.0000)
+Ball #10 is at (73.000, 29.978) moving (   0.0000,   -8.1600)
+Ball #11 is at (73.000, 20.022) moving (   0.0000,    8.1600)
+
+At time  2.4075:
+Ball # 6 is at ( 4.723, 25.000) moving (   2.7888,    0.0000)
+Ball # 7 is at (27.000, 41.288) moving (   0.0000,   -3.7135)
+Ball # 8 is at (27.000,  8.712) moving (   0.0000,    3.7135)
+Ball # 9 is at (89.157, 25.000) moving (  -4.7898,    0.0000)
+Ball #10 is at (73.000, 29.886) moving (   0.0000,   -8.1166)
+Ball #11 is at (73.000, 20.114) moving (   0.0000,    8.1166)
+
+At time  2.4187:
+Ball # 6 is at ( 4.754, 25.000) moving (   2.7454,    0.0000)
+Ball # 7 is at (27.000, 41.246) moving (   0.0000,   -3.6701)
+Ball # 8 is at (27.000,  8.754) moving (   0.0000,    3.6701)
+Ball # 9 is at (89.104, 25.000) moving (  -4.7464,    0.0000)
+Ball #10 is at (73.000, 29.795) moving (   0.0000,   -8.0731)
+Ball #11 is at (73.000, 20.205) moving (   0.0000,    8.0731)
+
+At time  2.4300:
+Ball # 6 is at ( 4.785, 25.000) moving (   2.7019,    0.0000)
+Ball # 7 is at (27.000, 41.205) moving (   0.0000,   -3.6267)
+Ball # 8 is at (27.000,  8.795) moving (   0.0000,    3.6267)
+Ball # 9 is at (89.050, 25.000) moving (  -4.7029,    0.0000)
+Ball #10 is at (73.000, 29.704) moving (   0.0000,   -8.0297)
+Ball #11 is at (73.000, 20.296) moving (   0.0000,    8.0297)
+
+At time  2.4412:
+Ball # 6 is at ( 4.815, 25.000) moving (   2.6585,    0.0000)
+Ball # 7 is at (27.000, 41.164) moving (   0.0000,   -3.5832)
+Ball # 8 is at (27.000,  8.836) moving (   0.0000,    3.5832)
+Ball # 9 is at (88.997, 25.000) moving (  -4.6595,    0.0000)
+Ball #10 is at (73.000, 29.614) moving (   0.0000,   -7.9862)
+Ball #11 is at (73.000, 20.386) moving (   0.0000,    7.9862)
+
+At time  2.4525:
+Ball # 6 is at ( 4.845, 25.000) moving (   2.6151,    0.0000)
+Ball # 7 is at (27.000, 41.124) moving (   0.0000,   -3.5398)
+Ball # 8 is at (27.000,  8.876) moving (   0.0000,    3.5398)
+Ball # 9 is at (88.945, 25.000) moving (  -4.6161,    0.0000)
+Ball #10 is at (73.000, 29.524) moving (   0.0000,   -7.9428)
+Ball #11 is at (73.000, 20.476) moving (   0.0000,    7.9428)
+
+At time  2.4637:
+Ball # 6 is at ( 4.875, 25.000) moving (   2.5716,    0.0000)
+Ball # 7 is at (27.000, 41.084) moving (   0.0000,   -3.4964)
+Ball # 8 is at (27.000,  8.916) moving (   0.0000,    3.4964)
+Ball # 9 is at (88.893, 25.000) moving (  -4.5726,    0.0000)
+Ball #10 is at (73.000, 29.435) moving (   0.0000,   -7.8994)
+Ball #11 is at (73.000, 20.565) moving (   0.0000,    7.8994)
+
+At time  2.4750:
+Ball # 6 is at ( 4.904, 25.000) moving (   2.5282,    0.0000)
+Ball # 7 is at (27.000, 41.045) moving (   0.0000,   -3.4529)
+Ball # 8 is at (27.000,  8.955) moving (   0.0000,    3.4529)
+Ball # 9 is at (88.841, 25.000) moving (  -4.5292,    0.0000)
+Ball #10 is at (73.000, 29.346) moving (   0.0000,   -7.8559)
+Ball #11 is at (73.000, 20.654) moving (   0.0000,    7.8559)
+
+At time  2.4862:
+Ball # 6 is at ( 4.932, 25.000) moving (   2.4848,    0.0000)
+Ball # 7 is at (27.000, 41.006) moving (   0.0000,   -3.4095)
+Ball # 8 is at (27.000,  8.994) moving (   0.0000,    3.4095)
+Ball # 9 is at (88.791, 25.000) moving (  -4.4858,    0.0000)
+Ball #10 is at (73.000, 29.257) moving (   0.0000,   -7.8125)
+Ball #11 is at (73.000, 20.743) moving (   0.0000,    7.8125)
+
+At time  2.4975:
+Ball # 6 is at ( 4.960, 25.000) moving (   2.4413,    0.0000)
+Ball # 7 is at (27.000, 40.967) moving (   0.0000,   -3.3661)
+Ball # 8 is at (27.000,  9.033) moving (   0.0000,    3.3661)
+Ball # 9 is at (88.740, 25.000) moving (  -4.4423,    0.0000)
+Ball #10 is at (73.000, 29.169) moving (   0.0000,   -7.7691)
+Ball #11 is at (73.000, 20.831) moving (   0.0000,    7.7691)
+
+At time  2.5087:
+Ball # 6 is at ( 4.988, 25.000) moving (   2.3979,    0.0000)
+Ball # 7 is at (27.000, 40.930) moving (   0.0000,   -3.3226)
+Ball # 8 is at (27.000,  9.070) moving (   0.0000,    3.3226)
+Ball # 9 is at (88.690, 25.000) moving (  -4.3989,    0.0000)
+Ball #10 is at (73.000, 29.082) moving (   0.0000,   -7.7256)
+Ball #11 is at (73.000, 20.918) moving (   0.0000,    7.7256)
+
+At time  2.5200:
+Ball # 6 is at ( 5.015, 25.000) moving (   2.3545,    0.0000)
+Ball # 7 is at (27.000, 40.892) moving (   0.0000,   -3.2792)
+Ball # 8 is at (27.000,  9.108) moving (   0.0000,    3.2792)
+Ball # 9 is at (88.641, 25.000) moving (  -4.3554,    0.0000)
+Ball #10 is at (73.000, 28.995) moving (   0.0000,   -7.6822)
+Ball #11 is at (73.000, 21.005) moving (   0.0000,    7.6822)
+
+At time  2.5312:
+Ball # 6 is at ( 5.041, 25.000) moving (   2.3110,    0.0000)
+Ball # 7 is at (27.000, 40.855) moving (   0.0000,   -3.2358)
+Ball # 8 is at (27.000,  9.145) moving (   0.0000,    3.2358)
+Ball # 9 is at (88.592, 25.000) moving (  -4.3120,    0.0000)
+Ball #10 is at (73.000, 28.909) moving (   0.0000,   -7.6388)
+Ball #11 is at (73.000, 21.091) moving (   0.0000,    7.6388)
+
+At time  2.5425:
+Ball # 6 is at ( 5.067, 25.000) moving (   2.2676,    0.0000)
+Ball # 7 is at (27.000, 40.819) moving (   0.0000,   -3.1923)
+Ball # 8 is at (27.000,  9.181) moving (   0.0000,    3.1923)
+Ball # 9 is at (88.543, 25.000) moving (  -4.2686,    0.0000)
+Ball #10 is at (73.000, 28.823) moving (   0.0000,   -7.5953)
+Ball #11 is at (73.000, 21.177) moving (   0.0000,    7.5953)
+
+At time  2.5537:
+Ball # 6 is at ( 5.093, 25.000) moving (   2.2241,    0.0000)
+Ball # 7 is at (27.000, 40.783) moving (   0.0000,   -3.1489)
+Ball # 8 is at (27.000,  9.217) moving (   0.0000,    3.1489)
+Ball # 9 is at (88.495, 25.000) moving (  -4.2251,    0.0000)
+Ball #10 is at (73.000, 28.737) moving (   0.0000,   -7.5519)
+Ball #11 is at (73.000, 21.263) moving (   0.0000,    7.5519)
+
+At time  2.5650:
+Ball # 6 is at ( 5.118, 25.000) moving (   2.1807,    0.0000)
+Ball # 7 is at (27.000, 40.748) moving (   0.0000,   -3.1054)
+Ball # 8 is at (27.000,  9.252) moving (   0.0000,    3.1054)
+Ball # 9 is at (88.448, 25.000) moving (  -4.1817,    0.0000)
+Ball #10 is at (73.000, 28.652) moving (   0.0000,   -7.5085)
+Ball #11 is at (73.000, 21.348) moving (   0.0000,    7.5085)
+
+At time  2.5762:
+Ball # 6 is at ( 5.142, 25.000) moving (   2.1373,    0.0000)
+Ball # 7 is at (27.000, 40.713) moving (   0.0000,   -3.0620)
+Ball # 8 is at (27.000,  9.287) moving (   0.0000,    3.0620)
+Ball # 9 is at (88.400, 25.000) moving (  -4.1383,    0.0000)
+Ball #10 is at (73.000, 28.568) moving (   0.0000,   -7.4650)
+Ball #11 is at (73.000, 21.432) moving (   0.0000,    7.4650)
+
+At time  2.5875:
+Ball # 6 is at ( 5.166, 25.000) moving (   2.0938,    0.0000)
+Ball # 7 is at (27.000, 40.678) moving (   0.0000,   -3.0186)
+Ball # 8 is at (27.000,  9.322) moving (   0.0000,    3.0186)
+Ball # 9 is at (88.354, 25.000) moving (  -4.0948,    0.0000)
+Ball #10 is at (73.000, 28.484) moving (   0.0000,   -7.4216)
+Ball #11 is at (73.000, 21.516) moving (   0.0000,    7.4216)
+
+At time  2.5987:
+Ball # 6 is at ( 5.190, 25.000) moving (   2.0504,    0.0000)
+Ball # 7 is at (27.000, 40.644) moving (   0.0000,   -2.9751)
+Ball # 8 is at (27.000,  9.356) moving (   0.0000,    2.9751)
+Ball # 9 is at (88.308, 25.000) moving (  -4.0514,    0.0000)
+Ball #10 is at (73.000, 28.400) moving (   0.0000,   -7.3782)
+Ball #11 is at (73.000, 21.600) moving (   0.0000,    7.3782)
+
+At time  2.6100:
+Ball # 6 is at ( 5.213, 25.000) moving (   2.0070,    0.0000)
+Ball # 7 is at (27.000, 40.611) moving (   0.0000,   -2.9317)
+Ball # 8 is at (27.000,  9.389) moving (   0.0000,    2.9317)
+Ball # 9 is at (88.262, 25.000) moving (  -4.0080,    0.0000)
+Ball #10 is at (73.000, 28.317) moving (   0.0000,   -7.3347)
+Ball #11 is at (73.000, 21.683) moving (   0.0000,    7.3347)
+
+At time  2.6212:
+Ball # 6 is at ( 5.235, 25.000) moving (   1.9635,    0.0000)
+Ball # 7 is at (27.000, 40.578) moving (   0.0000,   -2.8883)
+Ball # 8 is at (27.000,  9.422) moving (   0.0000,    2.8883)
+Ball # 9 is at (88.217, 25.000) moving (  -3.9645,    0.0000)
+Ball #10 is at (73.000, 28.235) moving (   0.0000,   -7.2913)
+Ball #11 is at (73.000, 21.765) moving (   0.0000,    7.2913)
+
+At time  2.6325:
+Ball # 6 is at ( 5.257, 25.000) moving (   1.9201,    0.0000)
+Ball # 7 is at (27.000, 40.545) moving (   0.0000,   -2.8448)
+Ball # 8 is at (27.000,  9.455) moving (   0.0000,    2.8448)
+Ball # 9 is at (88.173, 25.000) moving (  -3.9211,    0.0000)
+Ball #10 is at (73.000, 28.153) moving (   0.0000,   -7.2479)
+Ball #11 is at (73.000, 21.847) moving (   0.0000,    7.2479)
+
+At time  2.6437:
+Ball # 6 is at ( 5.279, 25.000) moving (   1.8767,    0.0000)
+Ball # 7 is at (27.000, 40.513) moving (   0.0000,   -2.8014)
+Ball # 8 is at (27.000,  9.487) moving (   0.0000,    2.8014)
+Ball # 9 is at (88.128, 25.000) moving (  -3.8777,    0.0000)
+Ball #10 is at (73.000, 28.071) moving (   0.0000,   -7.2044)
+Ball #11 is at (73.000, 21.929) moving (   0.0000,    7.2044)
+
+At time  2.6550:
+Ball # 6 is at ( 5.300, 25.000) moving (   1.8332,    0.0000)
+Ball # 7 is at (27.000, 40.482) moving (   0.0000,   -2.7580)
+Ball # 8 is at (27.000,  9.518) moving (   0.0000,    2.7580)
+Ball # 9 is at (88.085, 25.000) moving (  -3.8342,    0.0000)
+Ball #10 is at (73.000, 27.990) moving (   0.0000,   -7.1610)
+Ball #11 is at (73.000, 22.010) moving (   0.0000,    7.1610)
+
+At time  2.6662:
+Ball # 6 is at ( 5.321, 25.000) moving (   1.7898,    0.0000)
+Ball # 7 is at (27.000, 40.451) moving (   0.0000,   -2.7145)
+Ball # 8 is at (27.000,  9.549) moving (   0.0000,    2.7145)
+Ball # 9 is at (88.042, 25.000) moving (  -3.7908,    0.0000)
+Ball #10 is at (73.000, 27.910) moving (   0.0000,   -7.1175)
+Ball #11 is at (73.000, 22.090) moving (   0.0000,    7.1175)
+
+At time  2.6775:
+Ball # 6 is at ( 5.341, 25.000) moving (   1.7464,    0.0000)
+Ball # 7 is at (27.000, 40.420) moving (   0.0000,   -2.6711)
+Ball # 8 is at (27.000,  9.580) moving (   0.0000,    2.6711)
+Ball # 9 is at (87.999, 25.000) moving (  -3.7474,    0.0000)
+Ball #10 is at (73.000, 27.830) moving (   0.0000,   -7.0741)
+Ball #11 is at (73.000, 22.170) moving (   0.0000,    7.0741)
+
+At time  2.6887:
+Ball # 6 is at ( 5.361, 25.000) moving (   1.7029,    0.0000)
+Ball # 7 is at (27.000, 40.390) moving (   0.0000,   -2.6277)
+Ball # 8 is at (27.000,  9.610) moving (   0.0000,    2.6277)
+Ball # 9 is at (87.957, 25.000) moving (  -3.7039,    0.0000)
+Ball #10 is at (73.000, 27.750) moving (   0.0000,   -7.0307)
+Ball #11 is at (73.000, 22.250) moving (   0.0000,    7.0307)
+
+At time  2.7000:
+Ball # 6 is at ( 5.380, 25.000) moving (   1.6595,    0.0000)
+Ball # 7 is at (27.000, 40.361) moving (   0.0000,   -2.5842)
+Ball # 8 is at (27.000,  9.639) moving (   0.0000,    2.5842)
+Ball # 9 is at (87.915, 25.000) moving (  -3.6605,    0.0000)
+Ball #10 is at (73.000, 27.671) moving (   0.0000,   -6.9872)
+Ball #11 is at (73.000, 22.329) moving (   0.0000,    6.9872)
+
+At time  2.7112:
+Ball # 6 is at ( 5.398, 25.000) moving (   1.6161,    0.0000)
+Ball # 7 is at (27.000, 40.332) moving (   0.0000,   -2.5408)
+Ball # 8 is at (27.000,  9.668) moving (   0.0000,    2.5408)
+Ball # 9 is at (87.874, 25.000) moving (  -3.6171,    0.0000)
+Ball #10 is at (73.000, 27.592) moving (   0.0000,   -6.9438)
+Ball #11 is at (73.000, 22.408) moving (   0.0000,    6.9438)
+
+At time  2.7225:
+Ball # 6 is at ( 5.417, 25.000) moving (   1.5726,    0.0000)
+Ball # 7 is at (27.000, 40.303) moving (   0.0000,   -2.4974)
+Ball # 8 is at (27.000,  9.697) moving (   0.0000,    2.4974)
+Ball # 9 is at (87.833, 25.000) moving (  -3.5736,    0.0000)
+Ball #10 is at (73.000, 27.514) moving (   0.0000,   -6.9004)
+Ball #11 is at (73.000, 22.486) moving (   0.0000,    6.9004)
+
+At time  2.7337:
+Ball # 6 is at ( 5.434, 25.000) moving (   1.5292,    0.0000)
+Ball # 7 is at (27.000, 40.275) moving (   0.0000,   -2.4539)
+Ball # 8 is at (27.000,  9.725) moving (   0.0000,    2.4539)
+Ball # 9 is at (87.793, 25.000) moving (  -3.5302,    0.0000)
+Ball #10 is at (73.000, 27.437) moving (   0.0000,   -6.8569)
+Ball #11 is at (73.000, 22.563) moving (   0.0000,    6.8569)
+
+At time  2.7450:
+Ball # 6 is at ( 5.451, 25.000) moving (   1.4858,    0.0000)
+Ball # 7 is at (27.000, 40.247) moving (   0.0000,   -2.4105)
+Ball # 8 is at (27.000,  9.753) moving (   0.0000,    2.4105)
+Ball # 9 is at (87.753, 25.000) moving (  -3.4867,    0.0000)
+Ball #10 is at (73.000, 27.360) moving (   0.0000,   -6.8135)
+Ball #11 is at (73.000, 22.640) moving (   0.0000,    6.8135)
+
+At time  2.7562:
+Ball # 6 is at ( 5.468, 25.000) moving (   1.4423,    0.0000)
+Ball # 7 is at (27.000, 40.220) moving (   0.0000,   -2.3671)
+Ball # 8 is at (27.000,  9.780) moving (   0.0000,    2.3671)
+Ball # 9 is at (87.714, 25.000) moving (  -3.4433,    0.0000)
+Ball #10 is at (73.000, 27.283) moving (   0.0000,   -6.7701)
+Ball #11 is at (73.000, 22.717) moving (   0.0000,    6.7701)
+
+At time  2.7675:
+Ball # 6 is at ( 5.484, 25.000) moving (   1.3989,    0.0000)
+Ball # 7 is at (27.000, 40.193) moving (   0.0000,   -2.3236)
+Ball # 8 is at (27.000,  9.807) moving (   0.0000,    2.3236)
+Ball # 9 is at (87.675, 25.000) moving (  -3.3999,    0.0000)
+Ball #10 is at (73.000, 27.207) moving (   0.0000,   -6.7266)
+Ball #11 is at (73.000, 22.793) moving (   0.0000,    6.7266)
+
+At time  2.7787:
+Ball # 6 is at ( 5.500, 25.000) moving (   1.3554,    0.0000)
+Ball # 7 is at (27.000, 40.167) moving (   0.0000,   -2.2802)
+Ball # 8 is at (27.000,  9.833) moving (   0.0000,    2.2802)
+Ball # 9 is at (87.637, 25.000) moving (  -3.3564,    0.0000)
+Ball #10 is at (73.000, 27.131) moving (   0.0000,   -6.6832)
+Ball #11 is at (73.000, 22.869) moving (   0.0000,    6.6832)
+
+At time  2.7900:
+Ball # 6 is at ( 5.515, 25.000) moving (   1.3120,    0.0000)
+Ball # 7 is at (27.000, 40.142) moving (   0.0000,   -2.2367)
+Ball # 8 is at (27.000,  9.858) moving (   0.0000,    2.2367)
+Ball # 9 is at (87.599, 25.000) moving (  -3.3130,    0.0000)
+Ball #10 is at (73.000, 27.056) moving (   0.0000,   -6.6398)
+Ball #11 is at (73.000, 22.944) moving (   0.0000,    6.6398)
+
+At time  2.8012:
+Ball # 6 is at ( 5.530, 25.000) moving (   1.2686,    0.0000)
+Ball # 7 is at (27.000, 40.117) moving (   0.0000,   -2.1933)
+Ball # 8 is at (27.000,  9.883) moving (   0.0000,    2.1933)
+Ball # 9 is at (87.562, 25.000) moving (  -3.2696,    0.0000)
+Ball #10 is at (73.000, 26.981) moving (   0.0000,   -6.5963)
+Ball #11 is at (73.000, 23.019) moving (   0.0000,    6.5963)
+
+At time  2.8125:
+Ball # 6 is at ( 5.544, 25.000) moving (   1.2251,    0.0000)
+Ball # 7 is at (27.000, 40.092) moving (   0.0000,   -2.1499)
+Ball # 8 is at (27.000,  9.908) moving (   0.0000,    2.1499)
+Ball # 9 is at (87.525, 25.000) moving (  -3.2261,    0.0000)
+Ball #10 is at (73.000, 26.907) moving (   0.0000,   -6.5529)
+Ball #11 is at (73.000, 23.093) moving (   0.0000,    6.5529)
+
+At time  2.8237:
+Ball # 6 is at ( 5.558, 25.000) moving (   1.1817,    0.0000)
+Ball # 7 is at (27.000, 40.068) moving (   0.0000,   -2.1064)
+Ball # 8 is at (27.000,  9.932) moving (   0.0000,    2.1064)
+Ball # 9 is at (87.489, 25.000) moving (  -3.1827,    0.0000)
+Ball #10 is at (73.000, 26.833) moving (   0.0000,   -6.5095)
+Ball #11 is at (73.000, 23.167) moving (   0.0000,    6.5095)
+
+At time  2.8350:
+Ball # 6 is at ( 5.572, 25.000) moving (   1.1383,    0.0000)
+Ball # 7 is at (27.000, 40.044) moving (   0.0000,   -2.0630)
+Ball # 8 is at (27.000,  9.956) moving (   0.0000,    2.0630)
+Ball # 9 is at (87.453, 25.000) moving (  -3.1393,    0.0000)
+Ball #10 is at (73.000, 26.760) moving (   0.0000,   -6.4660)
+Ball #11 is at (73.000, 23.240) moving (   0.0000,    6.4660)
+
+At time  2.8462:
+Ball # 6 is at ( 5.584, 25.000) moving (   1.0948,    0.0000)
+Ball # 7 is at (27.000, 40.021) moving (   0.0000,   -2.0196)
+Ball # 8 is at (27.000,  9.979) moving (   0.0000,    2.0196)
+Ball # 9 is at (87.418, 25.000) moving (  -3.0958,    0.0000)
+Ball #10 is at (73.000, 26.687) moving (   0.0000,   -6.4226)
+Ball #11 is at (73.000, 23.313) moving (   0.0000,    6.4226)
+
+At time  2.8575:
+Ball # 6 is at ( 5.597, 25.000) moving (   1.0514,    0.0000)
+Ball # 7 is at (27.000, 39.998) moving (   0.0000,   -1.9761)
+Ball # 8 is at (27.000, 10.002) moving (   0.0000,    1.9761)
+Ball # 9 is at (87.383, 25.000) moving (  -3.0524,    0.0000)
+Ball #10 is at (73.000, 26.615) moving (   0.0000,   -6.3792)
+Ball #11 is at (73.000, 23.385) moving (   0.0000,    6.3792)
+
+At time  2.8687:
+Ball # 6 is at ( 5.608, 25.000) moving (   1.0080,    0.0000)
+Ball # 7 is at (27.000, 39.976) moving (   0.0000,   -1.9327)
+Ball # 8 is at (27.000, 10.024) moving (   0.0000,    1.9327)
+Ball # 9 is at (87.349, 25.000) moving (  -3.0090,    0.0000)
+Ball #10 is at (73.000, 26.543) moving (   0.0000,   -6.3357)
+Ball #11 is at (73.000, 23.457) moving (   0.0000,    6.3357)
+
+At time  2.8800:
+Ball # 6 is at ( 5.620, 25.000) moving (   0.9645,    0.0000)
+Ball # 7 is at (27.000, 39.954) moving (   0.0000,   -1.8893)
+Ball # 8 is at (27.000, 10.046) moving (   0.0000,    1.8893)
+Ball # 9 is at (87.315, 25.000) moving (  -2.9655,    0.0000)
+Ball #10 is at (73.000, 26.472) moving (   0.0000,   -6.2923)
+Ball #11 is at (73.000, 23.528) moving (   0.0000,    6.2923)
+
+At time  2.8912:
+Ball # 6 is at ( 5.631, 25.000) moving (   0.9211,    0.0000)
+Ball # 7 is at (27.000, 39.933) moving (   0.0000,   -1.8458)
+Ball # 8 is at (27.000, 10.067) moving (   0.0000,    1.8458)
+Ball # 9 is at (87.282, 25.000) moving (  -2.9221,    0.0000)
+Ball #10 is at (73.000, 26.401) moving (   0.0000,   -6.2489)
+Ball #11 is at (73.000, 23.599) moving (   0.0000,    6.2489)
+
+At time  2.9025:
+Ball # 6 is at ( 5.641, 25.000) moving (   0.8777,    0.0000)
+Ball # 7 is at (27.000, 39.912) moving (   0.0000,   -1.8024)
+Ball # 8 is at (27.000, 10.088) moving (   0.0000,    1.8024)
+Ball # 9 is at (87.249, 25.000) moving (  -2.8787,    0.0000)
+Ball #10 is at (73.000, 26.331) moving (   0.0000,   -6.2054)
+Ball #11 is at (73.000, 23.669) moving (   0.0000,    6.2054)
+
+At time  2.9137:
+Ball # 6 is at ( 5.651, 25.000) moving (   0.8342,    0.0000)
+Ball # 7 is at (27.000, 39.892) moving (   0.0000,   -1.7590)
+Ball # 8 is at (27.000, 10.108) moving (   0.0000,    1.7590)
+Ball # 9 is at (87.216, 25.000) moving (  -2.8352,    0.0000)
+Ball #10 is at (73.000, 26.261) moving (   0.0000,   -6.1620)
+Ball #11 is at (73.000, 23.739) moving (   0.0000,    6.1620)
+
+At time  2.9250:
+Ball # 6 is at ( 5.660, 25.000) moving (   0.7908,    0.0000)
+Ball # 7 is at (27.000, 39.872) moving (   0.0000,   -1.7155)
+Ball # 8 is at (27.000, 10.128) moving (   0.0000,    1.7155)
+Ball # 9 is at (87.184, 25.000) moving (  -2.7918,    0.0000)
+Ball #10 is at (73.000, 26.192) moving (   0.0000,   -6.1185)
+Ball #11 is at (73.000, 23.808) moving (   0.0000,    6.1185)
+
+At time  2.9362:
+Ball # 6 is at ( 5.669, 25.000) moving (   0.7474,    0.0000)
+Ball # 7 is at (27.000, 39.853) moving (   0.0000,   -1.6721)
+Ball # 8 is at (27.000, 10.147) moving (   0.0000,    1.6721)
+Ball # 9 is at (87.153, 25.000) moving (  -2.7484,    0.0000)
+Ball #10 is at (73.000, 26.123) moving (   0.0000,   -6.0751)
+Ball #11 is at (73.000, 23.877) moving (   0.0000,    6.0751)
+
+At time  2.9475:
+Ball # 6 is at ( 5.678, 25.000) moving (   0.7039,    0.0000)
+Ball # 7 is at (27.000, 39.834) moving (   0.0000,   -1.6287)
+Ball # 8 is at (27.000, 10.166) moving (   0.0000,    1.6287)
+Ball # 9 is at (87.122, 25.000) moving (  -2.7049,    0.0000)
+Ball #10 is at (73.000, 26.055) moving (   0.0000,   -6.0317)
+Ball #11 is at (73.000, 23.945) moving (   0.0000,    6.0317)
+
+At time  2.9587:
+Ball # 6 is at ( 5.686, 25.000) moving (   0.6605,    0.0000)
+Ball # 7 is at (27.000, 39.816) moving (   0.0000,   -1.5852)
+Ball # 8 is at (27.000, 10.184) moving (   0.0000,    1.5852)
+Ball # 9 is at (87.092, 25.000) moving (  -2.6615,    0.0000)
+Ball #10 is at (73.000, 25.987) moving (   0.0000,   -5.9882)
+Ball #11 is at (73.000, 24.013) moving (   0.0000,    5.9882)
+
+At time  2.9700:
+Ball # 6 is at ( 5.693, 25.000) moving (   0.6171,    0.0000)
+Ball # 7 is at (27.000, 39.798) moving (   0.0000,   -1.5418)
+Ball # 8 is at (27.000, 10.202) moving (   0.0000,    1.5418)
+Ball # 9 is at (87.062, 25.000) moving (  -2.6180,    0.0000)
+Ball #10 is at (73.000, 25.919) moving (   0.0000,   -5.9448)
+Ball #11 is at (73.000, 24.081) moving (   0.0000,    5.9448)
+
+At time  2.9812:
+Ball # 6 is at ( 5.700, 25.000) moving (   0.5736,    0.0000)
+Ball # 7 is at (27.000, 39.780) moving (   0.0000,   -1.4984)
+Ball # 8 is at (27.000, 10.220) moving (   0.0000,    1.4984)
+Ball # 9 is at (87.032, 25.000) moving (  -2.5746,    0.0000)
+Ball #10 is at (73.000, 25.852) moving (   0.0000,   -5.9014)
+Ball #11 is at (73.000, 24.148) moving (   0.0000,    5.9014)
+
+At time  2.9925:
+Ball # 6 is at ( 5.706, 25.000) moving (   0.5302,    0.0000)
+Ball # 7 is at (27.000, 39.764) moving (   0.0000,   -1.4549)
+Ball # 8 is at (27.000, 10.236) moving (   0.0000,    1.4549)
+Ball # 9 is at (87.003, 25.000) moving (  -2.5312,    0.0000)
+Ball #10 is at (73.000, 25.786) moving (   0.0000,   -5.8579)
+Ball #11 is at (73.000, 24.214) moving (   0.0000,    5.8579)
+
+At time  3.0037:
+Ball # 6 is at ( 5.712, 25.000) moving (   0.4867,    0.0000)
+Ball # 7 is at (27.000, 39.747) moving (   0.0000,   -1.4115)
+Ball # 8 is at (27.000, 10.253) moving (   0.0000,    1.4115)
+Ball # 9 is at (86.975, 25.000) moving (  -2.4877,    0.0000)
+Ball #10 is at (73.000, 25.720) moving (   0.0000,   -5.8145)
+Ball #11 is at (73.000, 24.280) moving (   0.0000,    5.8145)
+
+At time  3.0150:
+Ball # 6 is at ( 5.718, 25.000) moving (   0.4433,    0.0000)
+Ball # 7 is at (27.000, 39.731) moving (   0.0000,   -1.3680)
+Ball # 8 is at (27.000, 10.269) moving (   0.0000,    1.3680)
+Ball # 9 is at (86.947, 25.000) moving (  -2.4443,    0.0000)
+Ball #10 is at (73.000, 25.655) moving (   0.0000,   -5.7711)
+Ball #11 is at (73.000, 24.345) moving (   0.0000,    5.7711)
+
+At time  3.0262:
+Ball # 6 is at ( 5.723, 25.000) moving (   0.3999,    0.0000)
+Ball # 7 is at (27.000, 39.716) moving (   0.0000,   -1.3246)
+Ball # 8 is at (27.000, 10.284) moving (   0.0000,    1.3246)
+Ball # 9 is at (86.919, 25.000) moving (  -2.4009,    0.0000)
+Ball #10 is at (73.000, 25.590) moving (   0.0000,   -5.7276)
+Ball #11 is at (73.000, 24.410) moving (   0.0000,    5.7276)
+
+At time  3.0375:
+Ball # 6 is at ( 5.727, 25.000) moving (   0.3564,    0.0000)
+Ball # 7 is at (27.000, 39.701) moving (   0.0000,   -1.2812)
+Ball # 8 is at (27.000, 10.299) moving (   0.0000,    1.2812)
+Ball # 9 is at (86.892, 25.000) moving (  -2.3574,    0.0000)
+Ball #10 is at (73.000, 25.525) moving (   0.0000,   -5.6842)
+Ball #11 is at (73.000, 24.475) moving (   0.0000,    5.6842)
+
+At time  3.0487:
+Ball # 6 is at ( 5.731, 25.000) moving (   0.3130,    0.0000)
+Ball # 7 is at (27.000, 39.687) moving (   0.0000,   -1.2377)
+Ball # 8 is at (27.000, 10.313) moving (   0.0000,    1.2377)
+Ball # 9 is at (86.866, 25.000) moving (  -2.3140,    0.0000)
+Ball #10 is at (73.000, 25.461) moving (   0.0000,   -5.6408)
+Ball #11 is at (73.000, 24.539) moving (   0.0000,    5.6408)
+
+At time  3.0600:
+Ball # 6 is at ( 5.735, 25.000) moving (   0.2696,    0.0000)
+Ball # 7 is at (27.000, 39.673) moving (   0.0000,   -1.1943)
+Ball # 8 is at (27.000, 10.327) moving (   0.0000,    1.1943)
+Ball # 9 is at (86.840, 25.000) moving (  -2.2706,    0.0000)
+Ball #10 is at (73.000, 25.398) moving (   0.0000,   -5.5973)
+Ball #11 is at (73.000, 24.602) moving (   0.0000,    5.5973)
+
+At time  3.0712:
+Ball # 6 is at ( 5.738, 25.000) moving (   0.2261,    0.0000)
+Ball # 7 is at (27.000, 39.659) moving (   0.0000,   -1.1509)
+Ball # 8 is at (27.000, 10.341) moving (   0.0000,    1.1509)
+Ball # 9 is at (86.814, 25.000) moving (  -2.2271,    0.0000)
+Ball #10 is at (73.000, 25.335) moving (   0.0000,   -5.5539)
+Ball #11 is at (73.000, 24.665) moving (   0.0000,    5.5539)
+
+At time  3.0825:
+Ball # 6 is at ( 5.740, 25.000) moving (   0.1827,    0.0000)
+Ball # 7 is at (27.000, 39.646) moving (   0.0000,   -1.1074)
+Ball # 8 is at (27.000, 10.354) moving (   0.0000,    1.1074)
+Ball # 9 is at (86.789, 25.000) moving (  -2.1837,    0.0000)
+Ball #10 is at (73.000, 25.273) moving (   0.0000,   -5.5105)
+Ball #11 is at (73.000, 24.727) moving (   0.0000,    5.5105)
+
+At time  3.0937:
+Ball # 6 is at ( 5.742, 25.000) moving (   0.1393,    0.0000)
+Ball # 7 is at (27.000, 39.634) moving (   0.0000,   -1.0640)
+Ball # 8 is at (27.000, 10.366) moving (   0.0000,    1.0640)
+Ball # 9 is at (86.765, 25.000) moving (  -2.1403,    0.0000)
+Ball #10 is at (73.000, 25.211) moving (   0.0000,   -5.4670)
+Ball #11 is at (73.000, 24.789) moving (   0.0000,    5.4670)
+
+At time  3.1050:
+Ball # 6 is at ( 5.744, 25.000) moving (   0.0958,    0.0000)
+Ball # 7 is at (27.000, 39.622) moving (   0.0000,   -1.0206)
+Ball # 8 is at (27.000, 10.378) moving (   0.0000,    1.0206)
+Ball # 9 is at (86.741, 25.000) moving (  -2.0968,    0.0000)
+Ball #10 is at (73.000, 25.149) moving (   0.0000,   -5.4236)
+Ball #11 is at (73.000, 24.851) moving (   0.0000,    5.4236)
+
+At time  3.1162:
+Ball # 6 is at ( 5.745, 25.000) moving (   0.0524,    0.0000)
+Ball # 7 is at (27.000, 39.610) moving (   0.0000,   -0.9771)
+Ball # 8 is at (27.000, 10.390) moving (   0.0000,    0.9771)
+Ball # 9 is at (86.717, 25.000) moving (  -2.0534,    0.0000)
+Ball #10 is at (73.000, 25.088) moving (   0.0000,   -5.3802)
+Ball #11 is at (73.000, 24.912) moving (   0.0000,    5.3802)
+
+At time  3.1275:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0090,    0.0000)
+Ball # 7 is at (27.000, 39.599) moving (   0.0000,   -0.9337)
+Ball # 8 is at (27.000, 10.401) moving (   0.0000,    0.9337)
+Ball # 9 is at (86.694, 25.000) moving (  -2.0100,    0.0000)
+Ball #10 is at (73.000, 25.027) moving (   0.0000,   -5.3367)
+Ball #11 is at (73.000, 24.973) moving (   0.0000,    5.3367)
+
+At time  3.1387:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.589) moving (   0.0000,   -0.8903)
+Ball # 8 is at (27.000, 10.411) moving (   0.0000,    0.8903)
+Ball # 9 is at (86.671, 25.000) moving (  -1.9665,    0.0000)
+Ball #10 is at (73.000, 24.967) moving (   0.0000,   -5.2933)
+Ball #11 is at (73.000, 25.033) moving (   0.0000,    5.2933)
+
+At time  3.1500:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.579) moving (   0.0000,   -0.8468)
+Ball # 8 is at (27.000, 10.421) moving (   0.0000,    0.8468)
+Ball # 9 is at (86.649, 25.000) moving (  -1.9231,    0.0000)
+Ball #10 is at (73.000, 24.908) moving (   0.0000,   -5.2498)
+Ball #11 is at (73.000, 25.092) moving (   0.0000,    5.2498)
+
+At time  3.1612:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.569) moving (   0.0000,   -0.8034)
+Ball # 8 is at (27.000, 10.431) moving (   0.0000,    0.8034)
+Ball # 9 is at (86.628, 25.000) moving (  -1.8797,    0.0000)
+Ball #10 is at (73.000, 24.849) moving (   0.0000,   -5.2064)
+Ball #11 is at (73.000, 25.151) moving (   0.0000,    5.2064)
+
+At time  3.1725:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.560) moving (   0.0000,   -0.7600)
+Ball # 8 is at (27.000, 10.440) moving (   0.0000,    0.7600)
+Ball # 9 is at (86.606, 25.000) moving (  -1.8362,    0.0000)
+Ball #10 is at (73.000, 24.790) moving (   0.0000,   -5.1630)
+Ball #11 is at (73.000, 25.210) moving (   0.0000,    5.1630)
+
+At time  3.1837:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.552) moving (   0.0000,   -0.7165)
+Ball # 8 is at (27.000, 10.448) moving (   0.0000,    0.7165)
+Ball # 9 is at (86.586, 25.000) moving (  -1.7928,    0.0000)
+Ball #10 is at (73.000, 24.732) moving (   0.0000,   -5.1195)
+Ball #11 is at (73.000, 25.268) moving (   0.0000,    5.1195)
+
+At time  3.1950:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.544) moving (   0.0000,   -0.6731)
+Ball # 8 is at (27.000, 10.456) moving (   0.0000,    0.6731)
+Ball # 9 is at (86.566, 25.000) moving (  -1.7493,    0.0000)
+Ball #10 is at (73.000, 24.675) moving (   0.0000,   -5.0761)
+Ball #11 is at (73.000, 25.325) moving (   0.0000,    5.0761)
+
+At time  3.2062:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.536) moving (   0.0000,   -0.6297)
+Ball # 8 is at (27.000, 10.464) moving (   0.0000,    0.6297)
+Ball # 9 is at (86.546, 25.000) moving (  -1.7059,    0.0000)
+Ball #10 is at (73.000, 24.617) moving (   0.0000,   -5.0327)
+Ball #11 is at (73.000, 25.383) moving (   0.0000,    5.0327)
+
+At time  3.2175:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.529) moving (   0.0000,   -0.5862)
+Ball # 8 is at (27.000, 10.471) moving (   0.0000,    0.5862)
+Ball # 9 is at (86.527, 25.000) moving (  -1.6625,    0.0000)
+Ball #10 is at (73.000, 24.561) moving (   0.0000,   -4.9892)
+Ball #11 is at (73.000, 25.439) moving (   0.0000,    4.9892)
+
+At time  3.2287:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.522) moving (   0.0000,   -0.5428)
+Ball # 8 is at (27.000, 10.478) moving (   0.0000,    0.5428)
+Ball # 9 is at (86.508, 25.000) moving (  -1.6190,    0.0000)
+Ball #10 is at (73.000, 24.505) moving (   0.0000,   -4.9458)
+Ball #11 is at (73.000, 25.495) moving (   0.0000,    4.9458)
+
+At time  3.2400:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.516) moving (   0.0000,   -0.4993)
+Ball # 8 is at (27.000, 10.484) moving (   0.0000,    0.4993)
+Ball # 9 is at (86.490, 25.000) moving (  -1.5756,    0.0000)
+Ball #10 is at (73.000, 24.449) moving (   0.0000,   -4.9024)
+Ball #11 is at (73.000, 25.551) moving (   0.0000,    4.9024)
+
+At time  3.2512:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.511) moving (   0.0000,   -0.4559)
+Ball # 8 is at (27.000, 10.489) moving (   0.0000,    0.4559)
+Ball # 9 is at (86.472, 25.000) moving (  -1.5322,    0.0000)
+Ball #10 is at (73.000, 24.394) moving (   0.0000,   -4.8589)
+Ball #11 is at (73.000, 25.606) moving (   0.0000,    4.8589)
+
+At time  3.2625:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.506) moving (   0.0000,   -0.4125)
+Ball # 8 is at (27.000, 10.494) moving (   0.0000,    0.4125)
+Ball # 9 is at (86.455, 25.000) moving (  -1.4887,    0.0000)
+Ball #10 is at (73.000, 24.339) moving (   0.0000,   -4.8155)
+Ball #11 is at (73.000, 25.661) moving (   0.0000,    4.8155)
+
+At time  3.2737:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.501) moving (   0.0000,   -0.3690)
+Ball # 8 is at (27.000, 10.499) moving (   0.0000,    0.3690)
+Ball # 9 is at (86.438, 25.000) moving (  -1.4453,    0.0000)
+Ball #10 is at (73.000, 24.285) moving (   0.0000,   -4.7721)
+Ball #11 is at (73.000, 25.715) moving (   0.0000,    4.7721)
+
+At time  3.2850:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.497) moving (   0.0000,   -0.3256)
+Ball # 8 is at (27.000, 10.503) moving (   0.0000,    0.3256)
+Ball # 9 is at (86.422, 25.000) moving (  -1.4019,    0.0000)
+Ball #10 is at (73.000, 24.231) moving (   0.0000,   -4.7286)
+Ball #11 is at (73.000, 25.769) moving (   0.0000,    4.7286)
+
+At time  3.2962:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.493) moving (   0.0000,   -0.2822)
+Ball # 8 is at (27.000, 10.507) moving (   0.0000,    0.2822)
+Ball # 9 is at (86.406, 25.000) moving (  -1.3584,    0.0000)
+Ball #10 is at (73.000, 24.178) moving (   0.0000,   -4.6852)
+Ball #11 is at (73.000, 25.822) moving (   0.0000,    4.6852)
+
+At time  3.3075:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.490) moving (   0.0000,   -0.2387)
+Ball # 8 is at (27.000, 10.510) moving (   0.0000,    0.2387)
+Ball # 9 is at (86.391, 25.000) moving (  -1.3150,    0.0000)
+Ball #10 is at (73.000, 24.126) moving (   0.0000,   -4.6418)
+Ball #11 is at (73.000, 25.874) moving (   0.0000,    4.6418)
+
+At time  3.3187:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.487) moving (   0.0000,   -0.1953)
+Ball # 8 is at (27.000, 10.513) moving (   0.0000,    0.1953)
+Ball # 9 is at (86.376, 25.000) moving (  -1.2716,    0.0000)
+Ball #10 is at (73.000, 24.073) moving (   0.0000,   -4.5983)
+Ball #11 is at (73.000, 25.927) moving (   0.0000,    4.5983)
+
+At time  3.3300:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.485) moving (   0.0000,   -0.1519)
+Ball # 8 is at (27.000, 10.515) moving (   0.0000,    0.1519)
+Ball # 9 is at (86.362, 25.000) moving (  -1.2281,    0.0000)
+Ball #10 is at (73.000, 24.022) moving (   0.0000,   -4.5549)
+Ball #11 is at (73.000, 25.978) moving (   0.0000,    4.5549)
+
+At time  3.3412:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.483) moving (   0.0000,   -0.1084)
+Ball # 8 is at (27.000, 10.517) moving (   0.0000,    0.1084)
+Ball # 9 is at (86.348, 25.000) moving (  -1.1847,    0.0000)
+Ball #10 is at (73.000, 23.970) moving (   0.0000,   -4.5115)
+Ball #11 is at (73.000, 26.030) moving (   0.0000,    4.5115)
+
+At time  3.3525:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.482) moving (   0.0000,   -0.0650)
+Ball # 8 is at (27.000, 10.518) moving (   0.0000,    0.0650)
+Ball # 9 is at (86.335, 25.000) moving (  -1.1413,    0.0000)
+Ball #10 is at (73.000, 23.920) moving (   0.0000,   -4.4680)
+Ball #11 is at (73.000, 26.080) moving (   0.0000,    4.4680)
+
+At time  3.3637:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0216)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0216)
+Ball # 9 is at (86.322, 25.000) moving (  -1.0978,    0.0000)
+Ball #10 is at (73.000, 23.869) moving (   0.0000,   -4.4246)
+Ball #11 is at (73.000, 26.131) moving (   0.0000,    4.4246)
+
+At time  3.3750:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.309, 25.000) moving (  -1.0544,    0.0000)
+Ball #10 is at (73.000, 23.820) moving (   0.0000,   -4.3811)
+Ball #11 is at (73.000, 26.180) moving (   0.0000,    4.3811)
+
+At time  3.3862:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.297, 25.000) moving (  -1.0110,    0.0000)
+Ball #10 is at (73.000, 23.770) moving (   0.0000,   -4.3377)
+Ball #11 is at (73.000, 26.230) moving (   0.0000,    4.3377)
+
+At time  3.3975:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.286, 25.000) moving (  -0.9675,    0.0000)
+Ball #10 is at (73.000, 23.721) moving (   0.0000,   -4.2943)
+Ball #11 is at (73.000, 26.279) moving (   0.0000,    4.2943)
+
+At time  3.4087:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.275, 25.000) moving (  -0.9241,    0.0000)
+Ball #10 is at (73.000, 23.673) moving (   0.0000,   -4.2508)
+Ball #11 is at (73.000, 26.327) moving (   0.0000,    4.2508)
+
+At time  3.4200:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.265, 25.000) moving (  -0.8806,    0.0000)
+Ball #10 is at (73.000, 23.625) moving (   0.0000,   -4.2074)
+Ball #11 is at (73.000, 26.375) moving (   0.0000,    4.2074)
+
+At time  3.4312:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.255, 25.000) moving (  -0.8372,    0.0000)
+Ball #10 is at (73.000, 23.578) moving (   0.0000,   -4.1640)
+Ball #11 is at (73.000, 26.422) moving (   0.0000,    4.1640)
+
+At time  3.4425:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.245, 25.000) moving (  -0.7938,    0.0000)
+Ball #10 is at (73.000, 23.531) moving (   0.0000,   -4.1205)
+Ball #11 is at (73.000, 26.469) moving (   0.0000,    4.1205)
+
+At time  3.4537:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.237, 25.000) moving (  -0.7503,    0.0000)
+Ball #10 is at (73.000, 23.485) moving (   0.0000,   -4.0771)
+Ball #11 is at (73.000, 26.515) moving (   0.0000,    4.0771)
+
+At time  3.4650:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.228, 25.000) moving (  -0.7069,    0.0000)
+Ball #10 is at (73.000, 23.439) moving (   0.0000,   -4.0337)
+Ball #11 is at (73.000, 26.561) moving (   0.0000,    4.0337)
+
+At time  3.4762:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.220, 25.000) moving (  -0.6635,    0.0000)
+Ball #10 is at (73.000, 23.394) moving (   0.0000,   -3.9902)
+Ball #11 is at (73.000, 26.606) moving (   0.0000,    3.9902)
+
+At time  3.4875:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.213, 25.000) moving (  -0.6200,    0.0000)
+Ball #10 is at (73.000, 23.349) moving (   0.0000,   -3.9468)
+Ball #11 is at (73.000, 26.651) moving (   0.0000,    3.9468)
+
+At time  3.4987:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.206, 25.000) moving (  -0.5766,    0.0000)
+Ball #10 is at (73.000, 23.304) moving (   0.0000,   -3.9034)
+Ball #11 is at (73.000, 26.696) moving (   0.0000,    3.9034)
+
+At time  3.5100:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.199, 25.000) moving (  -0.5332,    0.0000)
+Ball #10 is at (73.000, 23.260) moving (   0.0000,   -3.8599)
+Ball #11 is at (73.000, 26.740) moving (   0.0000,    3.8599)
+
+At time  3.5212:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.193, 25.000) moving (  -0.4897,    0.0000)
+Ball #10 is at (73.000, 23.217) moving (   0.0000,   -3.8165)
+Ball #11 is at (73.000, 26.783) moving (   0.0000,    3.8165)
+
+At time  3.5325:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.188, 25.000) moving (  -0.4463,    0.0000)
+Ball #10 is at (73.000, 23.174) moving (   0.0000,   -3.7731)
+Ball #11 is at (73.000, 26.826) moving (   0.0000,    3.7731)
+
+At time  3.5437:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.183, 25.000) moving (  -0.4029,    0.0000)
+Ball #10 is at (73.000, 23.132) moving (   0.0000,   -3.7296)
+Ball #11 is at (73.000, 26.868) moving (   0.0000,    3.7296)
+
+At time  3.5550:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.178, 25.000) moving (  -0.3594,    0.0000)
+Ball #10 is at (73.000, 23.090) moving (   0.0000,   -3.6862)
+Ball #11 is at (73.000, 26.910) moving (   0.0000,    3.6862)
+
+At time  3.5662:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.174, 25.000) moving (  -0.3160,    0.0000)
+Ball #10 is at (73.000, 23.048) moving (   0.0000,   -3.6428)
+Ball #11 is at (73.000, 26.952) moving (   0.0000,    3.6428)
+
+At time  3.5775:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.171, 25.000) moving (  -0.2726,    0.0000)
+Ball #10 is at (73.000, 23.007) moving (   0.0000,   -3.5993)
+Ball #11 is at (73.000, 26.993) moving (   0.0000,    3.5993)
+
+At time  3.5887:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.167, 25.000) moving (  -0.2291,    0.0000)
+Ball #10 is at (73.000, 22.967) moving (   0.0000,   -3.5559)
+Ball #11 is at (73.000, 27.033) moving (   0.0000,    3.5559)
+
+At time  3.6000:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.165, 25.000) moving (  -0.1857,    0.0000)
+Ball #10 is at (73.000, 22.927) moving (   0.0000,   -3.5124)
+Ball #11 is at (73.000, 27.073) moving (   0.0000,    3.5124)
+
+At time  3.6112:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.163, 25.000) moving (  -0.1423,    0.0000)
+Ball #10 is at (73.000, 22.887) moving (   0.0000,   -3.4690)
+Ball #11 is at (73.000, 27.113) moving (   0.0000,    3.4690)
+
+At time  3.6225:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.161, 25.000) moving (  -0.0988,    0.0000)
+Ball #10 is at (73.000, 22.848) moving (   0.0000,   -3.4256)
+Ball #11 is at (73.000, 27.152) moving (   0.0000,    3.4256)
+
+At time  3.6337:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.160, 25.000) moving (  -0.0554,    0.0000)
+Ball #10 is at (73.000, 22.810) moving (   0.0000,   -3.3821)
+Ball #11 is at (73.000, 27.190) moving (   0.0000,    3.3821)
+
+At time  3.6450:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0119,    0.0000)
+Ball #10 is at (73.000, 22.771) moving (   0.0000,   -3.3387)
+Ball #11 is at (73.000, 27.229) moving (   0.0000,    3.3387)
+
+At time  3.6562:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 22.734) moving (   0.0000,   -3.2953)
+Ball #11 is at (73.000, 27.266) moving (   0.0000,    3.2953)
+
+At time  3.6675:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 22.697) moving (   0.0000,   -3.2518)
+Ball #11 is at (73.000, 27.303) moving (   0.0000,    3.2518)
+
+At time  3.6787:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 22.660) moving (   0.0000,   -3.2084)
+Ball #11 is at (73.000, 27.340) moving (   0.0000,    3.2084)
+
+At time  3.6900:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 22.624) moving (   0.0000,   -3.1650)
+Ball #11 is at (73.000, 27.376) moving (   0.0000,    3.1650)
+
+At time  3.7012:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 22.589) moving (   0.0000,   -3.1215)
+Ball #11 is at (73.000, 27.411) moving (   0.0000,    3.1215)
+
+At time  3.7125:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 22.553) moving (   0.0000,   -3.0781)
+Ball #11 is at (73.000, 27.447) moving (   0.0000,    3.0781)
+
+At time  3.7237:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 22.519) moving (   0.0000,   -3.0347)
+Ball #11 is at (73.000, 27.481) moving (   0.0000,    3.0347)
+
+At time  3.7350:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 22.485) moving (   0.0000,   -2.9912)
+Ball #11 is at (73.000, 27.515) moving (   0.0000,    2.9912)
+
+At time  3.7462:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 22.451) moving (   0.0000,   -2.9478)
+Ball #11 is at (73.000, 27.549) moving (   0.0000,    2.9478)
+
+At time  3.7575:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 22.418) moving (   0.0000,   -2.9044)
+Ball #11 is at (73.000, 27.582) moving (   0.0000,    2.9044)
+
+At time  3.7687:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 22.385) moving (   0.0000,   -2.8609)
+Ball #11 is at (73.000, 27.615) moving (   0.0000,    2.8609)
+
+At time  3.7800:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 22.353) moving (   0.0000,   -2.8175)
+Ball #11 is at (73.000, 27.647) moving (   0.0000,    2.8175)
+
+At time  3.7912:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 22.321) moving (   0.0000,   -2.7741)
+Ball #11 is at (73.000, 27.679) moving (   0.0000,    2.7741)
+
+At time  3.8025:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 22.290) moving (   0.0000,   -2.7306)
+Ball #11 is at (73.000, 27.710) moving (   0.0000,    2.7306)
+
+At time  3.8137:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 22.259) moving (   0.0000,   -2.6872)
+Ball #11 is at (73.000, 27.741) moving (   0.0000,    2.6872)
+
+At time  3.8250:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 22.229) moving (   0.0000,   -2.6437)
+Ball #11 is at (73.000, 27.771) moving (   0.0000,    2.6437)
+
+At time  3.8362:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 22.199) moving (   0.0000,   -2.6003)
+Ball #11 is at (73.000, 27.801) moving (   0.0000,    2.6003)
+
+At time  3.8475:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 22.170) moving (   0.0000,   -2.5569)
+Ball #11 is at (73.000, 27.830) moving (   0.0000,    2.5569)
+
+At time  3.8587:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 22.141) moving (   0.0000,   -2.5134)
+Ball #11 is at (73.000, 27.859) moving (   0.0000,    2.5134)
+
+At time  3.8700:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 22.113) moving (   0.0000,   -2.4700)
+Ball #11 is at (73.000, 27.887) moving (   0.0000,    2.4700)
+
+At time  3.8812:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 22.085) moving (   0.0000,   -2.4266)
+Ball #11 is at (73.000, 27.915) moving (   0.0000,    2.4266)
+
+At time  3.8925:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 22.058) moving (   0.0000,   -2.3831)
+Ball #11 is at (73.000, 27.942) moving (   0.0000,    2.3831)
+
+At time  3.9037:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 22.031) moving (   0.0000,   -2.3397)
+Ball #11 is at (73.000, 27.969) moving (   0.0000,    2.3397)
+
+At time  3.9150:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 22.005) moving (   0.0000,   -2.2963)
+Ball #11 is at (73.000, 27.995) moving (   0.0000,    2.2963)
+
+At time  3.9262:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 21.979) moving (   0.0000,   -2.2528)
+Ball #11 is at (73.000, 28.021) moving (   0.0000,    2.2528)
+
+At time  3.9375:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 21.954) moving (   0.0000,   -2.2094)
+Ball #11 is at (73.000, 28.046) moving (   0.0000,    2.2094)
+
+At time  3.9487:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 21.929) moving (   0.0000,   -2.1660)
+Ball #11 is at (73.000, 28.071) moving (   0.0000,    2.1660)
+
+At time  3.9600:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 21.904) moving (   0.0000,   -2.1225)
+Ball #11 is at (73.000, 28.096) moving (   0.0000,    2.1225)
+
+At time  3.9712:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 21.881) moving (   0.0000,   -2.0791)
+Ball #11 is at (73.000, 28.119) moving (   0.0000,    2.0791)
+
+At time  3.9825:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 21.857) moving (   0.0000,   -2.0357)
+Ball #11 is at (73.000, 28.143) moving (   0.0000,    2.0357)
+
+At time  3.9937:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 21.834) moving (   0.0000,   -1.9922)
+Ball #11 is at (73.000, 28.166) moving (   0.0000,    1.9922)
+
+At time  4.0050:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 21.812) moving (   0.0000,   -1.9488)
+Ball #11 is at (73.000, 28.188) moving (   0.0000,    1.9488)
+
+At time  4.0162:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 21.790) moving (   0.0000,   -1.9054)
+Ball #11 is at (73.000, 28.210) moving (   0.0000,    1.9054)
+
+At time  4.0275:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 21.769) moving (   0.0000,   -1.8619)
+Ball #11 is at (73.000, 28.231) moving (   0.0000,    1.8619)
+
+At time  4.0387:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 21.748) moving (   0.0000,   -1.8185)
+Ball #11 is at (73.000, 28.252) moving (   0.0000,    1.8185)
+
+At time  4.0500:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 21.727) moving (   0.0000,   -1.7750)
+Ball #11 is at (73.000, 28.273) moving (   0.0000,    1.7750)
+
+At time  4.0612:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 21.707) moving (   0.0000,   -1.7316)
+Ball #11 is at (73.000, 28.293) moving (   0.0000,    1.7316)
+
+At time  4.0725:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 21.688) moving (   0.0000,   -1.6882)
+Ball #11 is at (73.000, 28.312) moving (   0.0000,    1.6882)
+
+At time  4.0837:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 21.669) moving (   0.0000,   -1.6447)
+Ball #11 is at (73.000, 28.331) moving (   0.0000,    1.6447)
+
+At time  4.0950:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 21.650) moving (   0.0000,   -1.6013)
+Ball #11 is at (73.000, 28.350) moving (   0.0000,    1.6013)
+
+At time  4.1062:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 21.632) moving (   0.0000,   -1.5579)
+Ball #11 is at (73.000, 28.368) moving (   0.0000,    1.5579)
+
+At time  4.1175:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 21.615) moving (   0.0000,   -1.5144)
+Ball #11 is at (73.000, 28.385) moving (   0.0000,    1.5144)
+
+At time  4.1287:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 21.598) moving (   0.0000,   -1.4710)
+Ball #11 is at (73.000, 28.402) moving (   0.0000,    1.4710)
+
+At time  4.1400:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 21.581) moving (   0.0000,   -1.4276)
+Ball #11 is at (73.000, 28.419) moving (   0.0000,    1.4276)
+
+At time  4.1513:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 21.565) moving (   0.0000,   -1.3841)
+Ball #11 is at (73.000, 28.435) moving (   0.0000,    1.3841)
+
+At time  4.1625:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 21.549) moving (   0.0000,   -1.3407)
+Ball #11 is at (73.000, 28.451) moving (   0.0000,    1.3407)
+
+At time  4.1738:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 21.534) moving (   0.0000,   -1.2973)
+Ball #11 is at (73.000, 28.466) moving (   0.0000,    1.2973)
+
+At time  4.1850:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 21.520) moving (   0.0000,   -1.2538)
+Ball #11 is at (73.000, 28.480) moving (   0.0000,    1.2538)
+
+At time  4.1963:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 21.506) moving (   0.0000,   -1.2104)
+Ball #11 is at (73.000, 28.494) moving (   0.0000,    1.2104)
+
+At time  4.2075:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 21.492) moving (   0.0000,   -1.1670)
+Ball #11 is at (73.000, 28.508) moving (   0.0000,    1.1670)
+
+At time  4.2188:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 21.479) moving (   0.0000,   -1.1235)
+Ball #11 is at (73.000, 28.521) moving (   0.0000,    1.1235)
+
+At time  4.2300:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 21.466) moving (   0.0000,   -1.0801)
+Ball #11 is at (73.000, 28.534) moving (   0.0000,    1.0801)
+
+At time  4.2413:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 21.454) moving (   0.0000,   -1.0367)
+Ball #11 is at (73.000, 28.546) moving (   0.0000,    1.0367)
+
+At time  4.2525:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 21.442) moving (   0.0000,   -0.9932)
+Ball #11 is at (73.000, 28.558) moving (   0.0000,    0.9932)
+
+At time  4.2638:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 21.431) moving (   0.0000,   -0.9498)
+Ball #11 is at (73.000, 28.569) moving (   0.0000,    0.9498)
+
+At time  4.2750:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 21.421) moving (   0.0000,   -0.9063)
+Ball #11 is at (73.000, 28.579) moving (   0.0000,    0.9063)
+
+At time  4.2863:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 21.410) moving (   0.0000,   -0.8629)
+Ball #11 is at (73.000, 28.590) moving (   0.0000,    0.8629)
+
+At time  4.2975:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 21.401) moving (   0.0000,   -0.8195)
+Ball #11 is at (73.000, 28.599) moving (   0.0000,    0.8195)
+
+At time  4.3088:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 21.391) moving (   0.0000,   -0.7760)
+Ball #11 is at (73.000, 28.609) moving (   0.0000,    0.7760)
+
+At time  4.3200:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 21.383) moving (   0.0000,   -0.7326)
+Ball #11 is at (73.000, 28.617) moving (   0.0000,    0.7326)
+
+At time  4.3313:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 21.375) moving (   0.0000,   -0.6892)
+Ball #11 is at (73.000, 28.625) moving (   0.0000,    0.6892)
+
+At time  4.3425:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 21.367) moving (   0.0000,   -0.6457)
+Ball #11 is at (73.000, 28.633) moving (   0.0000,    0.6457)
+
+At time  4.3538:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 21.359) moving (   0.0000,   -0.6023)
+Ball #11 is at (73.000, 28.641) moving (   0.0000,    0.6023)
+
+At time  4.3650:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 21.353) moving (   0.0000,   -0.5589)
+Ball #11 is at (73.000, 28.647) moving (   0.0000,    0.5589)
+
+At time  4.3763:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 21.346) moving (   0.0000,   -0.5154)
+Ball #11 is at (73.000, 28.654) moving (   0.0000,    0.5154)
+
+At time  4.3875:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 21.341) moving (   0.0000,   -0.4720)
+Ball #11 is at (73.000, 28.659) moving (   0.0000,    0.4720)
+
+At time  4.3988:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 21.335) moving (   0.0000,   -0.4286)
+Ball #11 is at (73.000, 28.665) moving (   0.0000,    0.4286)
+
+At time  4.4100:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 21.330) moving (   0.0000,   -0.3851)
+Ball #11 is at (73.000, 28.670) moving (   0.0000,    0.3851)
+
+At time  4.4213:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 21.326) moving (   0.0000,   -0.3417)
+Ball #11 is at (73.000, 28.674) moving (   0.0000,    0.3417)
+
+At time  4.4325:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 21.322) moving (   0.0000,   -0.2983)
+Ball #11 is at (73.000, 28.678) moving (   0.0000,    0.2983)
+
+At time  4.4438:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 21.319) moving (   0.0000,   -0.2548)
+Ball #11 is at (73.000, 28.681) moving (   0.0000,    0.2548)
+
+At time  4.4550:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 21.316) moving (   0.0000,   -0.2114)
+Ball #11 is at (73.000, 28.684) moving (   0.0000,    0.2114)
+
+At time  4.4663:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 21.314) moving (   0.0000,   -0.1680)
+Ball #11 is at (73.000, 28.686) moving (   0.0000,    0.1680)
+
+At time  4.4775:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 21.312) moving (   0.0000,   -0.1245)
+Ball #11 is at (73.000, 28.688) moving (   0.0000,    0.1245)
+
+At time  4.4888:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 21.310) moving (   0.0000,   -0.0811)
+Ball #11 is at (73.000, 28.690) moving (   0.0000,    0.0811)
+
+At time  4.5000:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 21.310) moving (   0.0000,   -0.0377)
+Ball #11 is at (73.000, 28.690) moving (   0.0000,    0.0377)
+
+At time  4.5113:
+Ball # 6 is at ( 5.746, 25.000) moving (   0.0000,    0.0000)
+Ball # 7 is at (27.000, 39.481) moving (   0.0000,   -0.0000)
+Ball # 8 is at (27.000, 10.519) moving (   0.0000,    0.0000)
+Ball # 9 is at (86.159, 25.000) moving (  -0.0000,    0.0000)
+Ball #10 is at (73.000, 21.309) moving (   0.0000,   -0.0000)
+Ball #11 is at (73.000, 28.691) moving (   0.0000,    0.0000)
+
+Simulation ends at sim elapsed time of  4.5113 seconds.
+DIAGNOSTIC: 11 balls freed.
+DIAGNOSTIC: 11 nodes freed.
+DIAGNOSTIC: 12 balls freed.
+DIAGNOSTIC: 12 nodes freed.
+DIAGNOSTIC: 13 balls freed.
+DIAGNOSTIC: 13 nodes freed.
+DIAGNOSTIC: 14 balls freed.
+DIAGNOSTIC: 14 nodes freed.
+DIAGNOSTIC: 15 balls freed.
+DIAGNOSTIC: 15 nodes freed.
+DIAGNOSTIC: 16 balls freed.
+DIAGNOSTIC: 16 nodes freed.
+Total run time is 0.006031752 seconds.
