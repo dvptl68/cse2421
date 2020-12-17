@@ -6,6 +6,7 @@ liblinkedlist.a
 linkedlist.h
 reliable.o
 unreliable.o
+altmem.h
 node.h
 1ball
 16balls
